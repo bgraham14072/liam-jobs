@@ -1,79 +1,7 @@
 {
-  "last_updated": "2026-04-19T11:10:08+00:00",
-  "total": 42,
+  "last_updated": "2026-04-20T11:00:00+00:00",
+  "total": 26,
   "jobs": [
-    {
-      "id": "m-t-bank-api-services-senior-software-engineer-java-spring-boot-hybrid-buffalo-n",
-      "title": "API Services - Senior Software Engineer - Java, Spring Boot",
-      "company": "M&T Bank",
-      "location": "Buffalo, NY",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2025-03-17",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/q-senior-software-engineer-l-buffalo,-ny-jobs.html",
-      "description_snippet": "Design and maintain API services using Java and Spring Boot; collaborate with cross-functional teams and vendors.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "SQL",
-        "Microservices",
-        "Agile"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)",
-        "PTO"
-      ],
-      "match_score": 95,
-      "match_reasons": [
-        "Exact Java/Spring Boot match",
-        "Banking enterprise",
-        "Buffalo/WNY location"
-      ]
-    },
-    {
-      "id": "jobs-via-dice-senior-java-spring-boot-developer-remote-remote-usa",
-      "title": "Senior Java Spring Boot Developer",
-      "company": "Jobs via Dice",
-      "location": "Remote (USA)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-02-22",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/sr-java-springboot-developer-at-jobs-via-dice-4370716481",
-      "description_snippet": "Design scalable backend systems with Spring Boot microservices, cloud-native architectures, and data stores like MongoDB.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "Microservices",
-        "AWS",
-        "Kafka",
-        "MongoDB"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 92,
-      "match_reasons": [
-        "Heavy Java/Spring Boot",
-        "Microservices + cloud"
-      ]
-    },
     {
       "id": "allstate-senior-product-eng-java-042026",
       "title": "Senior Product Engineer (Software/Java)",
@@ -319,85 +247,6 @@
       ]
     },
     {
-      "id": "mtb-se2-api-java-042026",
-      "title": "Software Engineer \u2013 Angular/Java/Spring Boot",
-      "company": "M&T Bank",
-      "location": "Buffalo, NY (Hybrid)",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-02-17",
-      "salary_min": 93581,
-      "salary_max": 155969,
-      "salary_text": "$93,581 - $155,969/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "Built In",
-      "url": "https://builtin.com/job/software-engineer-api-java-spring-boot/3133496",
-      "description_snippet": "API-focused software engineer role at M&T Bank enabling bank-wide capabilities and securely hosting APIs. Work on defining API ecosystem direction, ensuring security alignment with overall API strategy. Hybrid schedule with 3 days onsite / 2 days remote.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "CI/CD",
-        "Angular",
-        "Git",
-        "API Security"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision (standard at company)",
-        "401k match",
-        "Paid time off"
-      ],
-      "match_score": 85,
-      "match_reasons": [
-        "Java + Spring Boot + REST APIs \u2014 direct skill match",
-        "WNY local Buffalo hybrid schedule",
-        "Healthcare benefits at M&T Bank",
-        "5+ years experience requirement fits profile"
-      ]
-    },
-    {
-      "id": "fico-se-java-aws-042026",
-      "title": "Software Engineer \u2013 Java, AWS, Kubernetes",
-      "company": "FICO",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-02-04",
-      "salary_min": 87000,
-      "salary_max": 136000,
-      "salary_text": "$87,000 - $136,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-java-aws-kubernetes-at-fico-4366060172",
-      "description_snippet": "Contribute to design, development, and enhancement of core platform services for FICO's Decision Management Platform. Build scalable, secure Java/Spring Boot microservices using AWS and Kubernetes. IAM focus with OAuth 2.0, OIDC, JWT \u2014 cloud-native containerized environment with CI/CD.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "AWS",
-        "Kubernetes",
-        "Docker",
-        "REST APIs",
-        "CI/CD"
-      ],
-      "benefits_highlights": [
-        "Medical benefits (standard at public company)",
-        "401k",
-        "Remote work",
-        "Equity/bonus"
-      ],
-      "match_score": 85,
-      "match_reasons": [
-        "Java + Spring Boot + REST APIs + Docker + Kubernetes direct match",
-        "Fully remote, NY-resident eligible",
-        "Healthcare benefits standard at FICO",
-        "CI/CD + Agile experience applicable"
-      ]
-    },
-    {
       "id": "motorola-senior-se-java-042026",
       "title": "Senior Software Engineer (Java + Cloud-Native)",
       "company": "Motorola Solutions",
@@ -476,89 +325,6 @@
       ]
     },
     {
-      "id": "conduent-senior-se-java-042026",
-      "title": "Senior Software Engineer (Java)",
-      "company": "Conduent",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-03-04",
-      "salary_min": 105875,
-      "salary_max": 130000,
-      "salary_text": "$105,875 - $130,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Company Site",
-      "url": "https://careers.conduent.com/us/en/job/12935/Senior-Software-Engineer-java",
-      "description_snippet": "Design, develop, and maintain scalable Java-based web applications and microservices at Conduent. Object-Oriented Programming and design patterns required. Requires strong Java experience, REST/SOAP web services, and up to 10% travel. Full-time remote role based in the US.",
-      "key_skills": [
-        "Java",
-        "REST APIs",
-        "SOAP",
-        "Microservices",
-        "SQL",
-        "OOP Design Patterns",
-        "Agile"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k",
-        "Paid training",
-        "Paid time off",
-        "Vision insurance",
-        "Dental insurance",
-        "Disability insurance"
-      ],
-      "match_score": 83,
-      "match_reasons": [
-        "Java + REST + SOAP + Microservices \u2014 matches SOAP and REST experience",
-        "Fully remote, NY-resident eligible",
-        "Health insurance benefits confirmed",
-        "OOP and design patterns experience directly applicable"
-      ]
-    },
-    {
-      "id": "anthem-se2-remote-java-042026",
-      "title": "Software Engineer II",
-      "company": "Elevance Health (Anthem)",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-02-01",
-      "salary_min": 108800,
-      "salary_max": 155400,
-      "salary_text": "$108,800 - $155,400/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/q-elevance-health-software-engineer-jobs.html",
-      "description_snippet": "Software Engineer building scalable enterprise healthcare applications at Elevance Health (formerly Anthem). Requires Java, Python, or Ruby experience with modern JS frameworks (React/Angular), AWS, relational and NoSQL databases, Docker, Kubernetes, and Agile. Full-time remote role.",
-      "key_skills": [
-        "Java",
-        "Python",
-        "React",
-        "SQL",
-        "AWS",
-        "Docker",
-        "Kubernetes"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision (health insurer \u2014 exceptional coverage)",
-        "401k",
-        "Paid time off",
-        "Annual bonus"
-      ],
-      "match_score": 83,
-      "match_reasons": [
-        "Java + Python + React + SQL + Docker + Kubernetes skills match",
-        "Fully remote, NY-resident eligible",
-        "Outstanding healthcare benefits at leading health insurer",
-        "SE II exact title match"
-      ]
-    },
-    {
       "id": "mtb-se3-buffalo-042026",
       "title": "Software Engineer III",
       "company": "M&T Bank",
@@ -597,45 +363,6 @@
         "Java + Spring Boot core stack \u2014 perfect alignment",
         "WNY local Buffalo HQ",
         "Healthcare benefits at large established bank"
-      ]
-    },
-    {
-      "id": "anthology-se2-remote-042026",
-      "title": "Software Engineer I (Mid-level)",
-      "company": "Anthology Inc. (Campus Labs parent)",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-01-22",
-      "salary_min": 95600,
-      "salary_max": 143400,
-      "salary_text": "$95,600 - $143,400/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-anthology-inc-4365176250",
-      "description_snippet": "Full-stack developer role for Anthology's LMS platform (Blackboard) supporting learners and instructors. Work in an agile environment on web/mobile solutions with Java, React, and microservices. Role involves cloud-based software and production troubleshooting.",
-      "key_skills": [
-        "Java",
-        "React",
-        "SQL",
-        "REST APIs",
-        "Microservices",
-        "AWS",
-        "Git"
-      ],
-      "benefits_highlights": [
-        "Medical benefits (standard at established company)",
-        "401k",
-        "Remote work"
-      ],
-      "match_score": 82,
-      "match_reasons": [
-        "Java + React + SQL + REST APIs exact skill match",
-        "Fully remote \u2014 NY-resident eligible",
-        "Campus Labs connection (WNY-rooted parent company)",
-        "Microservices and agile experience directly applicable"
       ]
     },
     {
@@ -712,45 +439,6 @@
         "Java/Python/JS",
         "React + REST",
         "Healthcare enterprise"
-      ]
-    },
-    {
-      "id": "meridianlink-fsse2-java-angular-042026",
-      "title": "Full-Stack Software Development Engineer II (Java and Angular)",
-      "company": "MeridianLink",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-02-27",
-      "salary_min": 108800,
-      "salary_max": 155400,
-      "salary_text": "$108,800 - $155,400/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/full-stack-software-development-engineer-ii-java-and-angular-at-meridianlink-4378386155",
-      "description_snippet": "Full-stack SDE II at MeridianLink building enterprise web apps with Angular (2+) on the front end and Java/Spring Boot on the back end. Requires 2+ years Angular, 3+ years Java/J2EE with Spring Boot, Spring JPA/Hibernate, RESTful services, Docker, Kubernetes, and CI/CD pipelines.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "Angular",
-        "JavaScript",
-        "REST APIs",
-        "Docker",
-        "Kubernetes"
-      ],
-      "benefits_highlights": [
-        "Medical benefits (standard at established fintech company)",
-        "401k",
-        "Remote work"
-      ],
-      "match_score": 81,
-      "match_reasons": [
-        "Java + Spring Boot + REST APIs + Docker + Kubernetes direct match",
-        "SE II title exact match",
-        "Fully remote, NY-resident eligible",
-        "JavaScript/Angular builds on JS skills"
       ]
     },
     {
@@ -832,46 +520,6 @@
         "Remote-eligible for Buffalo residents",
         "Healthcare benefits via Highmark subsidiary",
         "Agile/Scrum directly applicable"
-      ]
-    },
-    {
-      "id": "fico-senior-java-ecomm-042026",
-      "title": "Senior Java Engineer (E-Commerce/AWS/Spring Boot/Kubernetes)",
-      "company": "FICO",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-02-20",
-      "salary_min": 105000,
-      "salary_max": 165000,
-      "salary_text": "$105,000 - $165,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-java-engineer-e-commerce-aws-spring-boot-kubernetes-at-fico-4319780015",
-      "description_snippet": "Senior Java engineer for FICO's consumer-facing myFICO.com platform. Lead technical architecture and design decisions for high-traffic applications, build Java/Spring Boot microservices on AWS/Kubernetes supporting thousands of concurrent users. Requires Java 8+ and e-commerce/subscription system experience.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "AWS",
-        "Kubernetes",
-        "Docker",
-        "Microservices",
-        "SQL"
-      ],
-      "benefits_highlights": [
-        "Medical benefits (standard at public company)",
-        "401k",
-        "Remote work",
-        "Annual bonus"
-      ],
-      "match_score": 80,
-      "match_reasons": [
-        "Java + Spring Boot + Microservices + Docker skills directly match",
-        "Fully remote, NY-resident eligible",
-        "Healthcare benefits at FICO",
-        "Senior-level seniority matches experience"
       ]
     },
     {
@@ -1001,42 +649,6 @@
       ]
     },
     {
-      "id": "acv-auctions-full-stack-software-engineer-iii-clearcar-remote-remote-usa",
-      "title": "Full Stack Software Engineer III, ClearCar",
-      "company": "ACV Auctions",
-      "location": "Remote (USA)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-01-04",
-      "salary_min": 105000,
-      "salary_max": null,
-      "salary_text": "$105,000 - $158,000 / year",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level SE II",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/cmp/Acv-Auctions/jobs/l-Remote",
-      "description_snippet": "ACV Auctions remote engineering roles; summary page lists current openings and pay ranges.",
-      "key_skills": [
-        "React",
-        "AWS",
-        "APIs",
-        "CI/CD",
-        "Agile",
-        "Microservices"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)",
-        "PTO"
-      ],
-      "match_score": 78,
-      "match_reasons": [
-        "Established WNY employer",
-        "Remote option"
-      ]
-    },
-    {
       "id": "national-fuel-erp-developer-042026",
       "title": "ERP Software Developer",
       "company": "National Fuel Gas Company",
@@ -1080,126 +692,6 @@
       ]
     },
     {
-      "id": "mpulse-se3-java-remote-042026",
-      "title": "Software Engineer III \u2013 Java",
-      "company": "mPulse Mobile",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-03-01",
-      "salary_min": 138000,
-      "salary_max": 174000,
-      "salary_text": "$138,000 - $174,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Senior (SE III)",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/viewjob?jk=79d836bfe93f6b93",
-      "description_snippet": "Software Engineer III maintaining and extending capabilities of mPulse Mobile's healthcare technology platform. Develop and enhance Java-based features for mobile engagement platform. Full-time remote role with a competitive compensation range.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "Microservices",
-        "SQL",
-        "Git",
-        "Agile"
-      ],
-      "benefits_highlights": [
-        "Medical benefits (standard at healthcare tech company)",
-        "401k",
-        "Remote work"
-      ],
-      "match_score": 78,
-      "match_reasons": [
-        "SE III exact title match",
-        "Java + Spring Boot + REST APIs core skills apply",
-        "Fully remote, NY-resident eligible",
-        "Healthcare mobile tech aligns with strong backend Java experience"
-      ]
-    },
-    {
-      "id": "anthem-fullstack-se-remote-042026",
-      "title": "Full Stack Software Engineer",
-      "company": "Elevance Health (Anthem Engineering)",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-01-15",
-      "salary_min": 95000,
-      "salary_max": 145000,
-      "salary_text": "Estimated $95,000 - $145,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/q-elevance-health-software-engineer-jobs.html",
-      "description_snippet": "Full-stack engineer at Anthem Engineering building large-scale healthcare software. Newer UI components in React and TypeScript, older ones in Java and C++. Experience with Java and/or C++ required. Focus on scalable backend services and modern frontend interfaces. Clearance may be required for some programs.",
-      "key_skills": [
-        "Java",
-        "React",
-        "TypeScript",
-        "SQL",
-        "REST APIs",
-        "Docker",
-        "CI/CD"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision (health insurer)",
-        "401k",
-        "Paid time off",
-        "Annual bonus"
-      ],
-      "match_score": 77,
-      "match_reasons": [
-        "Java + React + TypeScript + SQL skills apply",
-        "Fully remote, NY-resident eligible",
-        "Outstanding healthcare benefits at Anthem/Elevance",
-        "Full-stack scope matches Liam's breadth"
-      ]
-    },
-    {
-      "id": "thunderyard-mid-java-va-042026",
-      "title": "Mid Java Developer \u2013 Veterans Affairs (Remote)",
-      "company": "ThunderYard Solutions",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-03-01",
-      "salary_min": 90000,
-      "salary_max": 100000,
-      "salary_text": "$90,000 - $100,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/q-thunderyard-solutions-l-remote-jobs.html",
-      "description_snippet": "Mid-level Java developer supporting Veterans Affairs software development and evaluation. Analyze needs and develop solutions considering current architecture. Opportunity to gain skills in automation and development while supporting veteran-serving software. VA background investigation may be required.",
-      "key_skills": [
-        "Java",
-        "REST APIs",
-        "SQL",
-        "Git",
-        "Agile",
-        "JIRA",
-        "Automated Testing"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k with matching",
-        "Paid time off",
-        "Professional development assistance",
-        "Referral program"
-      ],
-      "match_score": 76,
-      "match_reasons": [
-        "Java mid-level role fits experience profile",
-        "Fully remote, NY-resident eligible",
-        "Health insurance benefits confirmed",
-        "Government tech sector with stable employment"
-      ]
-    },
-    {
       "id": "boeing-se-fullstack-java-aws-042026",
       "title": "Java Full Stack and AWS DevOps Developer (Mid-Level or Senior)",
       "company": "The Boeing Company",
@@ -1239,6 +731,80 @@
         "Fully remote (virtual), NY-resident eligible",
         "Healthcare benefits at major aerospace employer",
         "DevOps experience via Jenkins and Docker applies"
+      ]
+    },
+    {
+      "id": "dataannotation-full-stack-developer-kotlin-or-java-remote",
+      "title": "Full Stack Developer (Kotlin or Java)",
+      "company": "DataAnnotation",
+      "location": "United States",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-01",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Projects paid hourly, starting at $40+ USD per hour",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-developer-kotlin-or-java-at-dataannotation-4334609314",
+      "description_snippet": "Remote programming role to help advance AI development; seeks proficiency in Kotlin or Java and other languages like React/Python. Projects are paid hourly starting at $40+ USD per hour.",
+      "key_skills": [
+        "Java",
+        "Kotlin",
+        "React",
+        "Python",
+        "TypeScript",
+        "REST APIs",
+        "Software Engineering"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 75,
+      "match_reasons": [
+        "Java backend fit",
+        "Fully remote US"
+      ]
+    },
+    {
+      "id": "moog-software-engineer-r-26-16735-hybrid-buffalo-ny",
+      "title": "Software Engineer",
+      "company": "Moog",
+      "location": "Buffalo, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-03-16",
+      "salary_min": 116200,
+      "salary_max": 167600,
+      "salary_text": "$116,200 - $167,600",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "Moog Careers (Workday)",
+      "url": "https://moog.wd5.myworkdayjobs.com/en-US/MOOG_External_Career_Site/job/Software-Engineer_R-26-16735",
+      "description_snippet": "Moog is looking for a Software Engineer to join their team. Role is listed as Hybrid in Buffalo, NY, and is a full-time position.",
+      "key_skills": [
+        "Java",
+        "REST APIs",
+        "SQL",
+        "Software Engineering",
+        "Testing",
+        "CI/CD",
+        "Git"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)",
+        "Paid time off"
+      ],
+      "match_score": 73,
+      "match_reasons": [
+        "WNY area / hybrid",
+        "Java backend fit",
+        "SQL/database work"
       ]
     },
     {
@@ -1324,85 +890,6 @@
       ]
     },
     {
-      "id": "acv-auctions-software-engineer-iii-acv-capital-remote-remote-usa",
-      "title": "Software Engineer III, ACV Capital",
-      "company": "ACV Auctions",
-      "location": "Remote (USA)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-01-04",
-      "salary_min": 105000,
-      "salary_max": null,
-      "salary_text": "$105,000 - $158,000 / year",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level SE II",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/cmp/Acv-Auctions/jobs/l-Remote",
-      "description_snippet": "ACV Auctions remote engineering roles; summary page lists current openings and pay ranges.",
-      "key_skills": [
-        "React",
-        "AWS",
-        "APIs",
-        "CI/CD",
-        "Agile",
-        "Microservices"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)",
-        "PTO"
-      ],
-      "match_score": 70,
-      "match_reasons": [
-        "Established WNY employer",
-        "Remote option"
-      ]
-    },
-    {
-      "id": "northrop-grumman-se-amherst-042026",
-      "title": "Software Engineer (Level 2/3)",
-      "company": "Northrop Grumman",
-      "location": "Amherst, NY (Hybrid)",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-03-01",
-      "salary_min": 91800,
-      "salary_max": 137600,
-      "salary_text": "$91,800 - $137,600/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "Indeed",
-      "url": "https://www.northropgrumman.com/careers/amherst",
-      "description_snippet": "Software engineer at Northrop Grumman's Amherst, NY campus (WNY suburb of Buffalo) working on aerospace and defense software. Flexible work options including 9/80 schedule and hybrid telework. Comprehensive benefits and growth opportunities in defense tech.",
-      "key_skills": [
-        "Java",
-        "C++",
-        "Python",
-        "Linux",
-        "Docker",
-        "Agile",
-        "Microservices"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k with match",
-        "Paid parental leave",
-        "Paid holidays",
-        "Disability insurance",
-        "Tuition reimbursement",
-        "Paid time off"
-      ],
-      "match_score": 70,
-      "match_reasons": [
-        "WNY local \u2014 Amherst NY (Buffalo suburb)",
-        "Full benefits confirmed including medical and parental leave",
-        "Java + Python applicable; C++ and aerospace domain differ",
-        "Large established defense contractor"
-      ]
-    },
-    {
       "id": "delaware-north-data-engineer-042026",
       "title": "Engineer, Enterprise Data Management",
       "company": "Delaware North",
@@ -1442,42 +929,6 @@
         "Full benefits confirmed including medical and parental leave",
         "Python + SQL core skills directly applicable",
         "Delaware North is a reputable WNY employer"
-      ]
-    },
-    {
-      "id": "acv-auctions-staff-software-engineer-transportation-remote-remote-usa",
-      "title": "Staff Software Engineer, Transportation",
-      "company": "ACV Auctions",
-      "location": "Remote (USA)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-01-04",
-      "salary_min": 165000,
-      "salary_max": null,
-      "salary_text": "$165,000 - $190,000 / year",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/cmp/Acv-Auctions/jobs/l-Remote",
-      "description_snippet": "ACV Auctions remote engineering roles; summary page lists current openings and pay ranges.",
-      "key_skills": [
-        "React",
-        "AWS",
-        "APIs",
-        "CI/CD",
-        "Agile",
-        "Microservices"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)",
-        "PTO"
-      ],
-      "match_score": 70,
-      "match_reasons": [
-        "Established WNY employer",
-        "Remote option"
       ]
     },
     {
@@ -1560,86 +1011,6 @@
         "Full benefits including medical and parental leave",
         "Java/Python applicable; aerospace domain differs",
         "Established defense contractor with stable employment"
-      ]
-    },
-    {
-      "id": "moog-cax-developer-042026",
-      "title": "CAx Developer (Software Solutions)",
-      "company": "Moog Inc.",
-      "location": "East Aurora / Buffalo, NY",
-      "location_type": "Onsite",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-02-01",
-      "salary_min": 90000,
-      "salary_max": 130000,
-      "salary_text": "$90,000 - $130,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/q-moog-software-l-buffalo,-ny-jobs.html",
-      "description_snippet": "Software developer building software solutions for Moog's Military Aircraft Group in East Aurora, NY (WNY suburb). Develop and maintain tooling for field requests from engineering teams. Requires proven experience in software solution development.",
-      "key_skills": [
-        "Software Development",
-        "CAD/Engineering Software",
-        "Python",
-        "Java",
-        "API Development",
-        "SQL"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k with match",
-        "Employee stock purchase plan",
-        "Parental leave",
-        "Tuition reimbursement",
-        "Open paid time off"
-      ],
-      "match_score": 65,
-      "match_reasons": [
-        "WNY local \u2014 East Aurora/Buffalo area",
-        "Full comprehensive benefits confirmed",
-        "Python/Java applicable; specialty CAD domain differs",
-        "Stable employer with strong WNY presence"
-      ]
-    },
-    {
-      "id": "ctg-se2-buffalo-servicenow-042026",
-      "title": "Software Engineer II (ServiceNow/Java)",
-      "company": "Computer Task Group (CTG)",
-      "location": "Buffalo, NY",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-03-01",
-      "salary_min": 94000,
-      "salary_max": 129000,
-      "salary_text": "$94K - $129K/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "Indeed",
-      "url": "https://www.ziprecruiter.com/Jobs/Software-Developer-Ii/-in-Buffalo,NY",
-      "description_snippet": "Software Engineer II at CTG for a client in Buffalo, NY. ServiceNow Developer or Administrator certification is a must. Role involves enterprise software development in an established WNY tech staffing and consulting firm with a major local presence.",
-      "key_skills": [
-        "Java",
-        "ServiceNow",
-        "REST APIs",
-        "SQL",
-        "JavaScript",
-        "Git",
-        "Agile"
-      ],
-      "benefits_highlights": [
-        "Medical benefits (standard at CTG)",
-        "401k",
-        "Paid time off"
-      ],
-      "match_score": 63,
-      "match_reasons": [
-        "SE II title match",
-        "WNY local Buffalo",
-        "Java and REST applicable; ServiceNow specialization differs",
-        "Healthcare benefits at large staffing firm"
       ]
     },
     {
