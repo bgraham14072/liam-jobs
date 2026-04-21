@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-20T11:00:00+00:00",
-  "total": 26,
+  "last_updated": "2026-04-21T11:00:00+00:00",
+  "total": 27,
   "jobs": [
     {
       "id": "allstate-senior-product-eng-java-042026",
@@ -767,6 +767,43 @@
       "match_reasons": [
         "Java backend fit",
         "Fully remote US"
+      ]
+    },
+    {
+      "id": "kaleida-health-ux-ui-developer-buffalo-ziprecruiter-042026",
+      "title": "UX/UI Developer",
+      "company": "Kaleida Health",
+      "location": "Buffalo, NY",
+      "location_type": "Onsite",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-20",
+      "salary_min": 82300,
+      "salary_max": 124500,
+      "salary_text": "$82,300 - $124,500 (from ZipRecruiter snippet)",
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "ZipRecruiter",
+      "url": "https://www.ziprecruiter.com/c/Kaleida-Health/Job/UX-UI-Developer/-in-Buffalo,NY?jid=7226d28af547b111",
+      "description_snippet": "Kaleida Health is hiring a UX/UI Developer in Buffalo, NY (per ZipRecruiter). The snippet indicates a full-time role with salary range $82,300-$124,500.",
+      "key_skills": [
+        "React",
+        "JavaScript",
+        "UI development",
+        "UX design",
+        "HTML",
+        "CSS"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 74,
+      "match_reasons": [
+        "Frontend/UI role (some React overlap)",
+        "Healthcare employer",
+        "WNY location",
+        "Full-time"
       ]
     },
     {
