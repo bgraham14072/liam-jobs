@@ -1,7 +1,46 @@
 {
-  "last_updated": "2026-04-21T11:00:00+00:00",
-  "total": 27,
+  "last_updated": "2026-04-22T00:00:00+00:00",
+  "total": 29,
   "jobs": [
+    {
+      "id": "mt-bank-senior-software-engineer-java-and-net-buffalo-20260415",
+      "title": "Senior Software Engineer -- Java and .Net",
+      "company": "M&T Bank",
+      "location": "Buffalo, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-15T00:00:00+00:00",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-java-and-net-at-m-t-bank-4387604926",
+      "description_snippet": "Join a small engineering team supporting and modernizing M&T Bank\u2019s consumer lending technology. You\u2019ll maintain a mission-critical Java 8 backend service integrating with a mainframe loan origination system, and help drive a cloud migration to Microsoft Azure and DevOps improvements.",
+      "key_skills": [
+        "Java",
+        ".NET",
+        "SQL",
+        "Azure",
+        "REST APIs",
+        "CI/CD",
+        "Mainframe integration",
+        "DevOps"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k"
+      ],
+      "match_score": 92,
+      "match_reasons": [
+        "Java backend (Java 8)",
+        "SQL/integrations work",
+        "DevOps/CI-CD focus",
+        "Buffalo/WNY role"
+      ]
+    },
     {
       "id": "allstate-senior-product-eng-java-042026",
       "title": "Senior Product Engineer (Software/Java)",
@@ -406,39 +445,74 @@
       ]
     },
     {
-      "id": "highmark-health-software-engineer-remote-remote-usa",
-      "title": "Software Engineer",
-      "company": "Highmark Health",
-      "location": "Remote (USA)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-04-11",
-      "salary_min": 86400,
-      "salary_max": 138600,
-      "salary_text": "$86,400 - $138,600 / year",
+      "id": "national-fuel-gas-erp-software-developer-buffalo-20260411",
+      "title": "ERP Software Developer",
+      "company": "National Fuel Gas",
+      "location": "Buffalo, NY",
+      "location_type": "Onsite",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-11T00:00:00+00:00",
+      "salary_min": 82000,
+      "salary_max": 106000,
+      "salary_text": "$82,000 - $106,000",
       "employment_type": "Full-time",
-      "experience_level": "Mid-level SE II",
-      "source": "Company Site",
-      "url": "https://remotive.com/remote/jobs/software-development/software-engineer-4324319",
-      "description_snippet": "Agile software engineering role building scalable applications across digital channels; design and implement solutions using modern languages and cloud platforms.",
+      "experience_level": "Mid",
+      "source": "ZipRecruiter",
+      "url": "https://www.ziprecruiter.com/c/National-Fuel-Gas/Job/ERP-Software-Developer/-in-Buffalo,NY?jid=5de0df4a56e54278",
+      "description_snippet": "ZipRecruiter lists National Fuel Gas hiring an ERP Software Developer in Buffalo, NY, full-time, with a posted pay range of $82,000 - $106,000.",
       "key_skills": [
+        "Software Development",
+        "ERP",
+        "SQL",
         "Java",
-        "Python",
-        "JavaScript",
-        "React",
-        "REST APIs",
-        "AWS/GCP"
+        "APIs",
+        "Troubleshooting"
       ],
       "benefits_highlights": [
         "Medical/Dental/Vision",
-        "401(k)"
+        "401k"
       ],
       "match_score": 82,
       "match_reasons": [
-        "Java/Python/JS",
-        "React + REST",
-        "Healthcare enterprise"
+        "Buffalo/WNY role",
+        "Software developer role with SQL",
+        "Established employer benefits likely"
+      ]
+    },
+    {
+      "id": "highmark-health-software-engineer-remote-20260422",
+      "title": "Software Engineer",
+      "company": "Highmark Health",
+      "location": "Remote - United States",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-22T00:00:00+00:00",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "Built In",
+      "url": "https://builtin.com/job/software-engineer/8930460",
+      "description_snippet": "Built In lists Highmark Health hiring a Remote Software Engineer with Java listed among top skills.",
+      "key_skills": [
+        "Java",
+        "AWS",
+        "GCP",
+        "Angular",
+        "APIs"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k"
+      ],
+      "match_score": 80,
+      "match_reasons": [
+        "Healthcare domain",
+        "Remote US",
+        "Java listed as a key skill"
       ]
     },
     {
