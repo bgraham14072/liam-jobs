@@ -1,7 +1,86 @@
 {
-  "last_updated": "2026-04-24T00:00:00+00:00",
-  "total": 28,
+  "last_updated": "2026-04-25T00:00:00+00:00",
+  "total": 31,
   "jobs": [
+    {
+      "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
+      "company": "Delaware North",
+      "location": "Buffalo, NY or Remote",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": true,
+      "posted_date": "2026-04-03T00:00:00+00:00",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/d387e7fb-3abe-4810-8d98-12df32c69fc8",
+      "description_snippet": "Lead Full Stack Java Software Engineer for a digital banking platform; role listed as Remote or Buffalo, New York. Focus likely includes Java full-stack development for banking applications.",
+      "key_skills": [
+        "Java",
+        "Spring",
+        "REST APIs",
+        "SQL",
+        "Microservices",
+        "CI/CD",
+        "AWS",
+        "React"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k"
+      ],
+      "match_score": 97,
+      "match_reasons": [
+        "Strong Java fit",
+        "Spring/Spring Boot",
+        "SQL and backend data",
+        "US-remote eligible"
+      ],
+      "id": "delaware-north-lead-full-stack-java-software-engineer-digital-banking-platform-wny-20260403"
+    },
+    {
+      "title": "Senior Software Engineer - Java",
+      "company": "Veeva Systems",
+      "location": "Columbus, OH (Work Anywhere US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-25T00:00:00+00:00",
+      "salary_min": 110000,
+      "salary_max": 270000,
+      "salary_text": "Base pay: $110,000 - $270,000",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Veeva Careers",
+      "url": "https://careers.veeva.com/job/ad998aae-8d0b-48a6-8822-e9ade8ff2f3a/senior-software-engineer-java-columbus-oh/",
+      "description_snippet": "Senior Software Engineer role building enterprise SaaS cloud applications with Java and Spring in Veeva's Work Anywhere environment (remote or office within the US). Work includes design, development, deployment to production, and mentoring engineers.",
+      "key_skills": [
+        "Java",
+        "Spring",
+        "SQL",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "Jenkins",
+        "Microservices"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k",
+        "Flexible PTO"
+      ],
+      "match_score": 96,
+      "match_reasons": [
+        "Strong Java fit",
+        "Spring/Spring Boot",
+        "SQL and backend data",
+        "US-remote eligible"
+      ],
+      "id": "veeva-systems-senior-software-engineer-java-remote-20260425"
+    },
     {
       "id": "mt-bank-senior-software-engineer-java-and-net-buffalo-20260415",
       "title": "Senior Software Engineer -- Java and .Net",
@@ -882,6 +961,43 @@
       ]
     },
     {
+      "title": "Software Engineer (II or Senior) - Backend",
+      "company": "Ovation",
+      "location": "United States",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-24T00:00:00+00:00",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Competitive salary (not listed)",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/distro/97306d5c-1da1-4953-b0d4-ef5a5cb56be5",
+      "description_snippet": "Backend Engineer (II or Senior) building event-driven distributed systems and APIs for a customer experience management platform. Emphasis on microservices, queues/pub-sub/event buses, API design, and data stores in a remote-first setup.",
+      "key_skills": [
+        "Microservices",
+        "REST APIs",
+        "GraphQL",
+        "Event-driven architecture",
+        "Kafka",
+        "AWS",
+        "MongoDB",
+        "CI/CD"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k"
+      ],
+      "match_score": 75,
+      "match_reasons": [
+        "US-remote eligible",
+        "Microservices"
+      ],
+      "id": "ovation-software-engineer-ii-or-senior-backend-remote-20260424"
+    },
+    {
       "id": "kaleida-health-ux-ui-developer-buffalo-ziprecruiter-042026",
       "title": "UX/UI Developer",
       "company": "Kaleida Health",
@@ -1038,46 +1154,40 @@
       ]
     },
     {
-      "id": "moog-se-buffalo-042026",
       "title": "Software Engineer",
       "company": "Moog Inc.",
-      "location": "Buffalo, NY (Hybrid)",
+      "location": "Buffalo, NY",
       "location_type": "Hybrid",
       "is_wny": true,
       "is_remote": false,
-      "posted_date": "2026-03-15T00:00:00+00:00",
+      "posted_date": "2026-04-18T00:00:00+00:00",
       "salary_min": 80000,
       "salary_max": 100000,
-      "salary_text": "$80,000 - $100,000/yr",
+      "salary_text": "$80,000\u2013$100,000 annually",
       "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
+      "experience_level": "Mid-level",
       "source": "LinkedIn",
       "url": "https://www.linkedin.com/jobs/view/software-engineer-at-moog-inc-4384745997",
-      "description_snippet": "Software engineer on Moog's Military Aircraft Group in Buffalo, NY, working in a hybrid schedule. Design and implement software solutions for aerospace defense applications. Opportunity to work with mission-critical engineering software on government contracts.",
+      "description_snippet": "Moog is looking for a Software Engineer to join their Software Development Team, developing software for automated test stands and real-time data acquisition for flight control actuation systems. The role is hybrid in Buffalo, NY and involves system integration and verification.",
       "key_skills": [
-        "Java",
         "Python",
-        "C++",
-        "REST APIs",
-        "SQL",
-        "Software Testing",
-        "Git"
+        "C",
+        "LabVIEW",
+        "Simulink",
+        "Real-time systems",
+        "Data acquisition",
+        "System integration",
+        "Testing"
       ],
       "benefits_highlights": [
         "Medical/Dental/Vision",
-        "401k with match",
-        "Employee stock purchase plan",
-        "Parental leave",
-        "Tuition reimbursement",
-        "Paid time off"
+        "401k"
       ],
-      "match_score": 68,
+      "match_score": 69,
       "match_reasons": [
-        "WNY local \u2014 Buffalo hybrid schedule",
-        "Full benefits including medical and parental leave",
-        "Java/Python applicable; aerospace domain differs",
-        "Established defense contractor with stable employment"
-      ]
+        "WNY proximity"
+      ],
+      "id": "moog-inc--software-engineer-wny-20260418"
     },
     {
       "id": "hodgsonruss-software-developer-042026",
