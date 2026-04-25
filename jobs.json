@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-04-25T00:00:00+00:00",
-  "total": 31,
+  "total": 34,
   "jobs": [
     {
       "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
@@ -522,6 +522,42 @@
       ]
     },
     {
+      "id": "national-fuel-gas-erp-software-developer-buffalo-20260411",
+      "title": "ERP Software Developer",
+      "company": "National Fuel Gas",
+      "location": "Buffalo, NY",
+      "location_type": "Onsite",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-11T00:00:00+00:00",
+      "salary_min": 82000,
+      "salary_max": 106000,
+      "salary_text": "$82,000 - $106,000",
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "ZipRecruiter",
+      "url": "https://www.ziprecruiter.com/c/National-Fuel-Gas/Job/ERP-Software-Developer/-in-Buffalo,NY?jid=5de0df4a56e54278",
+      "description_snippet": "ZipRecruiter lists National Fuel Gas hiring an ERP Software Developer in Buffalo, NY, full-time, with a posted pay range of $82,000 - $106,000.",
+      "key_skills": [
+        "Software Development",
+        "ERP",
+        "SQL",
+        "Java",
+        "APIs",
+        "Troubleshooting"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k"
+      ],
+      "match_score": 82,
+      "match_reasons": [
+        "Buffalo/WNY role",
+        "Software developer role with SQL",
+        "Established employer benefits likely"
+      ]
+    },
+    {
       "id": "trissential-se-java-springboot-042026",
       "title": "Software Engineer (Java/Spring Boot) \u2013 Healthcare Modernization",
       "company": "Trissential / Mayo Clinic Client",
@@ -562,42 +598,6 @@
       ]
     },
     {
-      "id": "national-fuel-gas-erp-software-developer-buffalo-20260411",
-      "title": "ERP Software Developer",
-      "company": "National Fuel Gas",
-      "location": "Buffalo, NY",
-      "location_type": "Onsite",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-11T00:00:00+00:00",
-      "salary_min": 82000,
-      "salary_max": 106000,
-      "salary_text": "$82,000 - $106,000",
-      "employment_type": "Full-time",
-      "experience_level": "Mid",
-      "source": "ZipRecruiter",
-      "url": "https://www.ziprecruiter.com/c/National-Fuel-Gas/Job/ERP-Software-Developer/-in-Buffalo,NY?jid=5de0df4a56e54278",
-      "description_snippet": "ZipRecruiter lists National Fuel Gas hiring an ERP Software Developer in Buffalo, NY, full-time, with a posted pay range of $82,000 - $106,000.",
-      "key_skills": [
-        "Software Development",
-        "ERP",
-        "SQL",
-        "Java",
-        "APIs",
-        "Troubleshooting"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k"
-      ],
-      "match_score": 82,
-      "match_reasons": [
-        "Buffalo/WNY role",
-        "Software developer role with SQL",
-        "Established employer benefits likely"
-      ]
-    },
-    {
       "id": "highmark-health-software-engineer-remote-20260422",
       "title": "Software Engineer",
       "company": "Highmark Health",
@@ -630,6 +630,85 @@
         "Healthcare domain",
         "Remote US",
         "Java listed as a key skill"
+      ]
+    },
+    {
+      "id": "m-t-bank-software-engineer-ii-2026-04-20",
+      "title": "Software Engineer II",
+      "company": "M&T Bank",
+      "location": "Buffalo, NY",
+      "location_type": "On-site",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-20",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$147,118 - $154,382.63 per year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/588ddc80-26db-4623-9ae1-6d998f2fa7c9",
+      "description_snippet": "Requires in-office 4 days/week; .NET/C#/SQL heavy but includes microservices and Azure.",
+      "key_skills": [
+        "SQL",
+        "Microservices",
+        "Azure",
+        "DevOps",
+        "Git",
+        "C#",
+        ".NET",
+        "JSON"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 80,
+      "match_reasons": [
+        "Backend engineering",
+        "Full-time role",
+        "Healthcare benefits",
+        "WNY location"
+      ]
+    },
+    {
+      "id": "highmark-engen-se-042026",
+      "title": "Software Engineer",
+      "company": "enGen (Highmark Health)",
+      "location": "Remote (50+ miles from print facility)",
+      "location_type": "Remote",
+      "is_wny": true,
+      "is_remote": true,
+      "posted_date": "2026-04-16T00:00:00+00:00",
+      "salary_min": 86400,
+      "salary_max": 138600,
+      "salary_text": "$86,400 - $138,600/yr",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level (SE II)",
+      "source": "Company Site",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Software-Engineer_J279182",
+      "description_snippet": "Software engineer on an agile team building scalable applications for a variable data printing platform at enGen, a Highmark Health subsidiary. Involves full SDLC from idea generation to deployment using Java, Python, JavaScript, React, Angular, AWS, or GCP. Primarily remote for those 50+ miles from a facility.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Angular",
+        "REST APIs",
+        "Agile/Scrum"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision (Highmark Health)",
+        "401k",
+        "Paid time off",
+        "HIPAA-compliant environment"
+      ],
+      "match_score": 80,
+      "match_reasons": [
+        "Java + Python + React + REST APIs match core skills",
+        "Remote-eligible for Buffalo residents",
+        "Healthcare benefits via Highmark subsidiary",
+        "Agile/Scrum directly applicable"
       ]
     },
     {
@@ -671,46 +750,6 @@
         "WNY local \u2014 Buffalo tech company",
         "Python + Java skills applicable",
         "Healthcare and benefits confirmed"
-      ]
-    },
-    {
-      "id": "highmark-engen-se-042026",
-      "title": "Software Engineer",
-      "company": "enGen (Highmark Health)",
-      "location": "Remote (50+ miles from print facility)",
-      "location_type": "Remote",
-      "is_wny": true,
-      "is_remote": true,
-      "posted_date": "2026-04-16T00:00:00+00:00",
-      "salary_min": 86400,
-      "salary_max": 138600,
-      "salary_text": "$86,400 - $138,600/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "Company Site",
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Software-Engineer_J279182",
-      "description_snippet": "Software engineer on an agile team building scalable applications for a variable data printing platform at enGen, a Highmark Health subsidiary. Involves full SDLC from idea generation to deployment using Java, Python, JavaScript, React, Angular, AWS, or GCP. Primarily remote for those 50+ miles from a facility.",
-      "key_skills": [
-        "Java",
-        "Python",
-        "JavaScript",
-        "React",
-        "Angular",
-        "REST APIs",
-        "Agile/Scrum"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision (Highmark Health)",
-        "401k",
-        "Paid time off",
-        "HIPAA-compliant environment"
-      ],
-      "match_score": 80,
-      "match_reasons": [
-        "Java + Python + React + REST APIs match core skills",
-        "Remote-eligible for Buffalo residents",
-        "Healthcare benefits via Highmark subsidiary",
-        "Agile/Scrum directly applicable"
       ]
     },
     {
@@ -883,6 +922,43 @@
       ]
     },
     {
+      "id": "elastic-senior-software-engineer-query-engine-database-internals-elasticsearch-2026-03-17",
+      "title": "Senior Software Engineer - Query Engine, Database Internals (Elasticsearch)",
+      "company": "Elastic",
+      "location": "United States (distributed)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-03-17",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$133,100\u2014$210,600 base (US); select locations $159,900\u2014$252,900",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Elastic Careers",
+      "url": "https://jobs.elastic.co/jobs/pipeline/united-states/senior-software-engineer-query-engine-database-internals-elasticsearch/7723819",
+      "description_snippet": "Modern Java, data structures/concurrency; remote team; benefits include health and 401(k) match.",
+      "key_skills": [
+        "Java",
+        "Elasticsearch",
+        "Concurrency",
+        "Data structures",
+        "Distributed systems",
+        "Git",
+        "CI/CD"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 77,
+      "match_reasons": [
+        "Java/Backend aligned",
+        "Full-time role",
+        "Healthcare benefits"
+      ]
+    },
+    {
       "id": "boeing-se-fullstack-java-aws-042026",
       "title": "Java Full Stack and AWS DevOps Developer (Mid-Level or Senior)",
       "company": "The Boeing Company",
@@ -925,42 +1001,6 @@
       ]
     },
     {
-      "id": "dataannotation-full-stack-developer-kotlin-or-java-remote",
-      "title": "Full Stack Developer (Kotlin or Java)",
-      "company": "DataAnnotation",
-      "location": "United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-04-01T00:00:00+00:00",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "Projects paid hourly, starting at $40+ USD per hour",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/full-stack-developer-kotlin-or-java-at-dataannotation-4334609314",
-      "description_snippet": "Remote programming role to help advance AI development; seeks proficiency in Kotlin or Java and other languages like React/Python. Projects are paid hourly starting at $40+ USD per hour.",
-      "key_skills": [
-        "Java",
-        "Kotlin",
-        "React",
-        "Python",
-        "TypeScript",
-        "REST APIs",
-        "Software Engineering"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 75,
-      "match_reasons": [
-        "Java backend fit",
-        "Fully remote US"
-      ]
-    },
-    {
       "title": "Software Engineer (II or Senior) - Backend",
       "company": "Ovation",
       "location": "United States",
@@ -996,6 +1036,42 @@
         "Microservices"
       ],
       "id": "ovation-software-engineer-ii-or-senior-backend-remote-20260424"
+    },
+    {
+      "id": "dataannotation-full-stack-developer-kotlin-or-java-remote",
+      "title": "Full Stack Developer (Kotlin or Java)",
+      "company": "DataAnnotation",
+      "location": "United States",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-01T00:00:00+00:00",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Projects paid hourly, starting at $40+ USD per hour",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-developer-kotlin-or-java-at-dataannotation-4334609314",
+      "description_snippet": "Remote programming role to help advance AI development; seeks proficiency in Kotlin or Java and other languages like React/Python. Projects are paid hourly starting at $40+ USD per hour.",
+      "key_skills": [
+        "Java",
+        "Kotlin",
+        "React",
+        "Python",
+        "TypeScript",
+        "REST APIs",
+        "Software Engineering"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 75,
+      "match_reasons": [
+        "Java backend fit",
+        "Fully remote US"
+      ]
     },
     {
       "id": "kaleida-health-ux-ui-developer-buffalo-ziprecruiter-042026",
@@ -1114,6 +1190,79 @@
       ]
     },
     {
+      "id": "stripe-backend-engineer-ai-security-2026-04-25",
+      "title": "Backend Engineer, AI Security",
+      "company": "Stripe",
+      "location": "Remote (US/Canada) or NYC/SF/Seattle",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-25",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$156,800 - $285,600 base (US)",
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "Stripe Careers",
+      "url": "https://stripe.com/jobs/listing/backend-engineer-ai-security/7826765",
+      "description_snippet": "5+ years; security/AI focus; benefits include medical/dental/vision and 401(k).",
+      "key_skills": [
+        "Backend",
+        "Security",
+        "APIs",
+        "Distributed systems",
+        "Infrastructure",
+        "LLMs",
+        "Reliability"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 70,
+      "match_reasons": [
+        "Backend engineering",
+        "Full-time role",
+        "Healthcare benefits"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Moog Inc.",
+      "location": "Buffalo, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-18T00:00:00+00:00",
+      "salary_min": 80000,
+      "salary_max": 100000,
+      "salary_text": "$80,000\u2013$100,000 annually",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-moog-inc-4384745997",
+      "description_snippet": "Moog is looking for a Software Engineer to join their Software Development Team, developing software for automated test stands and real-time data acquisition for flight control actuation systems. The role is hybrid in Buffalo, NY and involves system integration and verification.",
+      "key_skills": [
+        "Python",
+        "C",
+        "LabVIEW",
+        "Simulink",
+        "Real-time systems",
+        "Data acquisition",
+        "System integration",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k"
+      ],
+      "match_score": 69,
+      "match_reasons": [
+        "WNY proximity"
+      ],
+      "id": "moog-inc--software-engineer-wny-20260418"
+    },
+    {
       "id": "kaleida-it-analyst-iii-042026",
       "title": "IT Analyst III",
       "company": "Kaleida Health",
@@ -1152,42 +1301,6 @@
         "Healthcare benefits confirmed at major hospital",
         "Technical specification and testing skills directly applicable"
       ]
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Moog Inc.",
-      "location": "Buffalo, NY",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-18T00:00:00+00:00",
-      "salary_min": 80000,
-      "salary_max": 100000,
-      "salary_text": "$80,000\u2013$100,000 annually",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-moog-inc-4384745997",
-      "description_snippet": "Moog is looking for a Software Engineer to join their Software Development Team, developing software for automated test stands and real-time data acquisition for flight control actuation systems. The role is hybrid in Buffalo, NY and involves system integration and verification.",
-      "key_skills": [
-        "Python",
-        "C",
-        "LabVIEW",
-        "Simulink",
-        "Real-time systems",
-        "Data acquisition",
-        "System integration",
-        "Testing"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k"
-      ],
-      "match_score": 69,
-      "match_reasons": [
-        "WNY proximity"
-      ],
-      "id": "moog-inc--software-engineer-wny-20260418"
     },
     {
       "id": "hodgsonruss-software-developer-042026",
