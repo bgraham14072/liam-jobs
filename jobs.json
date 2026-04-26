@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-25T00:00:00+00:00",
-  "total": 34,
+  "last_updated": "2026-04-26T00:00:00+00:00",
+  "total": 36,
   "jobs": [
     {
       "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
@@ -119,6 +119,45 @@
         "DevOps/CI-CD focus",
         "Buffalo/WNY role"
       ]
+    },
+    {
+      "title": "Senior Software Engineer - Timeseries - Elasticsearch",
+      "company": "Elastic",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-24T00:00:00+00:00",
+      "salary_min": 133100,
+      "salary_max": 252900,
+      "salary_text": "$133,100 - $252,900 per year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote/jobs/software-development/senior-software-engineer-timeseries-elasticsearch-4481160",
+      "description_snippet": "Senior Software Engineer role focused on improving storage efficiency for metrics/logs data, advancing ES|QL query capabilities, and optimizing storage layout for object storage.",
+      "key_skills": [
+        "Java",
+        "Elasticsearch",
+        "Timeseries",
+        "Storage",
+        "Object storage",
+        "ES|QL",
+        "Performance",
+        "Distributed systems"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k"
+      ],
+      "match_score": 92,
+      "match_reasons": [
+        "Strong Java fit",
+        "Backend/distributed systems",
+        "Remote US role",
+        "Data/storage optimization"
+      ],
+      "id": "elastic-senior-software-engineer-timeseries-elasticsearch-remote-us-20260424"
     },
     {
       "id": "allstate-senior-product-eng-java-042026",
@@ -479,6 +518,43 @@
       "id": "delaware-north-engineer-enterprise-data-management-buffalo-ny-20260422",
       "employment_type": "Full-time",
       "match_score": 83
+    },
+    {
+      "title": "ERP Software Developer",
+      "company": "National Fuel",
+      "location": "Williamsville/Buffalo, NY",
+      "location_type": "Onsite",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-18T00:00:00+00:00",
+      "salary_min": 82000,
+      "salary_max": 106000,
+      "salary_text": "$82,000 - $106,000 per year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "Institute of Data Jobs",
+      "url": "https://jobs.institutedata.com/job/4897282/erp-software-developer/",
+      "description_snippet": "National Fuel is seeking a Software Developer in its IT department in Williamsville, NY, to analyze requirements and design/configure/code/test software solutions. The posting highlights ERP/PeopleSoft-related work and an inclusive workplace.",
+      "key_skills": [
+        "SQL",
+        "Oracle PeopleTools",
+        "PeopleSoft",
+        "Object-oriented programming",
+        "Full-stack development",
+        "Requirements analysis",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k"
+      ],
+      "match_score": 83,
+      "match_reasons": [
+        "WNY location bonus",
+        "SQL/Oracle tooling",
+        "Full-time established employer"
+      ],
+      "id": "national-fuel-erp-software-developer-williamsville-buffalo-ny-20260418"
     },
     {
       "id": "mtb-se3-buffalo-042026",
