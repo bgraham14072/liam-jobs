@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T11:00:00+00:00",
+  "last_updated": "2026-04-27T00:00:00+00:00",
   "total": 42,
   "jobs": [
     {
@@ -136,7 +136,7 @@
       "experience_level": "Senior",
       "source": "LinkedIn",
       "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-java-and-net-at-m-t-bank-4387604926",
-      "description_snippet": "Join a small engineering team supporting and modernizing M&T Bank\u2019s consumer lending technology. You\u2019ll maintain a mission-critical Java 8 backend service integrating with a mainframe loan origination system, and help drive a cloud migration to Microsoft Azure and DevOps improvements.",
+      "description_snippet": "Join a small engineering team supporting and modernizing M&T Bank’s consumer lending technology. You’ll maintain a mission-critical Java 8 backend service integrating with a mainframe loan origination system, and help drive a cloud migration to Microsoft Azure and DevOps improvements.",
       "key_skills": [
         "Java",
         ".NET",
@@ -230,7 +230,7 @@
       ],
       "match_score": 90,
       "match_reasons": [
-        "Java + Spring Boot + JUnit + Docker + Kubernetes + Jenkins \u2014 exact stack match",
+        "Java + Spring Boot + JUnit + Docker + Kubernetes + Jenkins — exact stack match",
         "Fully remote, NY-resident eligible",
         "Healthcare benefits at top-50 US company",
         "Automated testing and Agile/Scrum directly applicable"
@@ -276,7 +276,7 @@
     },
     {
       "id": "veeva-se-java-042026",
-      "title": "Software Engineer \u2013 Java",
+      "title": "Software Engineer – Java",
       "company": "Veeva Systems",
       "location": "Remote - United States",
       "location_type": "Remote",
@@ -310,7 +310,7 @@
       ],
       "match_score": 88,
       "match_reasons": [
-        "Java + Spring Boot + SQL + Jenkins + JUnit \u2014 near-perfect stack match",
+        "Java + Spring Boot + SQL + Jenkins + JUnit — near-perfect stack match",
         "Fully remote, NY-resident eligible",
         "Medical/Dental/Vision benefits confirmed",
         "Work Anywhere company policy"
@@ -318,7 +318,7 @@
     },
     {
       "id": "conduent-senior-java-pbm-042026",
-      "title": "Senior Java Developer \u2013 Healthcare / PBM Platform",
+      "title": "Senior Java Developer – Healthcare / PBM Platform",
       "company": "Conduent State Healthcare, LLC",
       "location": "Remote - United States",
       "location_type": "Remote",
@@ -351,7 +351,7 @@
       ],
       "match_score": 88,
       "match_reasons": [
-        "Java + Spring Boot + SOAP + Oracle SQL + PL/SQL \u2014 exceptional match",
+        "Java + Spring Boot + SOAP + Oracle SQL + PL/SQL — exceptional match",
         "Fully remote, NY-resident eligible",
         "Healthcare benefits confirmed day one",
         "SOAP/REST and Oracle DB experience directly applies"
@@ -391,7 +391,7 @@
       ],
       "match_score": 87,
       "match_reasons": [
-        "Java + Spring Boot + REST + MongoDB + Jenkins + Git \u2014 near-perfect match",
+        "Java + Spring Boot + REST + MongoDB + Jenkins + Git — near-perfect match",
         "Fully remote, NY-resident eligible",
         "Healthcare benefits at large established insurer",
         "TDD/JUnit and Agile directly applicable"
@@ -399,7 +399,7 @@
     },
     {
       "id": "pratt-whitney-senior-java-mes-042026",
-      "title": "Senior Java Developer \u2013 MES (Remote)",
+      "title": "Senior Java Developer – MES (Remote)",
       "company": "Pratt & Whitney (RTX)",
       "location": "Remote - United States (US Citizens only)",
       "location_type": "Remote",
@@ -434,7 +434,7 @@
       ],
       "match_score": 86,
       "match_reasons": [
-        "Java + Spring Boot + React + Oracle + Docker + REST APIs \u2014 excellent match",
+        "Java + Spring Boot + React + Oracle + Docker + REST APIs — excellent match",
         "Fully remote, NY-resident eligible (US citizen required)",
         "Full benefits confirmed including medical and parental leave",
         "10+ years experience aligns perfectly with experience level"
@@ -647,7 +647,7 @@
       "experience_level": "Senior",
       "source": "Remotive",
       "url": "https://remotive.com/remote/jobs/software-development/senior-software-engineer-query-integration-4459174",
-      "description_snippet": "Build user-facing features on top of MongoDB\u2019s core query engine and integrate query with other products in the ecosystem. Role can be based in US/Canada offices or remotely in North America.",
+      "description_snippet": "Build user-facing features on top of MongoDB’s core query engine and integrate query with other products in the ecosystem. Role can be based in US/Canada offices or remotely in North America.",
       "key_skills": [
         "MongoDB",
         "Distributed systems",
@@ -685,7 +685,7 @@
       "experience_level": "Mid-Senior",
       "source": "linkedin",
       "url": "https://www.linkedin.com/in/gabriel-mccarthy-29688924",
-      "description_snippet": "I'm a software engineer with experience in PL/SQL, Java, Javascript, HTML, software testing, and quality assurance. I've written functional and regression\u00a0...",
+      "description_snippet": "I'm a software engineer with experience in PL/SQL, Java, Javascript, HTML, software testing, and quality assurance. I've written functional and regression ...",
       "key_skills": [
         "Java",
         "SQL",
@@ -710,7 +710,7 @@
       "id": "mtb-se3-buffalo-042026",
       "title": "Software Engineer III",
       "company": "M&T Bank",
-      "location": "Buffalo, NY (Onsite \u2014 4 days/week)",
+      "location": "Buffalo, NY (Onsite — 4 days/week)",
       "location_type": "Onsite",
       "is_wny": true,
       "is_remote": false,
@@ -742,7 +742,7 @@
       "match_score": 82,
       "match_reasons": [
         "Exact SE III title match",
-        "Java + Spring Boot core stack \u2014 perfect alignment",
+        "Java + Spring Boot core stack — perfect alignment",
         "WNY local Buffalo HQ",
         "Healthcare benefits at large established bank"
       ]
@@ -971,7 +971,7 @@
       "match_score": 80,
       "match_reasons": [
         "SE III title exact match",
-        "WNY local \u2014 Buffalo tech company",
+        "WNY local — Buffalo tech company",
         "Python + Java skills applicable",
         "Healthcare and benefits confirmed"
       ]
@@ -979,7 +979,7 @@
     {
       "id": "pacemete-java-backend-042026",
       "title": "Java Backend Developer",
-      "company": "PaceMate\u2122",
+      "company": "PaceMate™",
       "location": "Remote - All U.S. Locations",
       "location_type": "Remote",
       "is_wny": false,
@@ -992,7 +992,7 @@
       "experience_level": "Mid-level (SE II)",
       "source": "Indeed",
       "url": "https://www.indeed.com/q-java-backend-developer-remote-jobs.html",
-      "description_snippet": "Java backend developer for PaceMateLIVE\u2122, a cardiac remote monitoring platform integrating with diverse EHRs and cardiac device types. Develop RESTful webservices in Java, supporting real-time patient data management. Requires strong Java and Spring Framework background in healthcare tech.",
+      "description_snippet": "Java backend developer for PaceMateLIVE™, a cardiac remote monitoring platform integrating with diverse EHRs and cardiac device types. Develop RESTful webservices in Java, supporting real-time patient data management. Requires strong Java and Spring Framework background in healthcare tech.",
       "key_skills": [
         "Java",
         "Spring Boot",
@@ -1034,7 +1034,7 @@
       "experience_level": "Mid-Senior",
       "source": "linkedin",
       "url": "https://www.linkedin.com/in/joshua-popelka-879a42338",
-      "description_snippet": "Joshua Popelka. Java and Javascript Developer | Computer Information Systems Graduate. Roswell Park Comprehensive Cancer Center Buffalo State University\u00a0...",
+      "description_snippet": "Joshua Popelka. Java and Javascript Developer | Computer Information Systems Graduate. Roswell Park Comprehensive Cancer Center Buffalo State University ...",
       "key_skills": [
         "Java",
         "SQL",
@@ -1114,7 +1114,7 @@
       "experience_level": "Senior",
       "source": "remote: sr. java developer jobs",
       "url": "https://www.dice.com/jobs/q-remote:+sr.+java+developer-jobs",
-      "description_snippet": "Full-time. USD 132,400.00 per year. Trebecon LLC \u00b7 Easy Apply \u00b7 Senior Java Fullstack Developer :: Remote :: W2 Position. Remote. \u2022. 6d\u00a0...",
+      "description_snippet": "Full-time. USD 132,400.00 per year. Trebecon LLC · Easy Apply · Senior Java Fullstack Developer :: Remote :: W2 Position. Remote. •. 6d ...",
       "key_skills": [
         "Java",
         "SQL",
@@ -1173,7 +1173,7 @@
       "match_score": 78,
       "match_reasons": [
         "SQL + PL/SQL + Oracle directly match core skills",
-        "WNY local \u2014 Williamsville (WNY suburb)",
+        "WNY local — Williamsville (WNY suburb)",
         "Full benefits package confirmed including medical",
         "Agile/Kanban experience directly applicable"
       ]
@@ -1194,7 +1194,7 @@
       "experience_level": "Senior",
       "source": "RemoteJobs.org",
       "url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-stripe",
-      "description_snippet": "5+ years of backend engineering experience \u00b7 Strong proficiency in Ruby, Go, or Java \u00b7 Experience with distributed systems and microservices.",
+      "description_snippet": "5+ years of backend engineering experience · Strong proficiency in Ruby, Go, or Java · Experience with distributed systems and microservices.",
       "key_skills": [
         "Java",
         "Microservices"
@@ -1389,7 +1389,7 @@
         "Git"
       ],
       "benefits_highlights": [
-        "Medical/Dental/Vision (Humana \u2014 insurance company, excellent benefits)",
+        "Medical/Dental/Vision (Humana — insurance company, excellent benefits)",
         "401k with match",
         "Bonus incentive plan",
         "Paid time off",
@@ -1441,42 +1441,6 @@
       ]
     },
     {
-      "id": "pratt-whitney-senior-java-developer-mes-remote-2026-03-26",
-      "title": "Senior Java Developer - MES (Remote)",
-      "company": "Pratt & Whitney",
-      "location": "Remote or Connecticut (US-CT-REMOTE)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-03-26",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "USD 132,400.00 per year (as shown on Dice snippet)",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Dice",
-      "url": "https://www.dice.com/jobs/q-remote:+sr.+java+developer-jobs",
-      "description_snippet": "Dice listing for Pratt & Whitney Senior Java Developer - MES notes Date Posted: 2026-03-26 and indicates a remote US role.",
-      "key_skills": [
-        "Java",
-        "MES",
-        "Backend",
-        "APIs",
-        "SQL",
-        "CI/CD"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 70,
-      "match_reasons": [
-        "Java",
-        "SQL",
-        "Remote-friendly"
-      ]
-    },
-    {
       "id": "kaleida-health-it-analyst-i-2026-04-27t00-00-00-00-00",
       "title": "IT Analyst I",
       "company": "Kaleida Health",
@@ -1513,6 +1477,42 @@
       ]
     },
     {
+      "id": "pratt-whitney-senior-java-developer-mes-remote-2026-03-26",
+      "title": "Senior Java Developer - MES (Remote)",
+      "company": "Pratt & Whitney",
+      "location": "Remote or Connecticut (US-CT-REMOTE)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-03-26",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "USD 132,400.00 per year (as shown on Dice snippet)",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Dice",
+      "url": "https://www.dice.com/jobs/q-remote:+sr.+java+developer-jobs",
+      "description_snippet": "Dice listing for Pratt & Whitney Senior Java Developer - MES notes Date Posted: 2026-03-26 and indicates a remote US role.",
+      "key_skills": [
+        "Java",
+        "MES",
+        "Backend",
+        "APIs",
+        "SQL",
+        "CI/CD"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 70,
+      "match_reasons": [
+        "Java",
+        "SQL",
+        "Remote-friendly"
+      ]
+    },
+    {
       "title": "Software Engineer",
       "company": "Moog Inc.",
       "location": "Buffalo, NY",
@@ -1522,7 +1522,7 @@
       "posted_date": "2026-04-18T00:00:00+00:00",
       "salary_min": 80000,
       "salary_max": 100000,
-      "salary_text": "$80,000\u2013$100,000 annually",
+      "salary_text": "$80,000–$100,000 annually",
       "employment_type": "Full-time",
       "experience_level": "Mid-level",
       "source": "LinkedIn",
@@ -1621,7 +1621,7 @@
       ],
       "match_score": 60,
       "match_reasons": [
-        "WNY local \u2014 Buffalo CBD role",
+        "WNY local — Buffalo CBD role",
         "SQL and database skills directly applicable",
         "Healthcare benefits confirmed",
         "Law firm tech roles stable and well-benefited"
