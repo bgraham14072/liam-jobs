@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T00:00:00+00:00",
-  "total": 42,
+  "last_updated": "2026-05-04T00:00:00+00:00",
+  "total": 44,
   "jobs": [
     {
       "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
@@ -136,7 +136,7 @@
       "experience_level": "Senior",
       "source": "LinkedIn",
       "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-java-and-net-at-m-t-bank-4387604926",
-      "description_snippet": "Join a small engineering team supporting and modernizing M&T Bank’s consumer lending technology. You’ll maintain a mission-critical Java 8 backend service integrating with a mainframe loan origination system, and help drive a cloud migration to Microsoft Azure and DevOps improvements.",
+      "description_snippet": "Join a small engineering team supporting and modernizing M&T Bank\u2019s consumer lending technology. You\u2019ll maintain a mission-critical Java 8 backend service integrating with a mainframe loan origination system, and help drive a cloud migration to Microsoft Azure and DevOps improvements.",
       "key_skills": [
         "Java",
         ".NET",
@@ -230,11 +230,49 @@
       ],
       "match_score": 90,
       "match_reasons": [
-        "Java + Spring Boot + JUnit + Docker + Kubernetes + Jenkins — exact stack match",
+        "Java + Spring Boot + JUnit + Docker + Kubernetes + Jenkins \u2014 exact stack match",
         "Fully remote, NY-resident eligible",
         "Healthcare benefits at top-50 US company",
         "Automated testing and Agile/Scrum directly applicable"
       ]
+    },
+    {
+      "title": "Java fullstack developer",
+      "company": "SLK America Inc.",
+      "location": "Buffalo, NY",
+      "location_type": "On-site",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-28T00:00:00+00:00",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Up to $110,000/yr (listing)",
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/e90a0a10-0193-46c4-b93c-5dd7c46db743",
+      "description_snippet": "SLK America Inc. is seeking a hands-on Java full stack developer for a full-time project in Buffalo, NY. The posting notes an immediate opening with a multi-round interview process.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "SQL",
+        "React",
+        "Docker",
+        "JUnit"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k"
+      ],
+      "match_score": 88,
+      "match_reasons": [
+        "Java + full-stack",
+        "Buffalo/WNY location",
+        "REST APIs + SQL",
+        "CI/testing keywords (JUnit)"
+      ],
+      "id": "slk-america-inc-java-fullstack-developer-2026-04-28"
     },
     {
       "id": "delaware-north-senior-platform-engineer-onsite-buffalo-ny",
@@ -276,7 +314,7 @@
     },
     {
       "id": "veeva-se-java-042026",
-      "title": "Software Engineer – Java",
+      "title": "Software Engineer \u2013 Java",
       "company": "Veeva Systems",
       "location": "Remote - United States",
       "location_type": "Remote",
@@ -310,7 +348,7 @@
       ],
       "match_score": 88,
       "match_reasons": [
-        "Java + Spring Boot + SQL + Jenkins + JUnit — near-perfect stack match",
+        "Java + Spring Boot + SQL + Jenkins + JUnit \u2014 near-perfect stack match",
         "Fully remote, NY-resident eligible",
         "Medical/Dental/Vision benefits confirmed",
         "Work Anywhere company policy"
@@ -318,7 +356,7 @@
     },
     {
       "id": "conduent-senior-java-pbm-042026",
-      "title": "Senior Java Developer – Healthcare / PBM Platform",
+      "title": "Senior Java Developer \u2013 Healthcare / PBM Platform",
       "company": "Conduent State Healthcare, LLC",
       "location": "Remote - United States",
       "location_type": "Remote",
@@ -351,7 +389,7 @@
       ],
       "match_score": 88,
       "match_reasons": [
-        "Java + Spring Boot + SOAP + Oracle SQL + PL/SQL — exceptional match",
+        "Java + Spring Boot + SOAP + Oracle SQL + PL/SQL \u2014 exceptional match",
         "Fully remote, NY-resident eligible",
         "Healthcare benefits confirmed day one",
         "SOAP/REST and Oracle DB experience directly applies"
@@ -391,53 +429,10 @@
       ],
       "match_score": 87,
       "match_reasons": [
-        "Java + Spring Boot + REST + MongoDB + Jenkins + Git — near-perfect match",
+        "Java + Spring Boot + REST + MongoDB + Jenkins + Git \u2014 near-perfect match",
         "Fully remote, NY-resident eligible",
         "Healthcare benefits at large established insurer",
         "TDD/JUnit and Agile directly applicable"
-      ]
-    },
-    {
-      "id": "pratt-whitney-senior-java-mes-042026",
-      "title": "Senior Java Developer – MES (Remote)",
-      "company": "Pratt & Whitney (RTX)",
-      "location": "Remote - United States (US Citizens only)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-04-07T00:00:00+00:00",
-      "salary_min": 132400,
-      "salary_max": 251600,
-      "salary_text": "$132,400 - $251,600/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-java-developer-mes-remote-at-pratt-whitney-4388363742",
-      "description_snippet": "Develop and enhance Manufacturing Execution System (MES) applications at Pratt & Whitney using Java, Spring Boot, and React. Build microservices with Docker/Kubernetes supporting engine manufacturing operations. Requires 10+ years with Java, Spring Boot, REST APIs, Oracle/SQL Server, and React.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "React",
-        "REST APIs",
-        "Oracle",
-        "Docker",
-        "Kubernetes"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "Life insurance",
-        "Short/Long-term disability",
-        "401k match",
-        "Paid parental leave",
-        "Flexible scheduling",
-        "Employee Scholar Program"
-      ],
-      "match_score": 86,
-      "match_reasons": [
-        "Java + Spring Boot + React + Oracle + Docker + REST APIs — excellent match",
-        "Fully remote, NY-resident eligible (US citizen required)",
-        "Full benefits confirmed including medical and parental leave",
-        "10+ years experience aligns perfectly with experience level"
       ]
     },
     {
@@ -477,6 +472,88 @@
         "Distributed/data systems",
         "Full-time"
       ]
+    },
+    {
+      "id": "pratt-whitney-senior-java-mes-042026",
+      "title": "Senior Java Developer \u2013 MES (Remote)",
+      "company": "Pratt & Whitney (RTX)",
+      "location": "Remote - United States (US Citizens only)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-07T00:00:00+00:00",
+      "salary_min": 132400,
+      "salary_max": 251600,
+      "salary_text": "$132,400 - $251,600/yr",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-java-developer-mes-remote-at-pratt-whitney-4388363742",
+      "description_snippet": "Develop and enhance Manufacturing Execution System (MES) applications at Pratt & Whitney using Java, Spring Boot, and React. Build microservices with Docker/Kubernetes supporting engine manufacturing operations. Requires 10+ years with Java, Spring Boot, REST APIs, Oracle/SQL Server, and React.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "REST APIs",
+        "Oracle",
+        "Docker",
+        "Kubernetes"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "Life insurance",
+        "Short/Long-term disability",
+        "401k match",
+        "Paid parental leave",
+        "Flexible scheduling",
+        "Employee Scholar Program"
+      ],
+      "match_score": 86,
+      "match_reasons": [
+        "Java + Spring Boot + React + Oracle + Docker + REST APIs \u2014 excellent match",
+        "Fully remote, NY-resident eligible (US citizen required)",
+        "Full benefits confirmed including medical and parental leave",
+        "10+ years experience aligns perfectly with experience level"
+      ]
+    },
+    {
+      "title": "Java Developer w/Datadog",
+      "company": "SolutionIT, Inc.",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-21T00:00:00+00:00",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/30b2d145-574b-4018-8f51-b8868d1f10bc",
+      "description_snippet": "Remote full-time Java Developer role focused on building high-performance backend services and owning observability. Emphasis on Java API endpoints monitored with Datadog, plus Spring Boot, microservices, CI/CD, and cloud.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Microservices",
+        "SQL",
+        "Docker",
+        "Kubernetes",
+        "JUnit"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k"
+      ],
+      "match_score": 84,
+      "match_reasons": [
+        "Strong Java + Spring Boot",
+        "Microservices + REST APIs",
+        "Docker/Kubernetes tooling",
+        "Remote US"
+      ],
+      "id": "solutionit-inc-java-developer-w-datadog-2026-04-21"
     },
     {
       "id": "motorola-senior-se-java-042026",
@@ -595,6 +672,44 @@
       "match_score": 83
     },
     {
+      "id": "mongodb-senior-software-engineer-query-integration-2026-04-22t00-00-00-00-00",
+      "title": "Senior Software Engineer - Query Integration",
+      "company": "MongoDB",
+      "location": "North America (Remote)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-22T00:00:00+00:00",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Remotive",
+      "url": "https://remotive.com/remote/jobs/software-development/senior-software-engineer-query-integration-4459174",
+      "description_snippet": "Build user-facing features on top of MongoDB\u2019s core query engine and integrate query with other products in the ecosystem. Role can be based in US/Canada offices or remotely in North America.",
+      "key_skills": [
+        "MongoDB",
+        "Distributed systems",
+        "APIs",
+        "Query engines",
+        "C++",
+        "Java",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 83,
+      "match_reasons": [
+        "Remote North America",
+        "MongoDB ecosystem",
+        "Backend/distributed focus",
+        "Full-time"
+      ]
+    },
+    {
       "title": "ERP Software Developer",
       "company": "National Fuel",
       "location": "Williamsville/Buffalo, NY",
@@ -632,44 +747,6 @@
       "id": "national-fuel-erp-software-developer-williamsville-buffalo-ny-20260418"
     },
     {
-      "id": "mongodb-senior-software-engineer-query-integration-2026-04-22t00-00-00-00-00",
-      "title": "Senior Software Engineer - Query Integration",
-      "company": "MongoDB",
-      "location": "North America (Remote)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-04-22T00:00:00+00:00",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Remotive",
-      "url": "https://remotive.com/remote/jobs/software-development/senior-software-engineer-query-integration-4459174",
-      "description_snippet": "Build user-facing features on top of MongoDB’s core query engine and integrate query with other products in the ecosystem. Role can be based in US/Canada offices or remotely in North America.",
-      "key_skills": [
-        "MongoDB",
-        "Distributed systems",
-        "APIs",
-        "Query engines",
-        "C++",
-        "Java",
-        "Testing"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 83,
-      "match_reasons": [
-        "Remote North America",
-        "MongoDB ecosystem",
-        "Backend/distributed focus",
-        "Full-time"
-      ]
-    },
-    {
       "id": "gabriel-mccarthy-it-automation-engineer-at-roswell-park-cancer",
       "title": "IT Automation Engineer at Roswell Park Cancer ...",
       "company": "Gabriel McCarthy",
@@ -685,7 +762,7 @@
       "experience_level": "Mid-Senior",
       "source": "linkedin",
       "url": "https://www.linkedin.com/in/gabriel-mccarthy-29688924",
-      "description_snippet": "I'm a software engineer with experience in PL/SQL, Java, Javascript, HTML, software testing, and quality assurance. I've written functional and regression ...",
+      "description_snippet": "I'm a software engineer with experience in PL/SQL, Java, Javascript, HTML, software testing, and quality assurance. I've written functional and regression\u00a0...",
       "key_skills": [
         "Java",
         "SQL",
@@ -704,83 +781,6 @@
         "Strong match for Java/Spring/SQL backend work",
         "Full-time role with standard benefits expectations",
         "Remote or WNY-friendly location"
-      ]
-    },
-    {
-      "id": "mtb-se3-buffalo-042026",
-      "title": "Software Engineer III",
-      "company": "M&T Bank",
-      "location": "Buffalo, NY (Onsite — 4 days/week)",
-      "location_type": "Onsite",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-13T00:00:00+00:00",
-      "salary_min": 148375,
-      "salary_max": 158375,
-      "salary_text": "$148,375 - $158,375/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Senior (SE III)",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-m-t-bank-4401512719",
-      "description_snippet": "Senior-level Java/SpringBoot developer role at M&T Bank's Buffalo headquarters. Requires 6+ years of experience designing software solutions using Java and Spring Boot for enterprise systems. Four days per week onsite at 465 Main Street.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "SQL",
-        "REST APIs",
-        "Microservices",
-        "Git",
-        "CI/CD"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision (standard at company)",
-        "401k match",
-        "Paid time off",
-        "Parental leave",
-        "Tuition assistance"
-      ],
-      "match_score": 82,
-      "match_reasons": [
-        "Exact SE III title match",
-        "Java + Spring Boot core stack — perfect alignment",
-        "WNY local Buffalo HQ",
-        "Healthcare benefits at large established bank"
-      ]
-    },
-    {
-      "id": "national-fuel-gas-erp-software-developer-buffalo-20260411",
-      "title": "ERP Software Developer",
-      "company": "National Fuel Gas",
-      "location": "Buffalo, NY",
-      "location_type": "Onsite",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-11T00:00:00+00:00",
-      "salary_min": 82000,
-      "salary_max": 106000,
-      "salary_text": "$82,000 - $106,000",
-      "employment_type": "Full-time",
-      "experience_level": "Mid",
-      "source": "ZipRecruiter",
-      "url": "https://www.ziprecruiter.com/c/National-Fuel-Gas/Job/ERP-Software-Developer/-in-Buffalo,NY?jid=5de0df4a56e54278",
-      "description_snippet": "ZipRecruiter lists National Fuel Gas hiring an ERP Software Developer in Buffalo, NY, full-time, with a posted pay range of $82,000 - $106,000.",
-      "key_skills": [
-        "Software Development",
-        "ERP",
-        "SQL",
-        "Java",
-        "APIs",
-        "Troubleshooting"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k"
-      ],
-      "match_score": 82,
-      "match_reasons": [
-        "Buffalo/WNY role",
-        "Software developer role with SQL",
-        "Established employer benefits likely"
       ]
     },
     {
@@ -819,6 +819,83 @@
         "Strong SQL focus",
         "Data/analytics engineering",
         "Full-time"
+      ]
+    },
+    {
+      "id": "mtb-se3-buffalo-042026",
+      "title": "Software Engineer III",
+      "company": "M&T Bank",
+      "location": "Buffalo, NY (Onsite \u2014 4 days/week)",
+      "location_type": "Onsite",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-13T00:00:00+00:00",
+      "salary_min": 148375,
+      "salary_max": 158375,
+      "salary_text": "$148,375 - $158,375/yr",
+      "employment_type": "Full-time",
+      "experience_level": "Senior (SE III)",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-m-t-bank-4401512719",
+      "description_snippet": "Senior-level Java/SpringBoot developer role at M&T Bank's Buffalo headquarters. Requires 6+ years of experience designing software solutions using Java and Spring Boot for enterprise systems. Four days per week onsite at 465 Main Street.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "REST APIs",
+        "Microservices",
+        "Git",
+        "CI/CD"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision (standard at company)",
+        "401k match",
+        "Paid time off",
+        "Parental leave",
+        "Tuition assistance"
+      ],
+      "match_score": 82,
+      "match_reasons": [
+        "Exact SE III title match",
+        "Java + Spring Boot core stack \u2014 perfect alignment",
+        "WNY local Buffalo HQ",
+        "Healthcare benefits at large established bank"
+      ]
+    },
+    {
+      "id": "national-fuel-gas-erp-software-developer-buffalo-20260411",
+      "title": "ERP Software Developer",
+      "company": "National Fuel Gas",
+      "location": "Buffalo, NY",
+      "location_type": "Onsite",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-11T00:00:00+00:00",
+      "salary_min": 82000,
+      "salary_max": 106000,
+      "salary_text": "$82,000 - $106,000",
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "ZipRecruiter",
+      "url": "https://www.ziprecruiter.com/c/National-Fuel-Gas/Job/ERP-Software-Developer/-in-Buffalo,NY?jid=5de0df4a56e54278",
+      "description_snippet": "ZipRecruiter lists National Fuel Gas hiring an ERP Software Developer in Buffalo, NY, full-time, with a posted pay range of $82,000 - $106,000.",
+      "key_skills": [
+        "Software Development",
+        "ERP",
+        "SQL",
+        "Java",
+        "APIs",
+        "Troubleshooting"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k"
+      ],
+      "match_score": 82,
+      "match_reasons": [
+        "Buffalo/WNY role",
+        "Software developer role with SQL",
+        "Established employer benefits likely"
       ]
     },
     {
@@ -971,7 +1048,7 @@
       "match_score": 80,
       "match_reasons": [
         "SE III title exact match",
-        "WNY local — Buffalo tech company",
+        "WNY local \u2014 Buffalo tech company",
         "Python + Java skills applicable",
         "Healthcare and benefits confirmed"
       ]
@@ -979,7 +1056,7 @@
     {
       "id": "pacemete-java-backend-042026",
       "title": "Java Backend Developer",
-      "company": "PaceMate™",
+      "company": "PaceMate\u2122",
       "location": "Remote - All U.S. Locations",
       "location_type": "Remote",
       "is_wny": false,
@@ -992,7 +1069,7 @@
       "experience_level": "Mid-level (SE II)",
       "source": "Indeed",
       "url": "https://www.indeed.com/q-java-backend-developer-remote-jobs.html",
-      "description_snippet": "Java backend developer for PaceMateLIVE™, a cardiac remote monitoring platform integrating with diverse EHRs and cardiac device types. Develop RESTful webservices in Java, supporting real-time patient data management. Requires strong Java and Spring Framework background in healthcare tech.",
+      "description_snippet": "Java backend developer for PaceMateLIVE\u2122, a cardiac remote monitoring platform integrating with diverse EHRs and cardiac device types. Develop RESTful webservices in Java, supporting real-time patient data management. Requires strong Java and Spring Framework background in healthcare tech.",
       "key_skills": [
         "Java",
         "Spring Boot",
@@ -1034,7 +1111,7 @@
       "experience_level": "Mid-Senior",
       "source": "linkedin",
       "url": "https://www.linkedin.com/in/joshua-popelka-879a42338",
-      "description_snippet": "Joshua Popelka. Java and Javascript Developer | Computer Information Systems Graduate. Roswell Park Comprehensive Cancer Center Buffalo State University ...",
+      "description_snippet": "Joshua Popelka. Java and Javascript Developer | Computer Information Systems Graduate. Roswell Park Comprehensive Cancer Center Buffalo State University\u00a0...",
       "key_skills": [
         "Java",
         "SQL",
@@ -1114,7 +1191,7 @@
       "experience_level": "Senior",
       "source": "remote: sr. java developer jobs",
       "url": "https://www.dice.com/jobs/q-remote:+sr.+java+developer-jobs",
-      "description_snippet": "Full-time. USD 132,400.00 per year. Trebecon LLC · Easy Apply · Senior Java Fullstack Developer :: Remote :: W2 Position. Remote. •. 6d ...",
+      "description_snippet": "Full-time. USD 132,400.00 per year. Trebecon LLC \u00b7 Easy Apply \u00b7 Senior Java Fullstack Developer :: Remote :: W2 Position. Remote. \u2022. 6d\u00a0...",
       "key_skills": [
         "Java",
         "SQL",
@@ -1173,7 +1250,7 @@
       "match_score": 78,
       "match_reasons": [
         "SQL + PL/SQL + Oracle directly match core skills",
-        "WNY local — Williamsville (WNY suburb)",
+        "WNY local \u2014 Williamsville (WNY suburb)",
         "Full benefits package confirmed including medical",
         "Agile/Kanban experience directly applicable"
       ]
@@ -1194,7 +1271,7 @@
       "experience_level": "Senior",
       "source": "RemoteJobs.org",
       "url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-stripe",
-      "description_snippet": "5+ years of backend engineering experience · Strong proficiency in Ruby, Go, or Java · Experience with distributed systems and microservices.",
+      "description_snippet": "5+ years of backend engineering experience \u00b7 Strong proficiency in Ruby, Go, or Java \u00b7 Experience with distributed systems and microservices.",
       "key_skills": [
         "Java",
         "Microservices"
@@ -1389,7 +1466,7 @@
         "Git"
       ],
       "benefits_highlights": [
-        "Medical/Dental/Vision (Humana — insurance company, excellent benefits)",
+        "Medical/Dental/Vision (Humana \u2014 insurance company, excellent benefits)",
         "401k with match",
         "Bonus incentive plan",
         "Paid time off",
@@ -1401,6 +1478,42 @@
         "Fully remote, NY-resident eligible",
         "Exceptional healthcare benefits at a major insurer",
         "Primary language .NET vs Java is a gap but Python compensates"
+      ]
+    },
+    {
+      "id": "kaleida-health-it-analyst-i-2026-04-27t00-00-00-00-00",
+      "title": "IT Analyst I",
+      "company": "Kaleida Health",
+      "location": "Buffalo, NY",
+      "location_type": "Onsite",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-27T00:00:00+00:00",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Entry-level",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/it-analyst-i-at-kaleida-health-4406200675",
+      "description_snippet": "Provides IT support to assigned systems as a subject matter expert; writes technical design specifications, flowcharts, and test scripts; assists with test plans.",
+      "key_skills": [
+        "SQL",
+        "System support",
+        "Technical design",
+        "Testing",
+        "Documentation",
+        "Healthcare IT"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 70,
+      "match_reasons": [
+        "WNY healthcare employer",
+        "Some SQL/testing work",
+        "Full-time"
       ]
     },
     {
@@ -1438,42 +1551,6 @@
         "Backend engineering",
         "Full-time role",
         "Healthcare benefits"
-      ]
-    },
-    {
-      "id": "kaleida-health-it-analyst-i-2026-04-27t00-00-00-00-00",
-      "title": "IT Analyst I",
-      "company": "Kaleida Health",
-      "location": "Buffalo, NY",
-      "location_type": "Onsite",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-27T00:00:00+00:00",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Entry-level",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/it-analyst-i-at-kaleida-health-4406200675",
-      "description_snippet": "Provides IT support to assigned systems as a subject matter expert; writes technical design specifications, flowcharts, and test scripts; assists with test plans.",
-      "key_skills": [
-        "SQL",
-        "System support",
-        "Technical design",
-        "Testing",
-        "Documentation",
-        "Healthcare IT"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 70,
-      "match_reasons": [
-        "WNY healthcare employer",
-        "Some SQL/testing work",
-        "Full-time"
       ]
     },
     {
@@ -1522,7 +1599,7 @@
       "posted_date": "2026-04-18T00:00:00+00:00",
       "salary_min": 80000,
       "salary_max": 100000,
-      "salary_text": "$80,000–$100,000 annually",
+      "salary_text": "$80,000\u2013$100,000 annually",
       "employment_type": "Full-time",
       "experience_level": "Mid-level",
       "source": "LinkedIn",
@@ -1621,7 +1698,7 @@
       ],
       "match_score": 60,
       "match_reasons": [
-        "WNY local — Buffalo CBD role",
+        "WNY local \u2014 Buffalo CBD role",
         "SQL and database skills directly applicable",
         "Healthcare benefits confirmed",
         "Law firm tech roles stable and well-benefited"
