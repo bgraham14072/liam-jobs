@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-04T00:00:00+00:00",
-  "total": 44,
+  "last_updated": "2026-05-05T00:00:00+00:00",
+  "total": 45,
   "jobs": [
     {
       "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
@@ -514,6 +514,43 @@
         "Fully remote, NY-resident eligible (US citizen required)",
         "Full benefits confirmed including medical and parental leave",
         "10+ years experience aligns perfectly with experience level"
+      ]
+    },
+    {
+      "id": "dice-listing-full-stack-engineer-java-frontend-mid-to-senior-level-remote-u-s",
+      "title": "Full Stack Engineer (Java + Frontend) \u2013 Mid to Senior Level",
+      "company": "(Dice listing)",
+      "location": "Remote (U.S.)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-28T00:00:00+00:00",
+      "salary_min": 85000,
+      "salary_max": 160000,
+      "salary_text": "$85,000 - $160,000/yr",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/dacc5b0a-7894-4512-a463-8e94c2ea1616",
+      "description_snippet": "Remote full-time role focused on Java and Spring Boot backend services with a modern frontend (React/Angular/Vue). Emphasis on REST APIs, collaboration with product/QA, and end-to-end ownership.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "REST APIs",
+        "CI/CD",
+        "Git",
+        "HTML/CSS"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 86,
+      "match_reasons": [
+        "Java + Spring Boot core fit",
+        "Frontend React mentioned",
+        "Full-time remote US"
       ]
     },
     {
