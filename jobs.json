@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-07T00:00:00+00:00",
-  "total": 48,
+  "last_updated": "2026-05-08T11:12:24.233239+00:00",
+  "total": 49,
   "jobs": [
     {
       "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
@@ -196,6 +196,45 @@
         "Full-time role with standard benefits expectations",
         "Remote or WNY-friendly location"
       ]
+    },
+    {
+      "title": "Software Engineer II [Multiple Positions Available]",
+      "company": "M&T BANK CORPORATION",
+      "location": "Buffalo, NY",
+      "location_type": "On-site",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-02",
+      "salary_text": "USD $147,118 per year",
+      "salary_min": 147118,
+      "salary_max": 147118,
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/29cdbf87-87c2-488e-9a39-9199754d4191",
+      "description_snippet": "Complete and oversee basic to complex systems analysis, design, and development. Play a key role as an individual contributor on complex projects while maintaining an excellent functional understanding of the supported application(s).",
+      "key_skills": [
+        "Java",
+        "Python",
+        "SQL",
+        "Jenkins",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Ansible"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 91,
+      "match_reasons": [
+        "Java + DevOps tooling (Jenkins)",
+        "Docker/Kubernetes",
+        "Python automation",
+        "Buffalo-area role"
+      ],
+      "id": "m-t-bank-corporation-software-engineer-ii-multiple-positions-available-buffalo-n"
     },
     {
       "id": "allstate-senior-product-eng-java-042026",
