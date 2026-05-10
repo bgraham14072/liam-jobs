@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-09T11:08:04+00:00",
-  "total": 49,
+  "last_updated": "2026-05-10T11:01:29+00:00",
+  "total": 48,
   "jobs": [
     {
       "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
@@ -274,6 +274,47 @@
         "Fully remote, NY-resident eligible",
         "Healthcare benefits at top-50 US company",
         "Automated testing and Agile/Scrum directly applicable"
+      ]
+    },
+    {
+      "id": "mindex-software-engineer-hybrid-2026-05-10",
+      "title": "Software Engineer - Hybrid",
+      "company": "Mindex",
+      "location": "Rochester, NY, USA",
+      "location_type": "Hybrid",
+      "is_wny": false,
+      "is_remote": false,
+      "posted_date": "2026-05-10",
+      "salary_min": 92705.6,
+      "salary_max": 92705.6,
+      "salary_text": "$92,705.60 per year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "Built In",
+      "url": "https://builtin.com/job/software-engineer-hybrid/9293775",
+      "description_snippet": "The Software Engineer designs and develops software solutions, performs testing, supports systems, and collaborates cross-functionally while ensuring security protocols are followed. Mindex specializes in agile software development, cloud and data services, and building innovative products.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "Spring Boot",
+        "React",
+        "TypeScript",
+        "REST APIs",
+        "Oracle",
+        "SQL",
+        "Agile"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401k",
+        "Flexible time off"
+      ],
+      "match_score": 90,
+      "match_reasons": [
+        "Java + Spring Boot",
+        "React/TypeScript",
+        "Oracle/SQL",
+        "Hybrid NY role"
       ]
     },
     {
@@ -1331,43 +1372,6 @@
       ]
     },
     {
-      "id": "www-dice-com-remote-sr-java-developer-jobs-dice-com",
-      "title": "remote: sr. java developer jobs | Dice.com",
-      "company": "www.dice.com",
-      "location": "Remote (US)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-03-26",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "remote: sr. java developer jobs",
-      "url": "https://www.dice.com/jobs/q-remote:+sr.+java+developer-jobs",
-      "description_snippet": "Full-time. USD 132,400.00 per year. Trebecon LLC · Easy Apply · Senior Java Fullstack Developer :: Remote :: W2 Position. Remote. •. 6d ...",
-      "key_skills": [
-        "Java",
-        "SQL",
-        "REST APIs",
-        "Spring Boot",
-        "Docker",
-        "Kubernetes",
-        "Microservices"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 79,
-      "match_reasons": [
-        "Strong match for Java/Spring/SQL backend work",
-        "Full-time role with standard benefits expectations",
-        "Remote or WNY-friendly location"
-      ]
-    },
-    {
       "id": "roswell-park-programmer-analyst-buffalo-2026-04-23",
       "title": "Programmer Analyst",
       "company": "Roswell Park Comprehensive Cancer Center",
@@ -1744,42 +1748,6 @@
         "Backend engineering",
         "Full-time role",
         "Healthcare benefits"
-      ]
-    },
-    {
-      "id": "pratt-whitney-senior-java-developer-mes-remote-2026-03-26",
-      "title": "Senior Java Developer - MES (Remote)",
-      "company": "Pratt & Whitney",
-      "location": "Remote or Connecticut (US-CT-REMOTE)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-03-26",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "USD 132,400.00 per year (as shown on Dice snippet)",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Dice",
-      "url": "https://www.dice.com/jobs/q-remote:+sr.+java+developer-jobs",
-      "description_snippet": "Dice listing for Pratt & Whitney Senior Java Developer - MES notes Date Posted: 2026-03-26 and indicates a remote US role.",
-      "key_skills": [
-        "Java",
-        "MES",
-        "Backend",
-        "APIs",
-        "SQL",
-        "CI/CD"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 70,
-      "match_reasons": [
-        "Java",
-        "SQL",
-        "Remote-friendly"
       ]
     },
     {
