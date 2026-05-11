@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-10T11:01:29+00:00",
-  "total": 48,
+  "last_updated": "2026-05-11T00:00:00+00:00",
+  "total": 50,
   "jobs": [
     {
       "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
@@ -1824,6 +1824,75 @@
         "Senior-level position with compensation range",
         "Healthcare benefits confirmed at major hospital",
         "Technical specification and testing skills directly applicable"
+      ]
+    },
+    {
+      "id": "m-t-bank-senior-software-engineer-2026-04-30",
+      "title": "Senior Software Engineer",
+      "company": "M&T Bank",
+      "location": "Buffalo, NY",
+      "location_type": "On-site/Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-30",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-m-t-bank-4408562967",
+      "description_snippet": "Responsible at the advanced level for writing code and the team's technical requirements gathering. Independently completes work following banking technology standards and contributes to stability and resiliency within the SDLC.",
+      "key_skills": [
+        "Java",
+        "SDLC",
+        "Software Engineering",
+        "Banking systems",
+        "Code quality",
+        "Resiliency"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 68,
+      "match_reasons": [
+        "Java",
+        "WNY area"
+      ]
+    },
+    {
+      "id": "moog-inc-senior-software-engineer-2026-05-01",
+      "title": "Senior Software Engineer",
+      "company": "Moog Inc.",
+      "location": "Buffalo, NY (East Aurora)",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-01",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-moog-inc-4409050854",
+      "description_snippet": "Test Systems Engineering team role with hybrid schedule in East Aurora, NY. Experience programming in LabVIEW, C, Python, dSPACE, or Simulink; leading/organizing engineering teams.",
+      "key_skills": [
+        "Python",
+        "C",
+        "LabVIEW",
+        "Simulink",
+        "Test systems",
+        "Leadership"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 68,
+      "match_reasons": [
+        "WNY area"
       ]
     },
     {
