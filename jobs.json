@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-11T00:00:00+00:00",
-  "total": 50,
+  "last_updated": "2026-05-12T11:00:00+00:00",
+  "total": 53,
   "jobs": [
     {
       "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
@@ -137,7 +137,7 @@
       "experience_level": "Senior",
       "source": "LinkedIn",
       "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-java-and-net-at-m-t-bank-4387604926",
-      "description_snippet": "Join a small engineering team supporting and modernizing M&T Bank’s consumer lending technology. You’ll maintain a mission-critical Java 8 backend service integrating with a mainframe loan origination system, and help drive a cloud migration to Microsoft Azure and DevOps improvements.",
+      "description_snippet": "Join a small engineering team supporting and modernizing M&T Bank\u2019s consumer lending technology. You\u2019ll maintain a mission-critical Java 8 backend service integrating with a mainframe loan origination system, and help drive a cloud migration to Microsoft Azure and DevOps improvements.",
       "key_skills": [
         "Java",
         ".NET",
@@ -158,43 +158,6 @@
         "SQL/integrations work",
         "DevOps/CI-CD focus",
         "Buffalo/WNY role"
-      ]
-    },
-    {
-      "id": "www-builtinchicago-org-best-remote-java-developer-jobs-in-chicago-il-2026",
-      "title": "Best Remote Java Developer Jobs in Chicago, IL 2026",
-      "company": "www.builtinchicago.org",
-      "location": "Remote (US)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-04-19",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Mid",
-      "source": "builtinchicago.org",
-      "url": "https://www.builtinchicago.org/jobs/remote/dev-engineering/java",
-      "description_snippet": "Search the best Remote Java Developer Jobs from top companies & startups in Chicago, IL. New jobs added daily.",
-      "key_skills": [
-        "Java",
-        "Docker",
-        "Kubernetes",
-        "React",
-        "Jenkins",
-        "AWS",
-        "CI/CD"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 91,
-      "match_reasons": [
-        "Strong match for Java/Spring/SQL backend work",
-        "Full-time role with standard benefits expectations",
-        "Remote or WNY-friendly location"
       ]
     },
     {
@@ -237,43 +200,40 @@
       "id": "m-t-bank-corporation-software-engineer-ii-multiple-positions-available-buffalo-n"
     },
     {
-      "id": "allstate-senior-product-eng-java-042026",
-      "title": "Senior Product Engineer (Software/Java)",
-      "company": "Allstate",
-      "location": "Remote - United States",
+      "id": "www-builtinchicago-org-best-remote-java-developer-jobs-in-chicago-il-2026",
+      "title": "Best Remote Java Developer Jobs in Chicago, IL 2026",
+      "company": "www.builtinchicago.org",
+      "location": "Remote (US)",
       "location_type": "Remote",
       "is_wny": false,
       "is_remote": true,
-      "posted_date": "2026-04-09T00:00:00+00:00",
-      "salary_min": 90700,
-      "salary_max": 153925,
-      "salary_text": "$90,700 - $153,925/yr",
+      "posted_date": "2026-04-19",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
       "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-product-engineer-software-java-at-allstate-4397288192",
-      "description_snippet": "Senior-level Java engineer supporting Allstate's Enterprise Payments organization. Requires 4+ years Java/J2EE with Spring Boot, Spring Data, Spring Security. Must have REST APIs, Agile/Scrum or XP, CI/CD (Jenkins, GitHub), JUnit, Kubernetes, and Docker. Desirable: React/Angular, Kafka.",
+      "experience_level": "Mid",
+      "source": "builtinchicago.org",
+      "url": "https://www.builtinchicago.org/jobs/remote/dev-engineering/java",
+      "description_snippet": "Search the best Remote Java Developer Jobs from top companies & startups in Chicago, IL. New jobs added daily.",
       "key_skills": [
         "Java",
-        "Spring Boot",
-        "REST APIs",
-        "JUnit",
-        "Kubernetes",
         "Docker",
-        "Jenkins"
+        "Kubernetes",
+        "React",
+        "Jenkins",
+        "AWS",
+        "CI/CD"
       ],
       "benefits_highlights": [
-        "Medical/Dental/Vision (standard at Allstate)",
-        "401k",
-        "Paid time off",
-        "Remote work"
+        "Medical/Dental/Vision",
+        "401(k)"
       ],
-      "match_score": 90,
+      "match_score": 91,
       "match_reasons": [
-        "Java + Spring Boot + JUnit + Docker + Kubernetes + Jenkins — exact stack match",
-        "Fully remote, NY-resident eligible",
-        "Healthcare benefits at top-50 US company",
-        "Automated testing and Agile/Scrum directly applicable"
+        "Strong match for Java/Spring/SQL backend work",
+        "Full-time role with standard benefits expectations",
+        "Remote or WNY-friendly location"
       ]
     },
     {
@@ -315,6 +275,85 @@
         "React/TypeScript",
         "Oracle/SQL",
         "Hybrid NY role"
+      ]
+    },
+    {
+      "id": "allstate-senior-product-eng-java-042026",
+      "title": "Senior Product Engineer (Software/Java)",
+      "company": "Allstate",
+      "location": "Remote - United States",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-09T00:00:00+00:00",
+      "salary_min": 90700,
+      "salary_max": 153925,
+      "salary_text": "$90,700 - $153,925/yr",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-engineer-software-java-at-allstate-4397288192",
+      "description_snippet": "Senior-level Java engineer supporting Allstate's Enterprise Payments organization. Requires 4+ years Java/J2EE with Spring Boot, Spring Data, Spring Security. Must have REST APIs, Agile/Scrum or XP, CI/CD (Jenkins, GitHub), JUnit, Kubernetes, and Docker. Desirable: React/Angular, Kafka.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "JUnit",
+        "Kubernetes",
+        "Docker",
+        "Jenkins"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision (standard at Allstate)",
+        "401k",
+        "Paid time off",
+        "Remote work"
+      ],
+      "match_score": 90,
+      "match_reasons": [
+        "Java + Spring Boot + JUnit + Docker + Kubernetes + Jenkins \u2014 exact stack match",
+        "Fully remote, NY-resident eligible",
+        "Healthcare benefits at top-50 US company",
+        "Automated testing and Agile/Scrum directly applicable"
+      ]
+    },
+    {
+      "id": "acv-auctions-software-engineer-iii-acv-capital-remote-2026-05-06",
+      "title": "Software Engineer III, ACV Capital",
+      "company": "ACV Auctions",
+      "location": "Remote (US) / Buffalo, NY",
+      "location_type": "Remote",
+      "is_wny": true,
+      "is_remote": true,
+      "posted_date": "2026-05-06",
+      "salary_min": 105000,
+      "salary_max": 158000,
+      "salary_text": "$105,000 - $158,000 a year (Indeed listing)",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/cmp/Acv-Auctions/jobs/l-Remote",
+      "description_snippet": "Indeed shows ACV Auctions listing Software Engineer III (ACV Capital) with locations including Remote and Buffalo, NY, marked full-time, with a listed salary range of $105,000\u2013$158,000.",
+      "key_skills": [
+        "Java",
+        "SQL",
+        "REST APIs",
+        "Microservices",
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)",
+        "Paid time off"
+      ],
+      "match_score": 88,
+      "match_reasons": [
+        "Backend engineering fit",
+        "Java/SQL/microservices alignment",
+        "Remote and Buffalo option",
+        "Full-time"
       ]
     },
     {
@@ -395,7 +434,7 @@
     },
     {
       "id": "veeva-se-java-042026",
-      "title": "Software Engineer – Java",
+      "title": "Software Engineer \u2013 Java",
       "company": "Veeva Systems",
       "location": "Remote - United States",
       "location_type": "Remote",
@@ -429,7 +468,7 @@
       ],
       "match_score": 88,
       "match_reasons": [
-        "Java + Spring Boot + SQL + Jenkins + JUnit — near-perfect stack match",
+        "Java + Spring Boot + SQL + Jenkins + JUnit \u2014 near-perfect stack match",
         "Fully remote, NY-resident eligible",
         "Medical/Dental/Vision benefits confirmed",
         "Work Anywhere company policy"
@@ -437,7 +476,7 @@
     },
     {
       "id": "conduent-senior-java-pbm-042026",
-      "title": "Senior Java Developer – Healthcare / PBM Platform",
+      "title": "Senior Java Developer \u2013 Healthcare / PBM Platform",
       "company": "Conduent State Healthcare, LLC",
       "location": "Remote - United States",
       "location_type": "Remote",
@@ -470,49 +509,10 @@
       ],
       "match_score": 88,
       "match_reasons": [
-        "Java + Spring Boot + SOAP + Oracle SQL + PL/SQL — exceptional match",
+        "Java + Spring Boot + SOAP + Oracle SQL + PL/SQL \u2014 exceptional match",
         "Fully remote, NY-resident eligible",
         "Healthcare benefits confirmed day one",
         "SOAP/REST and Oracle DB experience directly applies"
-      ]
-    },
-    {
-      "id": "acv-auctions-software-engineer-iii-acv-capital-remote-2026-05-06",
-      "title": "Software Engineer III, ACV Capital",
-      "company": "ACV Auctions",
-      "location": "Remote (US) / Buffalo, NY",
-      "location_type": "Remote",
-      "is_wny": true,
-      "is_remote": true,
-      "posted_date": "2026-05-06",
-      "salary_min": 105000,
-      "salary_max": 158000,
-      "salary_text": "$105,000 - $158,000 a year (Indeed listing)",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-Senior",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/cmp/Acv-Auctions/jobs/l-Remote",
-      "description_snippet": "Indeed shows ACV Auctions listing Software Engineer III (ACV Capital) with locations including Remote and Buffalo, NY, marked full-time, with a listed salary range of $105,000–$158,000.",
-      "key_skills": [
-        "Java",
-        "SQL",
-        "REST APIs",
-        "Microservices",
-        "Docker",
-        "Kubernetes",
-        "CI/CD"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)",
-        "Paid time off"
-      ],
-      "match_score": 88,
-      "match_reasons": [
-        "Backend engineering fit",
-        "Java/SQL/microservices alignment",
-        "Remote and Buffalo option",
-        "Full-time"
       ]
     },
     {
@@ -549,10 +549,86 @@
       ],
       "match_score": 87,
       "match_reasons": [
-        "Java + Spring Boot + REST + MongoDB + Jenkins + Git — near-perfect match",
+        "Java + Spring Boot + REST + MongoDB + Jenkins + Git \u2014 near-perfect match",
         "Fully remote, NY-resident eligible",
         "Healthcare benefits at large established insurer",
         "TDD/JUnit and Agile directly applicable"
+      ]
+    },
+    {
+      "id": "acv-auctions-full-stack-software-engineer-iii-clearcar-remote-2026-05-06",
+      "title": "Full Stack Software Engineer III, ClearCar",
+      "company": "ACV Auctions",
+      "location": "Remote (US) / Buffalo, NY",
+      "location_type": "Remote",
+      "is_wny": true,
+      "is_remote": true,
+      "posted_date": "2026-05-06",
+      "salary_min": 105000,
+      "salary_max": 158000,
+      "salary_text": "$105,000 - $158,000 a year (Indeed listing)",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/cmp/Acv-Auctions/jobs/l-Remote",
+      "description_snippet": "Indeed shows ACV Auctions posting for Full Stack Software Engineer III (ClearCar) with locations including Remote and Buffalo, NY, full-time, and a listed salary range of $105,000\u2013$158,000.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "REST APIs",
+        "SQL",
+        "Docker",
+        "AWS"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)",
+        "Paid time off"
+      ],
+      "match_score": 86,
+      "match_reasons": [
+        "Full-stack with Java + React fit",
+        "Salary range provided",
+        "Remote and Buffalo option",
+        "Full-time"
+      ]
+    },
+    {
+      "id": "dice-listing-full-stack-engineer-java-frontend-mid-to-senior-level-remote-u-s",
+      "title": "Full Stack Engineer (Java + Frontend) \u2013 Mid to Senior Level",
+      "company": "(Dice listing)",
+      "location": "Remote (U.S.)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-28T00:00:00+00:00",
+      "salary_min": 85000,
+      "salary_max": 160000,
+      "salary_text": "$85,000 - $160,000/yr",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/dacc5b0a-7894-4512-a463-8e94c2ea1616",
+      "description_snippet": "Remote full-time role focused on Java and Spring Boot backend services with a modern frontend (React/Angular/Vue). Emphasis on REST APIs, collaboration with product/QA, and end-to-end ownership.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "REST APIs",
+        "CI/CD",
+        "Git",
+        "HTML/CSS"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 86,
+      "match_reasons": [
+        "Java + Spring Boot core fit",
+        "Frontend React mentioned",
+        "Full-time remote US"
       ]
     },
     {
@@ -594,8 +670,46 @@
       ]
     },
     {
+      "title": "Engineer (Java, Spring Boot, MongoDB) - Remote",
+      "company": "Mutual of Omaha",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-20",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$49.50 - $68 / hr (posted on ZipRecruiter)",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "ZipRecruiter",
+      "url": "https://www.ziprecruiter.com/Jobs/Java-Mongodb-Remote",
+      "description_snippet": "Full-time remote engineer role referencing Java, Spring Boot, and MongoDB. Listing indicates remote work and typical benefits for a large insurer.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "MongoDB",
+        "REST APIs",
+        "Microservices",
+        "CI/CD"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)",
+        "Remote"
+      ],
+      "match_score": 86,
+      "match_reasons": [
+        "Direct Java/Spring Boot match",
+        "Remote US",
+        "MongoDB experience fit",
+        "Full-time benefits"
+      ],
+      "id": "mutual-of-omaha-engineer-java-spring-boot-mongodb-remote"
+    },
+    {
       "id": "pratt-whitney-senior-java-mes-042026",
-      "title": "Senior Java Developer – MES (Remote)",
+      "title": "Senior Java Developer \u2013 MES (Remote)",
       "company": "Pratt & Whitney (RTX)",
       "location": "Remote - United States (US Citizens only)",
       "location_type": "Remote",
@@ -630,86 +744,10 @@
       ],
       "match_score": 86,
       "match_reasons": [
-        "Java + Spring Boot + React + Oracle + Docker + REST APIs — excellent match",
+        "Java + Spring Boot + React + Oracle + Docker + REST APIs \u2014 excellent match",
         "Fully remote, NY-resident eligible (US citizen required)",
         "Full benefits confirmed including medical and parental leave",
         "10+ years experience aligns perfectly with experience level"
-      ]
-    },
-    {
-      "id": "dice-listing-full-stack-engineer-java-frontend-mid-to-senior-level-remote-u-s",
-      "title": "Full Stack Engineer (Java + Frontend) – Mid to Senior Level",
-      "company": "(Dice listing)",
-      "location": "Remote (U.S.)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-04-28T00:00:00+00:00",
-      "salary_min": 85000,
-      "salary_max": 160000,
-      "salary_text": "$85,000 - $160,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-Senior",
-      "source": "Dice",
-      "url": "https://www.dice.com/job-detail/dacc5b0a-7894-4512-a463-8e94c2ea1616",
-      "description_snippet": "Remote full-time role focused on Java and Spring Boot backend services with a modern frontend (React/Angular/Vue). Emphasis on REST APIs, collaboration with product/QA, and end-to-end ownership.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "React",
-        "REST APIs",
-        "CI/CD",
-        "Git",
-        "HTML/CSS"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 86,
-      "match_reasons": [
-        "Java + Spring Boot core fit",
-        "Frontend React mentioned",
-        "Full-time remote US"
-      ]
-    },
-    {
-      "id": "acv-auctions-full-stack-software-engineer-iii-clearcar-remote-2026-05-06",
-      "title": "Full Stack Software Engineer III, ClearCar",
-      "company": "ACV Auctions",
-      "location": "Remote (US) / Buffalo, NY",
-      "location_type": "Remote",
-      "is_wny": true,
-      "is_remote": true,
-      "posted_date": "2026-05-06",
-      "salary_min": 105000,
-      "salary_max": 158000,
-      "salary_text": "$105,000 - $158,000 a year (Indeed listing)",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-Senior",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/cmp/Acv-Auctions/jobs/l-Remote",
-      "description_snippet": "Indeed shows ACV Auctions posting for Full Stack Software Engineer III (ClearCar) with locations including Remote and Buffalo, NY, full-time, and a listed salary range of $105,000–$158,000.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "React",
-        "REST APIs",
-        "SQL",
-        "Docker",
-        "AWS"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)",
-        "Paid time off"
-      ],
-      "match_score": 86,
-      "match_reasons": [
-        "Full-stack with Java + React fit",
-        "Salary range provided",
-        "Remote and Buffalo option",
-        "Full-time"
       ]
     },
     {
@@ -883,7 +921,7 @@
       "experience_level": "Senior",
       "source": "Remotive",
       "url": "https://remotive.com/remote/jobs/software-development/senior-software-engineer-query-integration-4459174",
-      "description_snippet": "Build user-facing features on top of MongoDB’s core query engine and integrate query with other products in the ecosystem. Role can be based in US/Canada offices or remotely in North America.",
+      "description_snippet": "Build user-facing features on top of MongoDB\u2019s core query engine and integrate query with other products in the ecosystem. Role can be based in US/Canada offices or remotely in North America.",
       "key_skills": [
         "MongoDB",
         "Distributed systems",
@@ -943,6 +981,44 @@
       "id": "national-fuel-erp-software-developer-williamsville-buffalo-ny-20260418"
     },
     {
+      "id": "wethehobby-senior-backend-engineer-rochester-2026-05-06",
+      "title": "Senior Backend Engineer",
+      "company": "WeTheHobby",
+      "location": "Rochester, NY",
+      "location_type": "On-site",
+      "is_wny": false,
+      "is_remote": false,
+      "posted_date": "2026-05-06",
+      "salary_min": 130000,
+      "salary_max": 150000,
+      "salary_text": "$130,000 \u2013 $150,000 (LinkedIn snippet)",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-wethehobby-4310814668",
+      "description_snippet": "LinkedIn snippet describes a Senior Backend Engineer role focused on designing, building, and scaling backend systems, with a benefits package including health/dental/vision, and compensation listed at $130,000\u2013$150,000.",
+      "key_skills": [
+        "Backend",
+        "APIs",
+        "Microservices",
+        "SQL",
+        "Cloud",
+        "Docker",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "Paid time off"
+      ],
+      "match_score": 82,
+      "match_reasons": [
+        "Senior backend focus",
+        "Good compensation range",
+        "Upstate NY location",
+        "Benefits mentioned"
+      ]
+    },
+    {
       "id": "gabriel-mccarthy-it-automation-engineer-at-roswell-park-cancer",
       "title": "IT Automation Engineer at Roswell Park Cancer ...",
       "company": "Gabriel McCarthy",
@@ -958,7 +1034,7 @@
       "experience_level": "Mid-Senior",
       "source": "linkedin",
       "url": "https://www.linkedin.com/in/gabriel-mccarthy-29688924",
-      "description_snippet": "I'm a software engineer with experience in PL/SQL, Java, Javascript, HTML, software testing, and quality assurance. I've written functional and regression ...",
+      "description_snippet": "I'm a software engineer with experience in PL/SQL, Java, Javascript, HTML, software testing, and quality assurance. I've written functional and regression\u00a0...",
       "key_skills": [
         "Java",
         "SQL",
@@ -983,7 +1059,7 @@
       "id": "mtb-se3-buffalo-042026",
       "title": "Software Engineer III",
       "company": "M&T Bank",
-      "location": "Buffalo, NY (Onsite — 4 days/week)",
+      "location": "Buffalo, NY (Onsite \u2014 4 days/week)",
       "location_type": "Onsite",
       "is_wny": true,
       "is_remote": false,
@@ -1015,7 +1091,7 @@
       "match_score": 82,
       "match_reasons": [
         "Exact SE III title match",
-        "Java + Spring Boot core stack — perfect alignment",
+        "Java + Spring Boot core stack \u2014 perfect alignment",
         "WNY local Buffalo HQ",
         "Healthcare benefits at large established bank"
       ]
@@ -1057,42 +1133,42 @@
       ]
     },
     {
-      "id": "wethehobby-senior-backend-engineer-rochester-2026-05-06",
-      "title": "Senior Backend Engineer",
-      "company": "WeTheHobby",
-      "location": "Rochester, NY",
-      "location_type": "On-site",
+      "title": "Staff Software Engineer, Search & Distributed Systems",
+      "company": "ACV Auctions",
+      "location": "Remote (US)",
+      "location_type": "Remote",
       "is_wny": false,
-      "is_remote": false,
-      "posted_date": "2026-05-06",
-      "salary_min": 130000,
-      "salary_max": 150000,
-      "salary_text": "$130,000 – $150,000 (LinkedIn snippet)",
+      "is_remote": true,
+      "posted_date": "2026-04-25",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
       "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-wethehobby-4310814668",
-      "description_snippet": "LinkedIn snippet describes a Senior Backend Engineer role focused on designing, building, and scaling backend systems, with a benefits package including health/dental/vision, and compensation listed at $130,000–$150,000.",
+      "experience_level": "Staff",
+      "source": "Himalayas",
+      "url": "https://himalayas.app/companies/acv-auctions/jobs/staff-software-engineer-search-distributed-systems",
+      "description_snippet": "Staff-level role focused on search and distributed systems at ACV Auctions. Remote position with emphasis on scalable backend services and system reliability.",
       "key_skills": [
-        "Backend",
-        "APIs",
-        "Microservices",
-        "SQL",
-        "Cloud",
-        "Docker",
-        "Testing"
+        "Distributed systems",
+        "Search",
+        "Backend engineering",
+        "Scalability",
+        "Reliability",
+        "Cloud"
       ],
       "benefits_highlights": [
         "Medical/Dental/Vision",
-        "Paid time off"
+        "401(k)",
+        "Remote"
       ],
-      "match_score": 82,
+      "match_score": 81,
       "match_reasons": [
-        "Senior backend focus",
-        "Good compensation range",
-        "Upstate NY location",
-        "Benefits mentioned"
-      ]
+        "Remote US",
+        "Backend/distributed systems",
+        "Senior scope",
+        "Full-time benefits"
+      ],
+      "id": "acv-auctions-staff-software-engineer-search-distributed-systems"
     },
     {
       "id": "highmark-health-software-engineer-remote-20260422",
@@ -1244,7 +1320,7 @@
       "match_score": 80,
       "match_reasons": [
         "SE III title exact match",
-        "WNY local — Buffalo tech company",
+        "WNY local \u2014 Buffalo tech company",
         "Python + Java skills applicable",
         "Healthcare and benefits confirmed"
       ]
@@ -1252,7 +1328,7 @@
     {
       "id": "pacemete-java-backend-042026",
       "title": "Java Backend Developer",
-      "company": "PaceMate™",
+      "company": "PaceMate\u2122",
       "location": "Remote - All U.S. Locations",
       "location_type": "Remote",
       "is_wny": false,
@@ -1265,7 +1341,7 @@
       "experience_level": "Mid-level (SE II)",
       "source": "Indeed",
       "url": "https://www.indeed.com/q-java-backend-developer-remote-jobs.html",
-      "description_snippet": "Java backend developer for PaceMateLIVE™, a cardiac remote monitoring platform integrating with diverse EHRs and cardiac device types. Develop RESTful webservices in Java, supporting real-time patient data management. Requires strong Java and Spring Framework background in healthcare tech.",
+      "description_snippet": "Java backend developer for PaceMateLIVE\u2122, a cardiac remote monitoring platform integrating with diverse EHRs and cardiac device types. Develop RESTful webservices in Java, supporting real-time patient data management. Requires strong Java and Spring Framework background in healthcare tech.",
       "key_skills": [
         "Java",
         "Spring Boot",
@@ -1292,6 +1368,45 @@
       ]
     },
     {
+      "title": "Senior Software Engineer (Test Systems)",
+      "company": "Moog Inc.",
+      "location": "East Aurora/Buffalo, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-01",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-moog-inc-4409050854",
+      "description_snippet": "Test Systems Engineering team role with hybrid schedule in East Aurora, NY. Experience with Python/C and engineering test platforms noted. Senior-level leadership and communication emphasized.",
+      "key_skills": [
+        "Python",
+        "C",
+        "Test automation",
+        "Systems integration",
+        "Simulink",
+        "dSPACE",
+        "Leadership"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)",
+        "PTO"
+      ],
+      "match_score": 79,
+      "match_reasons": [
+        "WNY hybrid",
+        "Uses Python",
+        "Senior engineering role",
+        "Full-time benefits"
+      ],
+      "id": "moog-inc-senior-software-engineer-test-systems"
+    },
+    {
       "id": "joshua-popelka-java-and-javascript-developer-linkedin",
       "title": "Java and Javascript Developer - LinkedIn",
       "company": "Joshua Popelka",
@@ -1307,7 +1422,7 @@
       "experience_level": "Mid-Senior",
       "source": "linkedin",
       "url": "https://www.linkedin.com/in/joshua-popelka-879a42338",
-      "description_snippet": "Joshua Popelka. Java and Javascript Developer | Computer Information Systems Graduate. Roswell Park Comprehensive Cancer Center Buffalo State University ...",
+      "description_snippet": "Joshua Popelka. Java and Javascript Developer | Computer Information Systems Graduate. Roswell Park Comprehensive Cancer Center Buffalo State University\u00a0...",
       "key_skills": [
         "Java",
         "SQL",
@@ -1326,6 +1441,44 @@
         "Strong match for Java/Spring/SQL backend work",
         "Full-time role with standard benefits expectations",
         "Remote or WNY-friendly location"
+      ]
+    },
+    {
+      "id": "roswell-park-programmer-analyst-buffalo-2026-04-23",
+      "title": "Programmer Analyst",
+      "company": "Roswell Park Comprehensive Cancer Center",
+      "location": "Buffalo, NY",
+      "location_type": "Onsite",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-23",
+      "salary_min": 78126,
+      "salary_max": 78126,
+      "salary_text": "$78,126 starting annual salary",
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/programmer-analyst-at-roswell-park-comprehensive-cancer-center-4405431522",
+      "description_snippet": "Full-time role supporting value-based care initiatives by building interactive dashboards and analytics. Requires ability to develop complex SQL queries; prefers Power BI/Microsoft Fabric and healthcare data familiarity.",
+      "key_skills": [
+        "SQL",
+        "Power BI",
+        "Microsoft Fabric",
+        "Data modeling",
+        "Healthcare data",
+        "Dashboarding",
+        "ETL",
+        "Reporting"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 79,
+      "match_reasons": [
+        "WNY location bonus",
+        "Strong SQL component",
+        "Full-time healthcare employer"
       ]
     },
     {
@@ -1372,44 +1525,6 @@
       ]
     },
     {
-      "id": "roswell-park-programmer-analyst-buffalo-2026-04-23",
-      "title": "Programmer Analyst",
-      "company": "Roswell Park Comprehensive Cancer Center",
-      "location": "Buffalo, NY",
-      "location_type": "Onsite",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-23",
-      "salary_min": 78126,
-      "salary_max": 78126,
-      "salary_text": "$78,126 starting annual salary",
-      "employment_type": "Full-time",
-      "experience_level": "Mid",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/programmer-analyst-at-roswell-park-comprehensive-cancer-center-4405431522",
-      "description_snippet": "Full-time role supporting value-based care initiatives by building interactive dashboards and analytics. Requires ability to develop complex SQL queries; prefers Power BI/Microsoft Fabric and healthcare data familiarity.",
-      "key_skills": [
-        "SQL",
-        "Power BI",
-        "Microsoft Fabric",
-        "Data modeling",
-        "Healthcare data",
-        "Dashboarding",
-        "ETL",
-        "Reporting"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 79,
-      "match_reasons": [
-        "WNY location bonus",
-        "Strong SQL component",
-        "Full-time healthcare employer"
-      ]
-    },
-    {
       "id": "national-fuel-erp-developer-042026",
       "title": "ERP Software Developer",
       "company": "National Fuel Gas Company",
@@ -1447,7 +1562,7 @@
       "match_score": 78,
       "match_reasons": [
         "SQL + PL/SQL + Oracle directly match core skills",
-        "WNY local — Williamsville (WNY suburb)",
+        "WNY local \u2014 Williamsville (WNY suburb)",
         "Full benefits package confirmed including medical",
         "Agile/Kanban experience directly applicable"
       ]
@@ -1468,7 +1583,7 @@
       "experience_level": "Senior",
       "source": "RemoteJobs.org",
       "url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-stripe",
-      "description_snippet": "5+ years of backend engineering experience · Strong proficiency in Ruby, Go, or Java · Experience with distributed systems and microservices.",
+      "description_snippet": "5+ years of backend engineering experience \u00b7 Strong proficiency in Ruby, Go, or Java \u00b7 Experience with distributed systems and microservices.",
       "key_skills": [
         "Java",
         "Microservices"
@@ -1663,7 +1778,7 @@
         "Git"
       ],
       "benefits_highlights": [
-        "Medical/Dental/Vision (Humana — insurance company, excellent benefits)",
+        "Medical/Dental/Vision (Humana \u2014 insurance company, excellent benefits)",
         "401k with match",
         "Bonus incentive plan",
         "Paid time off",
@@ -1760,7 +1875,7 @@
       "posted_date": "2026-04-18T00:00:00+00:00",
       "salary_min": 80000,
       "salary_max": 100000,
-      "salary_text": "$80,000–$100,000 annually",
+      "salary_text": "$80,000\u2013$100,000 annually",
       "employment_type": "Full-time",
       "experience_level": "Mid-level",
       "source": "LinkedIn",
@@ -1827,6 +1942,40 @@
       ]
     },
     {
+      "id": "moog-inc-senior-software-engineer-2026-05-01",
+      "title": "Senior Software Engineer",
+      "company": "Moog Inc.",
+      "location": "Buffalo, NY (East Aurora)",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-01",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-moog-inc-4409050854",
+      "description_snippet": "Test Systems Engineering team role with hybrid schedule in East Aurora, NY. Experience programming in LabVIEW, C, Python, dSPACE, or Simulink; leading/organizing engineering teams.",
+      "key_skills": [
+        "Python",
+        "C",
+        "LabVIEW",
+        "Simulink",
+        "Test systems",
+        "Leadership"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 68,
+      "match_reasons": [
+        "WNY area"
+      ]
+    },
+    {
       "id": "m-t-bank-senior-software-engineer-2026-04-30",
       "title": "Senior Software Engineer",
       "company": "M&T Bank",
@@ -1858,40 +2007,6 @@
       "match_score": 68,
       "match_reasons": [
         "Java",
-        "WNY area"
-      ]
-    },
-    {
-      "id": "moog-inc-senior-software-engineer-2026-05-01",
-      "title": "Senior Software Engineer",
-      "company": "Moog Inc.",
-      "location": "Buffalo, NY (East Aurora)",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-05-01",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Mid-Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-moog-inc-4409050854",
-      "description_snippet": "Test Systems Engineering team role with hybrid schedule in East Aurora, NY. Experience programming in LabVIEW, C, Python, dSPACE, or Simulink; leading/organizing engineering teams.",
-      "key_skills": [
-        "Python",
-        "C",
-        "LabVIEW",
-        "Simulink",
-        "Test systems",
-        "Leadership"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 68,
-      "match_reasons": [
         "WNY area"
       ]
     },
@@ -1928,7 +2043,7 @@
       ],
       "match_score": 60,
       "match_reasons": [
-        "WNY local — Buffalo CBD role",
+        "WNY local \u2014 Buffalo CBD role",
         "SQL and database skills directly applicable",
         "Healthcare benefits confirmed",
         "Law firm tech roles stable and well-benefited"
