@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-12T11:00:00+00:00",
-  "total": 53,
+  "last_updated": "2026-05-13T11:05:40.186357+00:00",
+  "total": 54,
   "jobs": [
     {
       "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
@@ -1133,6 +1133,43 @@
       ]
     },
     {
+      "id": "new-york-ehealth-collaborative-nyec-integration-engineer-coordinator-2026-05-13",
+      "title": "Integration Engineer/Coordinator",
+      "company": "New York eHealth Collaborative (NYeC)",
+      "location": "Albany, NY or Manhattan, NY (Hybrid)",
+      "location_type": "Hybrid",
+      "is_wny": false,
+      "is_remote": false,
+      "posted_date": "2026-05-13",
+      "salary_min": 110000,
+      "salary_max": 155000,
+      "salary_text": "$110,000\u2013$155,000 annually (varies by location)",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/integration-engineer-coordinator-at-new-york-ehealth-collaborative-4133657215",
+      "description_snippet": "NYeC is seeking an Integration Engineer/Coordinator to design and maintain integrations across healthcare systems using REST/SOAP/JSON and cloud platforms. Role mentions Java/Python and interoperability standards like HL7/FHIR.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "REST APIs",
+        "HL7",
+        "FHIR",
+        "PostgreSQL",
+        "AWS/Azure"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 82,
+      "match_reasons": [
+        "Healthcare domain",
+        "Java/Python + REST",
+        "Interoperability + integrations"
+      ]
+    },
+    {
       "title": "Staff Software Engineer, Search & Distributed Systems",
       "company": "ACV Auctions",
       "location": "Remote (US)",
@@ -1323,48 +1360,6 @@
         "WNY local \u2014 Buffalo tech company",
         "Python + Java skills applicable",
         "Healthcare and benefits confirmed"
-      ]
-    },
-    {
-      "id": "pacemete-java-backend-042026",
-      "title": "Java Backend Developer",
-      "company": "PaceMate\u2122",
-      "location": "Remote - All U.S. Locations",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-03-28T00:00:00+00:00",
-      "salary_min": 100000,
-      "salary_max": 145000,
-      "salary_text": "$100,000 - $145,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/q-java-backend-developer-remote-jobs.html",
-      "description_snippet": "Java backend developer for PaceMateLIVE\u2122, a cardiac remote monitoring platform integrating with diverse EHRs and cardiac device types. Develop RESTful webservices in Java, supporting real-time patient data management. Requires strong Java and Spring Framework background in healthcare tech.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "SQL",
-        "HL7/FHIR",
-        "Git",
-        "Agile"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k",
-        "Prescription drug insurance",
-        "AD&D insurance",
-        "Paid time off",
-        "Employee discount"
-      ],
-      "match_score": 80,
-      "match_reasons": [
-        "Java + Spring Framework + REST APIs direct match",
-        "Fully remote, NY-resident eligible",
-        "Medical benefits confirmed in listing",
-        "Healthcare domain experience advantage"
       ]
     },
     {
@@ -1565,6 +1560,43 @@
         "WNY local \u2014 Williamsville (WNY suburb)",
         "Full benefits package confirmed including medical",
         "Agile/Kanban experience directly applicable"
+      ]
+    },
+    {
+      "id": "delaware-north-workday-integrations-developer-and-engineer-2026-05-13",
+      "title": "Workday Integrations Developer and Engineer",
+      "company": "Delaware North",
+      "location": "Buffalo, NY",
+      "location_type": "Onsite",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-13",
+      "salary_min": 95900,
+      "salary_max": 129400,
+      "salary_text": "$95,900\u2013$129,400 annually",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/workday-integrations-developer-and-engineer-at-delaware-north-4409219378",
+      "description_snippet": "Delaware North is hiring a full-time Workday Integrations Developer and Engineer in Buffalo. The role focuses on integration development (APIs/REST), data formats (JSON/XML), and automation within CI environments; benefits and pay range are listed.",
+      "key_skills": [
+        "REST APIs",
+        "Python",
+        "JSON",
+        "XML",
+        "AWS",
+        "CI/CD",
+        "Workday"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 78,
+      "match_reasons": [
+        "WNY role",
+        "Integration + API development",
+        "Python + AWS"
       ]
     },
     {
