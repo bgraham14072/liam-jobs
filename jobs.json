@@ -1,6 +1,5 @@
 {
-  "last_updated": "2026-05-15T00:44:30+00:00",
-  "total": 54,
+  "last_updated": "2026-05-16T11:08:31Z",
   "jobs": [
     {
       "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
@@ -475,87 +474,6 @@
       ]
     },
     {
-      "id": "conduent-senior-java-pbm-042026",
-      "title": "Senior Java Developer \u2013 Healthcare / PBM Platform",
-      "company": "Conduent State Healthcare, LLC",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-03-30T00:00:00+00:00",
-      "salary_min": 110630,
-      "salary_max": 139380,
-      "salary_text": "$110,630 - $139,380/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Company Site",
-      "url": "https://remotive.com/remote/jobs/software-development/senior-java-developer-4205861",
-      "description_snippet": "Senior Java developer for Conduent's Pharmacy Benefit Management (PBM) platform. Design and code Java-based microservices supporting healthcare Point-of-Sale applications. Requires 8+ years experience with Java, Spring Boot, SOAP/REST web services, Oracle SQL, and Oracle/Azure environments.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "SOAP",
-        "REST APIs",
-        "Oracle SQL",
-        "PL/SQL",
-        "Jenkins"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k",
-        "Paid training",
-        "Paid time off",
-        "Career growth opportunities"
-      ],
-      "match_score": 88,
-      "match_reasons": [
-        "Java + Spring Boot + SOAP + Oracle SQL + PL/SQL \u2014 exceptional match",
-        "Fully remote, NY-resident eligible",
-        "Healthcare benefits confirmed day one",
-        "SOAP/REST and Oracle DB experience directly applies"
-      ]
-    },
-    {
-      "id": "allstate-product-eng-java-042026",
-      "title": "Product Engineer Java Spring Boot",
-      "company": "Allstate",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-03-30T00:00:00+00:00",
-      "salary_min": 85000,
-      "salary_max": 145075,
-      "salary_text": "$85,000 - $145,075/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/product-engineer-java-spring-boot-at-allstate-4392153280",
-      "description_snippet": "Build and own full-stack digital products at Allstate using Java Spring Boot, REST APIs, and microservices. Practice paired programming and test-driven development (TDD). Experience with MongoDB, Kafka messaging, CI/CD (Jenkins, Git), and Agile/XP required.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "Microservices",
-        "MongoDB",
-        "Jenkins",
-        "Git"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision (standard at Allstate)",
-        "401k",
-        "Paid time off",
-        "Remote work"
-      ],
-      "match_score": 87,
-      "match_reasons": [
-        "Java + Spring Boot + REST + MongoDB + Jenkins + Git \u2014 near-perfect match",
-        "Fully remote, NY-resident eligible",
-        "Healthcare benefits at large established insurer",
-        "TDD/JUnit and Agile directly applicable"
-      ]
-    },
-    {
       "id": "acv-auctions-full-stack-software-engineer-iii-clearcar-remote-2026-05-06",
       "title": "Full Stack Software Engineer III, ClearCar",
       "company": "ACV Auctions",
@@ -981,6 +899,43 @@
       "id": "national-fuel-erp-software-developer-williamsville-buffalo-ny-20260418"
     },
     {
+      "id": "highmarkhealth-engen-software-engineer-illinois-wfh",
+      "title": "Software Engineer",
+      "company": "enGen (Highmark Health)",
+      "location": "Illinois (Working at Home)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-30",
+      "salary_min": 86400,
+      "salary_max": 138600,
+      "salary_text": "$86,400 - $138,600",
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "Highmark Health Careers",
+      "url": "https://careers.highmarkhealth.org/software-engineer/job/ED3DB5C2945DFC550DB91E74E9C8A543",
+      "description_snippet": "Agile software engineer role building scalable applications across digital channels; experience with Java/Python/JavaScript and web services (REST/HTTPS/JSON).",
+      "key_skills": [
+        "Java",
+        "Python",
+        "REST APIs",
+        "React",
+        "AWS",
+        "NoSQL",
+        "Agile/Scrum"
+      ],
+      "benefits_highlights": [
+        "Healthcare domain",
+        "Mentorship opportunities"
+      ],
+      "match_score": 83,
+      "match_reasons": [
+        "Java + REST APIs align",
+        "Cloud (AWS) exposure",
+        "React mentioned; fits full-stack"
+      ]
+    },
+    {
       "id": "wethehobby-senior-backend-engineer-rochester-2026-05-06",
       "title": "Senior Backend Engineer",
       "company": "WeTheHobby",
@@ -1170,6 +1125,42 @@
       ]
     },
     {
+      "id": "acv-auctions-software-engineer-iv-max-digital-buffalo",
+      "title": "Software Engineer IV, Max Digital",
+      "company": "ACV Auctions",
+      "location": "Buffalo, NY",
+      "location_type": "Onsite",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-12",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-iv-max-digital-at-acv-auctions-4413730090",
+      "description_snippet": "Backend development and maintenance of services hosted in AWS using SQL databases; mentions Docker/Kubernetes and CI/CD.",
+      "key_skills": [
+        "AWS",
+        "SQL",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "APIs",
+        "Microservices"
+      ],
+      "benefits_highlights": [
+        "Buffalo-based"
+      ],
+      "match_score": 82,
+      "match_reasons": [
+        "WNY location bump",
+        "Backend + cloud + containers",
+        "APIs + SQL match"
+      ]
+    },
+    {
       "title": "Staff Software Engineer, Search & Distributed Systems",
       "company": "ACV Auctions",
       "location": "Remote (US)",
@@ -1279,46 +1270,6 @@
         "Full-time role",
         "Healthcare benefits",
         "WNY location"
-      ]
-    },
-    {
-      "id": "highmark-engen-se-042026",
-      "title": "Software Engineer",
-      "company": "enGen (Highmark Health)",
-      "location": "Remote (50+ miles from print facility)",
-      "location_type": "Remote",
-      "is_wny": true,
-      "is_remote": true,
-      "posted_date": "2026-04-16T00:00:00+00:00",
-      "salary_min": 86400,
-      "salary_max": 138600,
-      "salary_text": "$86,400 - $138,600/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "Company Site",
-      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/en-US/highmark/job/Software-Engineer_J279182",
-      "description_snippet": "Software engineer on an agile team building scalable applications for a variable data printing platform at enGen, a Highmark Health subsidiary. Involves full SDLC from idea generation to deployment using Java, Python, JavaScript, React, Angular, AWS, or GCP. Primarily remote for those 50+ miles from a facility.",
-      "key_skills": [
-        "Java",
-        "Python",
-        "JavaScript",
-        "React",
-        "Angular",
-        "REST APIs",
-        "Agile/Scrum"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision (Highmark Health)",
-        "401k",
-        "Paid time off",
-        "HIPAA-compliant environment"
-      ],
-      "match_score": 80,
-      "match_reasons": [
-        "Java + Python + React + REST APIs match core skills",
-        "Remote-eligible for Buffalo residents",
-        "Healthcare benefits via Highmark subsidiary",
-        "Agile/Scrum directly applicable"
       ]
     },
     {
@@ -1781,47 +1732,6 @@
         "Healthcare employer",
         "WNY location",
         "Full-time"
-      ]
-    },
-    {
-      "id": "humana-senior-se-remote-042026",
-      "title": "Senior Software Engineer",
-      "company": "Humana",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-03-31T00:00:00+00:00",
-      "salary_min": 106900,
-      "salary_max": 147000,
-      "salary_text": "$106,900 - $147,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-humana-4386666624",
-      "description_snippet": "Senior software engineer at Humana working on .NET/Python applications supporting pharmacy benefit platforms. Requires 5+ years .NET, cloud (Azure/GCP), Docker, Kubernetes, PostgreSQL, and Git. Focus on high availability, regulatory standards, and cross-team collaboration. Full-time remote.",
-      "key_skills": [
-        "Python",
-        "SQL",
-        "Docker",
-        "Kubernetes",
-        "REST APIs",
-        "PostgreSQL",
-        "Git"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision (Humana \u2014 insurance company, excellent benefits)",
-        "401k with match",
-        "Bonus incentive plan",
-        "Paid time off",
-        "Parental leave"
-      ],
-      "match_score": 72,
-      "match_reasons": [
-        "Python + SQL + Docker + Kubernetes + REST APIs skills match",
-        "Fully remote, NY-resident eligible",
-        "Exceptional healthcare benefits at a major insurer",
-        "Primary language .NET vs Java is a gap but Python compensates"
       ]
     },
     {
