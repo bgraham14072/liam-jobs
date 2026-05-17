@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T11:08:31Z",
+  "last_updated": "2026-05-17T11:01:26Z",
   "jobs": [
     {
       "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
@@ -786,6 +786,41 @@
       ]
     },
     {
+      "id": "engen-highmark-software-engineer-ed3db5c2",
+      "title": "Software Engineer",
+      "company": "enGen (Highmark Health)",
+      "location": "Work at Home (Illinois)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-30",
+      "salary_min": 86400,
+      "salary_max": 138600,
+      "salary_text": "Pay range $86,400 - $138,600",
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "Highmark Health Careers",
+      "url": "https://careers.highmarkhealth.org/software-engineer/job/ED3DB5C2945DFC550DB91E74E9C8A543",
+      "description_snippet": "Agile software engineer role building scalable applications across digital channels; participate in scrum ceremonies and full SDLC; uses modern languages (Java/Python/JavaScript) and web services (REST/JSON).",
+      "key_skills": [
+        "Java",
+        "Python",
+        "React",
+        "REST APIs",
+        "AWS",
+        "GCP",
+        "Agile",
+        "JSON"
+      ],
+      "benefits_highlights": [],
+      "match_score": 84,
+      "match_reasons": [
+        "Healthcare payer tech (Highmark)",
+        "Matches Java/Python/React + REST",
+        "Remote US role"
+      ]
+    },
+    {
       "title": "Engineer, Enterprise Data Management",
       "company": "Delaware North",
       "location": "Buffalo, NY",
@@ -897,43 +932,6 @@
         "Full-time established employer"
       ],
       "id": "national-fuel-erp-software-developer-williamsville-buffalo-ny-20260418"
-    },
-    {
-      "id": "highmarkhealth-engen-software-engineer-illinois-wfh",
-      "title": "Software Engineer",
-      "company": "enGen (Highmark Health)",
-      "location": "Illinois (Working at Home)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-04-30",
-      "salary_min": 86400,
-      "salary_max": 138600,
-      "salary_text": "$86,400 - $138,600",
-      "employment_type": "Full-time",
-      "experience_level": "Mid",
-      "source": "Highmark Health Careers",
-      "url": "https://careers.highmarkhealth.org/software-engineer/job/ED3DB5C2945DFC550DB91E74E9C8A543",
-      "description_snippet": "Agile software engineer role building scalable applications across digital channels; experience with Java/Python/JavaScript and web services (REST/HTTPS/JSON).",
-      "key_skills": [
-        "Java",
-        "Python",
-        "REST APIs",
-        "React",
-        "AWS",
-        "NoSQL",
-        "Agile/Scrum"
-      ],
-      "benefits_highlights": [
-        "Healthcare domain",
-        "Mentorship opportunities"
-      ],
-      "match_score": 83,
-      "match_reasons": [
-        "Java + REST APIs align",
-        "Cloud (AWS) exposure",
-        "React mentioned; fits full-stack"
-      ]
     },
     {
       "id": "wethehobby-senior-backend-engineer-rochester-2026-05-06",
@@ -1660,42 +1658,6 @@
         "Microservices"
       ],
       "id": "ovation-software-engineer-ii-or-senior-backend-remote-20260424"
-    },
-    {
-      "id": "dataannotation-full-stack-developer-kotlin-or-java-remote",
-      "title": "Full Stack Developer (Kotlin or Java)",
-      "company": "DataAnnotation",
-      "location": "United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-04-01T00:00:00+00:00",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "Projects paid hourly, starting at $40+ USD per hour",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/full-stack-developer-kotlin-or-java-at-dataannotation-4334609314",
-      "description_snippet": "Remote programming role to help advance AI development; seeks proficiency in Kotlin or Java and other languages like React/Python. Projects are paid hourly starting at $40+ USD per hour.",
-      "key_skills": [
-        "Java",
-        "Kotlin",
-        "React",
-        "Python",
-        "TypeScript",
-        "REST APIs",
-        "Software Engineering"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 75,
-      "match_reasons": [
-        "Java backend fit",
-        "Fully remote US"
-      ]
     },
     {
       "id": "kaleida-health-ux-ui-developer-buffalo-ziprecruiter-042026",
