@@ -1,45 +1,7 @@
 {
-  "last_updated": "2026-05-17T11:01:26Z",
+  "last_updated": "2026-05-18T11:17:33+00:00",
+  "total": 50,
   "jobs": [
-    {
-      "title": "Lead Full Stack Java Software Engineer - Digital Banking Platform",
-      "company": "Delaware North",
-      "location": "Buffalo, NY or Remote",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": true,
-      "posted_date": "2026-04-03T00:00:00+00:00",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Dice",
-      "url": "https://www.dice.com/job-detail/d387e7fb-3abe-4810-8d98-12df32c69fc8",
-      "description_snippet": "Lead Full Stack Java Software Engineer for a digital banking platform; role listed as Remote or Buffalo, New York. Focus likely includes Java full-stack development for banking applications.",
-      "key_skills": [
-        "Java",
-        "Spring",
-        "REST APIs",
-        "SQL",
-        "Microservices",
-        "CI/CD",
-        "AWS",
-        "React"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k"
-      ],
-      "match_score": 97,
-      "match_reasons": [
-        "Strong Java fit",
-        "Spring/Spring Boot",
-        "SQL and backend data",
-        "US-remote eligible"
-      ],
-      "id": "delaware-north-lead-full-stack-java-software-engineer-digital-banking-platform-wny-20260403"
-    },
     {
       "title": "Senior Software Engineer - Java",
       "company": "Veeva Systems",
