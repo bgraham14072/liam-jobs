@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T11:17:21.226971Z",
+  "last_updated": "2026-05-22T11:04:12.033211Z",
   "jobs": [
     {
       "title": "Java Developer w/Datadog",
@@ -565,6 +565,41 @@
       ]
     },
     {
+      "id": "veeva_principal-full-stack-engineer_remote-us",
+      "title": "Principal Full-Stack Engineer",
+      "company": "Veeva Systems",
+      "location": "United States",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-05-18",
+      "salary_min": 150000,
+      "salary_max": 300000,
+      "salary_text": "$150k\u2013$300k (per listing)",
+      "employment_type": "Full-time",
+      "experience_level": "Principal",
+      "source": "Himalayas (Veeva)",
+      "url": "https://himalayas.app/companies/veeva-systems/jobs/principal-full-stack-engineer-remote-ready-impactful",
+      "description_snippet": "Principal full-stack engineering role in life sciences SaaS; emphasizes Java and Spring, mentorship, and owning implementations in a fast-paced environment.",
+      "key_skills": [
+        "Java",
+        "Spring",
+        "SaaS",
+        "Microservices",
+        "APIs",
+        "Full-stack",
+        "Mentoring",
+        "Cloud"
+      ],
+      "benefits_highlights": [],
+      "match_score": 83,
+      "match_reasons": [
+        "Remote US",
+        "Strong Java/Spring match",
+        "Life sciences/healthcare-adjacent domain"
+      ]
+    },
+    {
       "id": "mindex-software-engineer-hybrid-2026-05-10",
       "title": "Software Engineer - Hybrid",
       "company": "Mindex",
@@ -1042,6 +1077,41 @@
         "react",
         "REST APIs",
         "Remote"
+      ]
+    },
+    {
+      "id": "jobs-via-dice_servicenow-software-engineer-ii_buffalo-ny",
+      "title": "ServiceNow Software Engineer II",
+      "company": "Imagine Staffing Technology (via Jobs via Dice)",
+      "location": "Buffalo, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-21",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$70/hour (per listing snippet)",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "LinkedIn (Jobs via Dice)",
+      "url": "https://www.linkedin.com/jobs/view/servicenow-software-engineer-at-jobs-via-dice-4415691968",
+      "description_snippet": "ServiceNow Software Engineer II role (hybrid 4 days/week in office) involving ServiceNow development and administration (CMDB/CSDM/APM) and integrations via REST APIs / Integration Hub.",
+      "key_skills": [
+        "ServiceNow",
+        "REST APIs",
+        "Integration Hub",
+        "CMDB",
+        "CSDM",
+        "APM",
+        "Systems Analysis",
+        "JavaScript"
+      ],
+      "benefits_highlights": [],
+      "match_score": 76,
+      "match_reasons": [
+        "WNY location (Buffalo)",
+        "Mentions REST API integration",
+        "Software engineering role, but stack is ServiceNow-focused vs Java/Spring"
       ]
     },
     {
