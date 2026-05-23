@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T11:04:12.033211Z",
+  "last_updated": "2026-05-23",
   "jobs": [
     {
       "title": "Java Developer w/Datadog",
@@ -597,6 +597,40 @@
         "Remote US",
         "Strong Java/Spring match",
         "Life sciences/healthcare-adjacent domain"
+      ]
+    },
+    {
+      "id": "moog_senior_application_developer_buffalo_indeed_fbef5fba",
+      "title": "Senior Application Developer",
+      "company": "Moog",
+      "location": "Buffalo, NY (East Aurora, NY hybrid)",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-04-21",
+      "salary_min": 110000,
+      "salary_max": 140000,
+      "salary_text": "$110,000 - $140,000 a year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=fbef5fba69e88a3e",
+      "description_snippet": "Design/build/operate enterprise applications in Azure and on-prem environments; full-stack development, cloud architecture, and DevOps automation in a hybrid schedule.",
+      "key_skills": [
+        "Azure",
+        "Java",
+        "SQL",
+        "CI/CD",
+        "Docker",
+        "Kubernetes",
+        "React"
+      ],
+      "benefits_highlights": [],
+      "match_score": 83,
+      "match_reasons": [
+        "WNY hybrid role",
+        "Strong app dev + DevOps overlap (Docker/K8s)",
+        "Senior level aligns with SWE III/Senior search"
       ]
     },
     {
