@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24",
+  "last_updated": "2026-05-25",
   "jobs": [
     {
       "title": "Java Developer w/Datadog",
@@ -43,50 +43,6 @@
         "Remote"
       ],
       "id": "solutionit-inc-java-developer-w-datadog-2026-04-21"
-    },
-    {
-      "id": "allstate-senior-product-eng-java-042026",
-      "title": "Senior Product Engineer (Software/Java)",
-      "company": "Allstate",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-04-09T00:00:00+00:00",
-      "salary_min": 90700,
-      "salary_max": 153925,
-      "salary_text": "$90,700 - $153,925/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-product-engineer-software-java-at-allstate-4397288192",
-      "description_snippet": "Senior-level Java engineer supporting Allstate's Enterprise Payments organization. Requires 4+ years Java/J2EE with Spring Boot, Spring Data, Spring Security. Must have REST APIs, Agile/Scrum or XP, CI/CD (Jenkins, GitHub), JUnit, Kubernetes, and Docker. Desirable: React/Angular, Kafka.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "JUnit",
-        "Kubernetes",
-        "Docker",
-        "Jenkins"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision (standard at Allstate)",
-        "401k",
-        "Paid time off",
-        "Remote work"
-      ],
-      "match_score": 92,
-      "match_reasons": [
-        "java",
-        "spring",
-        "docker",
-        "kubernetes",
-        "jenkins",
-        "react",
-        "REST APIs",
-        "Remote"
-      ]
     },
     {
       "title": "Java fullstack developer",
@@ -258,6 +214,41 @@
       ]
     },
     {
+      "id": "ziprecruiter-thatch-software-engineer-backend-remote-us",
+      "title": "Software Engineer: Backend",
+      "company": "Thatch",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-05-15",
+      "salary_min": 161000,
+      "salary_max": 230000,
+      "salary_text": "$161K-$230K/yr (estimated)",
+      "employment_type": "Full-time",
+      "experience_level": "Mid/Senior",
+      "source": "ZipRecruiter",
+      "url": "https://www.ziprecruiter.com/c/Thatch/Job/Software-Engineer:-Backend/-in-Remote,US?jid=41933998107492bf",
+      "description_snippet": "Backend engineer to build core systems for health benefits: data models, fund flows, automations, and integrations; emphasizes correctness and scale.",
+      "key_skills": [
+        "Backend",
+        "APIs",
+        "Data modeling",
+        "Integrations",
+        "Payments",
+        "Automation",
+        "Reliability",
+        "Observability"
+      ],
+      "benefits_highlights": [],
+      "match_score": 88,
+      "match_reasons": [
+        "Healthcare/benefits domain",
+        "Backend systems + integrations",
+        "Strong match to microservices/API experience"
+      ]
+    },
+    {
       "id": "dice-mtbank-lead-software-engineer-identity-access-08e2921b-b279-4007-8f5a-4fbce492261a",
       "title": "Lead Software Engineer - Identity Access",
       "company": "M&T Bank Corporation",
@@ -335,6 +326,48 @@
         "kubernetes",
         "microservice",
         "Remote"
+      ]
+    },
+    {
+      "id": "ziprecruiter-arbiter-senior-backend-engineer-remote-us",
+      "title": "Senior Backend Engineer",
+      "company": "Arbiter",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-04-26",
+      "salary_min": 148500,
+      "salary_max": 190000,
+      "salary_text": "$148,500-$190,000 base salary (range)",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "ZipRecruiter",
+      "url": "https://www.ziprecruiter.com/c/Arbiter/Job/Senior-Backend-Engineer/-in-Remote,US?jid=cbb68cda6f2702d8",
+      "description_snippet": "Senior Backend Engineer role building agentic workflows in healthcare; engineer production systems at scale with strong fundamentals.",
+      "key_skills": [
+        "Backend",
+        "Distributed systems",
+        "Java",
+        "Python",
+        "APIs",
+        "Testing",
+        "Cloud",
+        "Workflow automation"
+      ],
+      "benefits_highlights": [
+        "Medical",
+        "Dental",
+        "Vision",
+        "Life",
+        "Retirement",
+        "PTO"
+      ],
+      "match_score": 86,
+      "match_reasons": [
+        "Healthcare domain",
+        "Backend focus with API/system design",
+        "Mentions Java/Python as relevant languages"
       ]
     },
     {
@@ -457,6 +490,41 @@
         "Backend-focused",
         "Strong overlap on APIs, databases, cloud",
         "Compensation range listed"
+      ]
+    },
+    {
+      "id": "dice-hcl-america-java-developer-remote",
+      "title": "Java Developer",
+      "company": "HCL America Inc.",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-05-09",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Senior/Lead",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/5477ee3c-5e1f-42ce-a312-b83c60036142",
+      "description_snippet": "Senior Technical Lead role using Spring Boot, React.js, and Java; leading technical team and overseeing architecture/design/deployment.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "REST APIs",
+        "Architecture",
+        "Leadership",
+        "Deployment",
+        "Microservices"
+      ],
+      "benefits_highlights": [],
+      "match_score": 84,
+      "match_reasons": [
+        "Direct Java + Spring Boot + React alignment",
+        "Full-time remote",
+        "Microservices/architecture relevance"
       ]
     },
     {
@@ -658,6 +726,41 @@
         "WNY hybrid role",
         "Strong app dev + DevOps overlap (Docker/K8s)",
         "Senior level aligns with SWE III/Senior search"
+      ]
+    },
+    {
+      "id": "linkedin-stripe-full-stack-engineer-enterprise-ecosystem",
+      "title": "Full Stack Engineer, Enterprise & Ecosystem",
+      "company": "Stripe",
+      "location": "Remote or office (35+ miles from a Stripe office qualifies as remote)",
+      "location_type": "Hybrid",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-05-21",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Mid/Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-enterprise-ecosystem-at-stripe-4418012285",
+      "description_snippet": "Build connectors/integrations and Stripe services/infrastructure for transactional flows and data migration; role available remote or office.",
+      "key_skills": [
+        "Full-stack",
+        "Integrations",
+        "APIs",
+        "Infrastructure",
+        "Data migration",
+        "Web stack",
+        "Services",
+        "Ownership"
+      ],
+      "benefits_highlights": [],
+      "match_score": 82,
+      "match_reasons": [
+        "Full-stack + integrations",
+        "Remote eligible",
+        "Systems/infrastructure focus"
       ]
     },
     {
@@ -1605,48 +1708,6 @@
       "benefits_highlights": [
         "Medical/Dental/Vision",
         "401k"
-      ],
-      "match_score": 68,
-      "match_reasons": [
-        "java",
-        "sql",
-        "WNY location"
-      ]
-    },
-    {
-      "id": "national-fuel-erp-developer-042026",
-      "title": "ERP Software Developer",
-      "company": "National Fuel Gas Company",
-      "location": "Williamsville, NY (Hybrid)",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-10T00:00:00+00:00",
-      "salary_min": 82000,
-      "salary_max": 106000,
-      "salary_text": "$82,000 - $106,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "Company Site",
-      "url": "https://www.nationalfuel.com/careers/erp-software-developer/",
-      "description_snippet": "Configure, code, and test ERP software solutions for National Fuel Gas Company at their Williamsville, NY headquarters (near Buffalo). Analyze requirements and design software solutions within an Agile/Kanban environment. Preferred: 5+ years in full-stack development with Oracle PeopleTools.",
-      "key_skills": [
-        "SQL",
-        "Oracle PeopleTools",
-        "Java",
-        "PL/SQL",
-        "Agile/Kanban",
-        "Full-Stack Development",
-        "ERP Systems"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k with company match",
-        "Paid parental leave",
-        "Tuition reimbursement",
-        "Flexible Spending Account",
-        "Life insurance",
-        "Paid holidays"
       ],
       "match_score": 68,
       "match_reasons": [
