@@ -1,5 +1,6 @@
 {
-  "last_updated": "2026-05-28T11:12:29Z",
+  "last_updated": "2026-05-29T11:05:58+00:00",
+  "total": 60,
   "jobs": [
     {
       "title": "Java Developer w/Datadog",
@@ -319,76 +320,6 @@
       ]
     },
     {
-      "id": "ub-application-development-analyst-ii-linkedin-4413358741",
-      "title": "Application Development Analyst II (EAS)",
-      "company": "University at Buffalo",
-      "location": "Buffalo, NY",
-      "location_type": "On-site",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": null,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Mid-Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/application-development-analyst-ii-eas-at-university-at-buffalo-4413358741",
-      "description_snippet": "DevOps/Infrastructure Enablement team role providing software development expertise and technical leadership for enterprise application initiatives.",
-      "key_skills": [
-        "DevOps",
-        "Software development",
-        "CI/CD",
-        "APIs",
-        "Enterprise systems",
-        "Leadership"
-      ],
-      "benefits_highlights": [],
-      "match_score": 87,
-      "match_reasons": [
-        "WNY (Buffalo) location (+)",
-        "Software development + DevOps overlap",
-        "Likely enterprise Java/SQL environment"
-      ]
-    },
-    {
-      "title": "Senior Software Engineer - Generative AI",
-      "company": "M&T Bank",
-      "location": "Buffalo, NY",
-      "location_type": "On-site",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-05-28",
-      "salary_min": 97100,
-      "salary_max": 161800,
-      "salary_text": "USD $97,100 - $161,800 per year",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Dice",
-      "url": "https://www.dice.com/job-detail/d06a7baa-decb-4276-b589-c2f3ca321cc5",
-      "description_snippet": "Hands-on contributor building GenAI-enabled capabilities; build APIs/backend services connecting LLMs; Java/Python/C#; REST APIs; CI/CD and testing.",
-      "key_skills": [
-        "Java",
-        "Python",
-        "REST APIs",
-        "Microservices",
-        "CI/CD",
-        "Automated testing",
-        "Azure"
-      ],
-      "benefits_highlights": [
-        "Competitive pay range listed"
-      ],
-      "match_score": 87,
-      "match_reasons": [
-        "WNY (Buffalo)",
-        "Java and Python mentioned",
-        "Backend/API work",
-        "Testing/CI/CD aligns with Jenkins/JUnit"
-      ],
-      "id": "a7cafc2daab5"
-    },
-    {
       "id": "jobgether-6a14ceff1afd2625c12c87f0",
       "title": "Software Engineer - Java",
       "company": "Veeva Systems",
@@ -467,49 +398,6 @@
         "Healthcare domain",
         "Backend focus with API/system design",
         "Mentions Java/Python as relevant languages"
-      ]
-    },
-    {
-      "id": "mtb-se3-buffalo-042026",
-      "title": "Software Engineer III",
-      "company": "M&T Bank",
-      "location": "Buffalo, NY (Onsite \u2014 4 days/week)",
-      "location_type": "Onsite",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-13T00:00:00+00:00",
-      "salary_min": 148375,
-      "salary_max": 158375,
-      "salary_text": "$148,375 - $158,375/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Senior (SE III)",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-m-t-bank-4401512719",
-      "description_snippet": "Senior-level Java/SpringBoot developer role at M&T Bank's Buffalo headquarters. Requires 6+ years of experience designing software solutions using Java and Spring Boot for enterprise systems. Four days per week onsite at 465 Main Street.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "SQL",
-        "REST APIs",
-        "Microservices",
-        "Git",
-        "CI/CD"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision (standard at company)",
-        "401k match",
-        "Paid time off",
-        "Parental leave",
-        "Tuition assistance"
-      ],
-      "match_score": 86,
-      "match_reasons": [
-        "java",
-        "spring",
-        "sql",
-        "REST APIs",
-        "microservice",
-        "WNY location"
       ]
     },
     {
@@ -1132,39 +1020,40 @@
       ]
     },
     {
-      "title": "Software Engineer IV, Max Digital",
-      "company": "ACV Auctions",
-      "location": "Buffalo, NY (Remote)",
-      "location_type": "Remote",
+      "id": "m-t-bank-senior-software-engineer-generative-ai-2026-05-28",
+      "title": "Senior Software Engineer - Generative AI",
+      "company": "M&T Bank",
+      "location": "Buffalo, NY",
+      "location_type": "On-site",
       "is_wny": true,
-      "is_remote": true,
-      "posted_date": "2026-05-12",
-      "salary_min": 130000,
-      "salary_max": 180000,
-      "salary_text": "$130,000 - $180,000 a year",
+      "is_remote": false,
+      "posted_date": "2026-05-28",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "USD $97,100 - $161,800 per year",
       "employment_type": "Full-time",
       "experience_level": "Senior",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/viewjob?jk=4378e5a510d12e29",
-      "description_snippet": "Backend development/maintenance of .NET services hosted in AWS using SQL Server; develop APIs, services, background workers.",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/d06a7baa-decb-4276-b589-c2f3ca321cc5",
+      "description_snippet": "Hands-on contributor building GenAI-enabled capabilities; build APIs/backend services connecting LLMs; Java/Python/C#; REST APIs; CI/CD and testing.",
       "key_skills": [
-        "APIs",
-        "AWS",
-        "SQL Server",
-        "C#/.NET",
-        "Backend services",
-        "MVC",
-        "Reliability"
+        "Java",
+        "Python",
+        "REST APIs",
+        "Microservices",
+        "CI/CD",
+        "Automated testing",
+        "Azure"
       ],
-      "benefits_highlights": [],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
       "match_score": 80,
       "match_reasons": [
-        "Remote",
-        "WNY company",
-        "API/backend role",
-        "Strong SQL focus"
-      ],
-      "id": "96f674eee862"
+        "Java",
+        "WNY area"
+      ]
     },
     {
       "id": "158dbd963209ac2f",
@@ -1868,40 +1757,75 @@
       ]
     },
     {
-      "id": "delaware-north-senior-platform-engineer-onsite-buffalo-ny",
-      "title": "Senior Platform Engineer",
-      "company": "Delaware North",
+      "id": "m-t-bank-lead-full-stack-java-software-engineer-digital-banking-platform-2026-05-14",
+      "title": "Lead Full Stack Java Software Engineer  Digital Banking Platform",
+      "company": "M&T Bank",
       "location": "Buffalo, NY",
-      "location_type": "Onsite",
+      "location_type": "Hybrid",
       "is_wny": true,
       "is_remote": false,
-      "posted_date": "2026-04-14T00:00:00+00:00",
-      "salary_min": 100700,
-      "salary_max": 136000,
-      "salary_text": "$100,700 - $136,000 / year",
+      "posted_date": "2026-05-14",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$116,400 - $194,000 Annual (USD)",
       "employment_type": "Full-time",
-      "experience_level": "Senior",
+      "experience_level": "Lead",
       "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-platform-engineer-at-delaware-north-4396173398",
-      "description_snippet": "Design and support modern integration solutions connecting enterprise systems; build APIs and integrations and improve reliability with CI/CD and monitoring.",
+      "url": "https://www.linkedin.com/jobs/view/lead-full-stack-java-software-engineer-%E2%80%93-digital-banking-platform-at-m-t-bank-4414648227",
+      "description_snippet": "Hands-on technical leader (~80% coding) guiding SDLC; high-quality code, testing, mentoring; distributed systems and databases.",
       "key_skills": [
         "Java",
-        "REST APIs",
-        "CI/CD",
-        "GitLab",
-        "AWS/Azure",
-        "Integration"
+        "Full stack",
+        "SDLC",
+        "Testing",
+        "Distributed systems",
+        "Databases",
+        "Mentoring"
       ],
       "benefits_highlights": [
         "Medical/Dental/Vision",
-        "401(k)",
-        "PTO"
+        "401(k)"
       ],
       "match_score": 68,
       "match_reasons": [
-        "java",
-        "REST APIs",
-        "WNY location"
+        "Java",
+        "WNY area"
+      ]
+    },
+    {
+      "id": "acv-auctions-software-engineer-iv-max-digital-2026-05-12",
+      "title": "Software Engineer IV, Max Digital",
+      "company": "ACV Auctions",
+      "location": "Buffalo, NY (Remote)",
+      "location_type": "Remote",
+      "is_wny": true,
+      "is_remote": true,
+      "posted_date": "2026-05-12",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$130,000 - $180,000 a year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=4378e5a510d12e29",
+      "description_snippet": "Backend development/maintenance of .NET services hosted in AWS using SQL Server; develop APIs, services, background workers.",
+      "key_skills": [
+        "APIs",
+        "AWS",
+        "SQL Server",
+        "C#/.NET",
+        "Backend services",
+        "MVC",
+        "Reliability"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 66,
+      "match_reasons": [
+        "WNY area",
+        "Remote-friendly"
       ]
     },
     {
