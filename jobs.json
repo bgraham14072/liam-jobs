@@ -1,5 +1,6 @@
 {
-  "last_updated": "2026-05-30T11:08:21Z",
+  "last_updated": "2026-05-31T11:01:52+00:00",
+  "total": 64,
   "jobs": [
     {
       "title": "Java Developer w/Datadog",
@@ -143,7 +144,7 @@
       "experience_level": "Mid-Senior",
       "source": "linkedin",
       "url": "https://www.linkedin.com/in/joshua-popelka-879a42338",
-      "description_snippet": "Joshua Popelka. Java and Javascript Developer | Computer Information Systems Graduate. Roswell Park Comprehensive Cancer Center Buffalo State University\u00a0...",
+      "description_snippet": "Joshua Popelka. Java and Javascript Developer | Computer Information Systems Graduate. Roswell Park Comprehensive Cancer Center Buffalo State University ...",
       "key_skills": [
         "Java",
         "SQL",
@@ -220,7 +221,7 @@
       "experience_level": "Mid-Senior",
       "source": "Indeed",
       "url": "https://www.indeed.com/cmp/Acv-Auctions/jobs/l-Remote",
-      "description_snippet": "Indeed shows ACV Auctions posting for Full Stack Software Engineer III (ClearCar) with locations including Remote and Buffalo, NY, full-time, and a listed salary range of $105,000\u2013$158,000.",
+      "description_snippet": "Indeed shows ACV Auctions posting for Full Stack Software Engineer III (ClearCar) with locations including Remote and Buffalo, NY, full-time, and a listed salary range of $105,000–$158,000.",
       "key_skills": [
         "Java",
         "Spring Boot",
@@ -263,7 +264,7 @@
       "experience_level": "Mid-Senior",
       "source": "Indeed",
       "url": "https://www.indeed.com/cmp/Acv-Auctions/jobs/l-Remote",
-      "description_snippet": "Indeed shows ACV Auctions listing Software Engineer III (ACV Capital) with locations including Remote and Buffalo, NY, marked full-time, with a listed salary range of $105,000\u2013$158,000.",
+      "description_snippet": "Indeed shows ACV Auctions listing Software Engineer III (ACV Capital) with locations including Remote and Buffalo, NY, marked full-time, with a listed salary range of $105,000–$158,000.",
       "key_skills": [
         "Java",
         "SQL",
@@ -396,6 +397,42 @@
       ]
     },
     {
+      "id": "eagleview-sr-software-engineer-2026-05-29",
+      "title": "Sr. Software Engineer",
+      "company": "EagleView",
+      "location": "Rochester, NY (hybrid)",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-29",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$100,000-$160,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=b2825f1e9a824be9",
+      "description_snippet": "Sr. Software Engineer at EagleView in Rochester, NY (hybrid); design, develop, test, deploy multiple products; scalable service-layer code.",
+      "key_skills": [
+        "REST APIs",
+        "Microservices",
+        "CI/CD",
+        "Docker",
+        "Kubernetes",
+        "Java",
+        "Python"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 88,
+      "match_reasons": [
+        "Java",
+        "WNY area"
+      ]
+    },
+    {
       "id": "jobgether-6a14ceff1afd2625c12c87f0",
       "title": "Software Engineer - Java",
       "company": "Veeva Systems",
@@ -477,6 +514,43 @@
       ]
     },
     {
+      "id": "oscar-health-software-engineer-ii-2026-05-30",
+      "title": "Software Engineer II",
+      "company": "Oscar Health",
+      "location": "New York, NY (telecommuting permitted)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-05-30",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$163,944-$195,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "NYTimes Jobs",
+      "url": "https://jobs.nytimes.com/job/software-engineer-ii-509959524",
+      "description_snippet": "Software Engineer II at Oscar Health; telecommuting permitted; lead planning, execution and release of complex technical projects.",
+      "key_skills": [
+        "Java",
+        "REST APIs",
+        "Microservices",
+        "SQL",
+        "CI/CD",
+        "Kubernetes",
+        "Docker"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 86,
+      "match_reasons": [
+        "Java",
+        "SQL",
+        "Remote-friendly"
+      ]
+    },
+    {
       "id": "veeva-software-engineer-java-2026-05-19",
       "title": "Software Engineer - Java",
       "company": "Veeva",
@@ -517,7 +591,7 @@
       ]
     },
     {
-      "title": "Lead Full Stack Java Software Engineer \u2013 Digital Banking Platform",
+      "title": "Lead Full Stack Java Software Engineer – Digital Banking Platform",
       "company": "M&T Bank",
       "location": "Buffalo, NY",
       "location_type": "Hybrid",
@@ -803,7 +877,7 @@
       "posted_date": "2026-05-18",
       "salary_min": 150000,
       "salary_max": 300000,
-      "salary_text": "$150k\u2013$300k (per listing)",
+      "salary_text": "$150k–$300k (per listing)",
       "employment_type": "Full-time",
       "experience_level": "Principal",
       "source": "Himalayas (Veeva)",
@@ -1064,7 +1138,7 @@
       "experience_level": "Mid-Senior",
       "source": "linkedin",
       "url": "https://www.linkedin.com/in/gabriel-mccarthy-29688924",
-      "description_snippet": "I'm a software engineer with experience in PL/SQL, Java, Javascript, HTML, software testing, and quality assurance. I've written functional and regression\u00a0...",
+      "description_snippet": "I'm a software engineer with experience in PL/SQL, Java, Javascript, HTML, software testing, and quality assurance. I've written functional and regression ...",
       "key_skills": [
         "Java",
         "SQL",
@@ -1086,49 +1160,6 @@
         "docker",
         "REST APIs",
         "Remote"
-      ]
-    },
-    {
-      "id": "acv-se3-vehicle-intelligence-042026",
-      "title": "Software Engineer III, Vehicle Intelligence",
-      "company": "ACV Auctions",
-      "location": "Buffalo, NY",
-      "location_type": "Onsite",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-15T00:00:00+00:00",
-      "salary_min": 105000,
-      "salary_max": 158000,
-      "salary_text": "$105,000 - $158,000/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Senior (SE III)",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/cmp/Acv-Auctions/jobs/l-Remote",
-      "description_snippet": "Engineer III role at ACV Auctions, Buffalo's leading automotive marketplace tech company. Work on a cross-functional agile team building and shipping features for vehicle intelligence systems. Values practical software experience and computer science fundamentals.",
-      "key_skills": [
-        "Python",
-        "Java",
-        "REST APIs",
-        "AWS",
-        "Docker",
-        "SQL",
-        "Agile/Scrum"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k match",
-        "Equity/stock options",
-        "Flexible PTO",
-        "Parental leave"
-      ],
-      "match_score": 80,
-      "match_reasons": [
-        "java",
-        "sql",
-        "docker",
-        "python",
-        "REST APIs",
-        "WNY location"
       ]
     },
     {
@@ -1389,7 +1420,7 @@
     },
     {
       "id": "dice-listing-full-stack-engineer-java-frontend-mid-to-senior-level-remote-u-s",
-      "title": "Full Stack Engineer (Java + Frontend) \u2013 Mid to Senior Level",
+      "title": "Full Stack Engineer (Java + Frontend) – Mid to Senior Level",
       "company": "(Dice listing)",
       "location": "Remote (U.S.)",
       "location_type": "Remote",
@@ -1458,7 +1489,7 @@
       "match_reasons": [
         "Healthcare SaaS + APIs aligns",
         "Remote US",
-        "Primary stack listed as PHP/Zend (less aligned to Liam\u2019s Java/Spring focus)"
+        "Primary stack listed as PHP/Zend (less aligned to Liam’s Java/Spring focus)"
       ]
     },
     {
@@ -1496,45 +1527,6 @@
         "python",
         "REST APIs",
         "Remote"
-      ]
-    },
-    {
-      "id": "mt-bank-senior-software-engineer-java-and-net-buffalo-20260415",
-      "title": "Senior Software Engineer -- Java and .Net",
-      "company": "M&T Bank",
-      "location": "Buffalo, NY",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-15T00:00:00+00:00",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-java-and-net-at-m-t-bank-4387604926",
-      "description_snippet": "Join a small engineering team supporting and modernizing M&T Bank\u2019s consumer lending technology. You\u2019ll maintain a mission-critical Java 8 backend service integrating with a mainframe loan origination system, and help drive a cloud migration to Microsoft Azure and DevOps improvements.",
-      "key_skills": [
-        "Java",
-        ".NET",
-        "SQL",
-        "Azure",
-        "REST APIs",
-        "CI/CD",
-        "Mainframe integration",
-        "DevOps"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k"
-      ],
-      "match_score": 72,
-      "match_reasons": [
-        "java",
-        "sql",
-        "REST APIs",
-        "WNY location"
       ]
     },
     {
@@ -1581,7 +1573,7 @@
       "posted_date": "2026-05-13",
       "salary_min": 110000,
       "salary_max": 155000,
-      "salary_text": "$110,000\u2013$155,000 annually (varies by location)",
+      "salary_text": "$110,000–$155,000 annually (varies by location)",
       "employment_type": "Full-time",
       "experience_level": "Mid-Senior",
       "source": "LinkedIn",
@@ -1619,12 +1611,12 @@
       "posted_date": "2026-05-06",
       "salary_min": 130000,
       "salary_max": 150000,
-      "salary_text": "$130,000 \u2013 $150,000 (LinkedIn snippet)",
+      "salary_text": "$130,000 – $150,000 (LinkedIn snippet)",
       "employment_type": "Full-time",
       "experience_level": "Senior",
       "source": "LinkedIn",
       "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-wethehobby-4310814668",
-      "description_snippet": "LinkedIn snippet describes a Senior Backend Engineer role focused on designing, building, and scaling backend systems, with a benefits package including health/dental/vision, and compensation listed at $130,000\u2013$150,000.",
+      "description_snippet": "LinkedIn snippet describes a Senior Backend Engineer role focused on designing, building, and scaling backend systems, with a benefits package including health/dental/vision, and compensation listed at $130,000–$150,000.",
       "key_skills": [
         "Backend",
         "APIs",
@@ -1730,7 +1722,7 @@
       "posted_date": "2026-05-13",
       "salary_min": 95900,
       "salary_max": 129400,
-      "salary_text": "$95,900\u2013$129,400 annually",
+      "salary_text": "$95,900–$129,400 annually",
       "employment_type": "Full-time",
       "experience_level": "Senior",
       "source": "LinkedIn",
@@ -1848,7 +1840,7 @@
       "experience_level": "Senior",
       "source": "RemoteJobs.org",
       "url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-stripe",
-      "description_snippet": "5+ years of backend engineering experience \u00b7 Strong proficiency in Ruby, Go, or Java \u00b7 Experience with distributed systems and microservices.",
+      "description_snippet": "5+ years of backend engineering experience · Strong proficiency in Ruby, Go, or Java · Experience with distributed systems and microservices.",
       "key_skills": [
         "Java",
         "Microservices"
@@ -1865,29 +1857,30 @@
       ]
     },
     {
-      "id": "kaleida-health-ux-ui-developer-buffalo-ziprecruiter-042026",
+      "id": "kaleida-health-ux-ui-developer-2026-05-28",
       "title": "UX/UI Developer",
       "company": "Kaleida Health",
       "location": "Buffalo, NY",
-      "location_type": "Onsite",
+      "location_type": "Hybrid",
       "is_wny": true,
       "is_remote": false,
-      "posted_date": "2026-04-20T00:00:00+00:00",
-      "salary_min": 82300,
-      "salary_max": 124500,
-      "salary_text": "$82,300 - $124,500 (from ZipRecruiter snippet)",
+      "posted_date": "2026-05-28",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$74,724-$102,550.50",
       "employment_type": "Full-time",
-      "experience_level": "Mid",
-      "source": "ZipRecruiter",
-      "url": "https://www.ziprecruiter.com/c/Kaleida-Health/Job/UX-UI-Developer/-in-Buffalo,NY?jid=7226d28af547b111",
-      "description_snippet": "Kaleida Health is hiring a UX/UI Developer in Buffalo, NY (per ZipRecruiter). The snippet indicates a full-time role with salary range $82,300-$124,500.",
+      "experience_level": "Mid-level",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ux-ui-developer-at-kaleida-health-4407765120",
+      "description_snippet": "UX/UI-focused developer supporting Kaleida Health digital properties; front-end development and Drupal theming; API integrations; hybrid.",
       "key_skills": [
         "React",
         "JavaScript",
-        "UI development",
-        "UX design",
+        "APIs",
+        "Drupal",
+        "CSS",
         "HTML",
-        "CSS"
+        "Accessibility"
       ],
       "benefits_highlights": [
         "Medical/Dental/Vision",
@@ -1895,47 +1888,43 @@
       ],
       "match_score": 68,
       "match_reasons": [
-        "java",
-        "react",
-        "WNY location"
+        "WNY area"
       ]
     },
     {
-      "id": "hodgsonruss-software-developer-042026",
-      "title": "Software Developer",
-      "company": "Hodgson Russ LLP",
-      "location": "Buffalo, NY 14202",
-      "location_type": "Onsite",
+      "id": "catholic-health-application-programmer-analyst-i-epic-2026-05-24",
+      "title": "Application Programmer Analyst I (Epic)",
+      "company": "Catholic Health",
+      "location": "Buffalo, NY",
+      "location_type": "On-site",
       "is_wny": true,
       "is_remote": false,
-      "posted_date": "2026-04-15T00:00:00+00:00",
-      "salary_min": 69740,
-      "salary_max": 85555,
-      "salary_text": "$69,740 - $85,555/yr",
+      "posted_date": "2026-05-24",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$67,607-$101,420/year",
       "employment_type": "Full-time",
-      "experience_level": "Mid-level (SE II)",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/q-healthcare-software-l-buffalo,-ny-jobs.html",
-      "description_snippet": "Software developer role at Hodgson Russ, a major Buffalo law firm. Resolve software and database-related problems, perform system maintenance and capacity planning, and write report software. Central Business District Buffalo location.",
+      "experience_level": "Entry/Mid",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/application-programmer-analyst-i-epic-at-catholic-health-4417559930",
+      "description_snippet": "IT Applications role supporting clinical/business needs at Catholic Health; system installation/maintenance, analysis, testing, documentation.",
       "key_skills": [
         "SQL",
-        "JavaScript",
-        "Database Administration",
-        "System Maintenance",
-        "Report Writing"
+        "APIs",
+        "Testing",
+        "System integration",
+        "Troubleshooting",
+        "Healthcare IT",
+        "Epic"
       ],
       "benefits_highlights": [
         "Medical/Dental/Vision",
-        "401k",
-        "Retirement plan",
-        "Paid time off",
-        "Referral program"
+        "401(k)"
       ],
       "match_score": 68,
       "match_reasons": [
-        "java",
-        "sql",
-        "WNY location"
+        "SQL",
+        "WNY area"
       ]
     },
     {
@@ -1976,7 +1965,7 @@
     },
     {
       "id": "c90b6e83176730b1",
-      "title": "Principal Full-Stack Engineer \u2014 Remote-Ready & Impactful",
+      "title": "Principal Full-Stack Engineer — Remote-Ready & Impactful",
       "company": "Veeva Systems",
       "location": "United States",
       "location_type": "Remote",
@@ -2196,7 +2185,7 @@
       "posted_date": "2026-04-18T00:00:00+00:00",
       "salary_min": 80000,
       "salary_max": 100000,
-      "salary_text": "$80,000\u2013$100,000 annually",
+      "salary_text": "$80,000–$100,000 annually",
       "employment_type": "Full-time",
       "experience_level": "Mid-level",
       "source": "LinkedIn",
@@ -2312,7 +2301,7 @@
       "experience_level": "Senior",
       "source": "Remotive",
       "url": "https://remotive.com/remote/jobs/software-development/senior-software-engineer-query-integration-4459174",
-      "description_snippet": "Build user-facing features on top of MongoDB\u2019s core query engine and integrate query with other products in the ecosystem. Role can be based in US/Canada offices or remotely in North America.",
+      "description_snippet": "Build user-facing features on top of MongoDB’s core query engine and integrate query with other products in the ecosystem. Role can be based in US/Canada offices or remotely in North America.",
       "key_skills": [
         "MongoDB",
         "Distributed systems",
