@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-31T11:01:52+00:00",
-  "total": 64,
+  "last_updated": "2026-06-01T11:09:30+00:00",
+  "total": 65,
   "jobs": [
     {
       "title": "Java Developer w/Datadog",
@@ -88,6 +88,45 @@
       ]
     },
     {
+      "id": "deloitte-software-engineer-iii-java-full-stack-developer-2026-05-31",
+      "title": "Software Engineer III - Java Full Stack Developer",
+      "company": "Deloitte",
+      "location": "Rochester, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-31",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$113,300 - $188,900",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-developer-at-deloitte-4419855230",
+      "description_snippet": "Software Engineer III role supporting Deloitte\u2019s Value-Based Care initiative, building Java/Spring services and APIs plus React UI components and Python integrations in a healthcare environment.",
+      "key_skills": [
+        "Java",
+        "Spring",
+        "SQL",
+        "React",
+        "Python",
+        "Microservices",
+        "Docker",
+        "Kubernetes"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 92,
+      "match_reasons": [
+        "Java",
+        "Spring",
+        "SQL",
+        "WNY area"
+      ]
+    },
+    {
       "title": "Java fullstack developer",
       "company": "SLK America Inc.",
       "location": "Buffalo, NY",
@@ -144,7 +183,7 @@
       "experience_level": "Mid-Senior",
       "source": "linkedin",
       "url": "https://www.linkedin.com/in/joshua-popelka-879a42338",
-      "description_snippet": "Joshua Popelka. Java and Javascript Developer | Computer Information Systems Graduate. Roswell Park Comprehensive Cancer Center Buffalo State University ...",
+      "description_snippet": "Joshua Popelka. Java and Javascript Developer | Computer Information Systems Graduate. Roswell Park Comprehensive Cancer Center Buffalo State University\u00a0...",
       "key_skills": [
         "Java",
         "SQL",
@@ -221,7 +260,7 @@
       "experience_level": "Mid-Senior",
       "source": "Indeed",
       "url": "https://www.indeed.com/cmp/Acv-Auctions/jobs/l-Remote",
-      "description_snippet": "Indeed shows ACV Auctions posting for Full Stack Software Engineer III (ClearCar) with locations including Remote and Buffalo, NY, full-time, and a listed salary range of $105,000–$158,000.",
+      "description_snippet": "Indeed shows ACV Auctions posting for Full Stack Software Engineer III (ClearCar) with locations including Remote and Buffalo, NY, full-time, and a listed salary range of $105,000\u2013$158,000.",
       "key_skills": [
         "Java",
         "Spring Boot",
@@ -264,7 +303,7 @@
       "experience_level": "Mid-Senior",
       "source": "Indeed",
       "url": "https://www.indeed.com/cmp/Acv-Auctions/jobs/l-Remote",
-      "description_snippet": "Indeed shows ACV Auctions listing Software Engineer III (ACV Capital) with locations including Remote and Buffalo, NY, marked full-time, with a listed salary range of $105,000–$158,000.",
+      "description_snippet": "Indeed shows ACV Auctions listing Software Engineer III (ACV Capital) with locations including Remote and Buffalo, NY, marked full-time, with a listed salary range of $105,000\u2013$158,000.",
       "key_skills": [
         "Java",
         "SQL",
@@ -591,7 +630,7 @@
       ]
     },
     {
-      "title": "Lead Full Stack Java Software Engineer – Digital Banking Platform",
+      "title": "Lead Full Stack Java Software Engineer \u2013 Digital Banking Platform",
       "company": "M&T Bank",
       "location": "Buffalo, NY",
       "location_type": "Hybrid",
@@ -821,52 +860,6 @@
       ]
     },
     {
-      "id": "redhat-senior-se-rosa-042026",
-      "title": "Senior Software Engineer, ROSA Backend Service Engineering",
-      "company": "Red Hat",
-      "location": "Remote - United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-04-17T00:00:00+00:00",
-      "salary_min": 118600,
-      "salary_max": 195680,
-      "salary_text": "$118,600 - $195,680/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Company Site",
-      "url": "https://www.remotejobs.com/jobs/senior-software-engineer-rosa-backend-service-engineering-4c97444c",
-      "description_snippet": "Join Red Hat's ROSA (Red Hat OpenShift on AWS) Service Engineering team building and maintaining the platform that powers Red Hat OpenShift on AWS. Contribute to platform capabilities using Golang, Python, Java, or C++. Requires Kubernetes/OpenShift, cloud provider experience (AWS/GCP/Azure), and microservices expertise.",
-      "key_skills": [
-        "Kubernetes",
-        "Python",
-        "Java",
-        "Microservices",
-        "REST APIs",
-        "AWS",
-        "Docker"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k with employer match",
-        "Paid parental leave",
-        "Paid holidays",
-        "Employee stock purchase plan",
-        "Tuition reimbursement",
-        "Disability insurance"
-      ],
-      "match_score": 84,
-      "match_reasons": [
-        "java",
-        "docker",
-        "kubernetes",
-        "python",
-        "REST APIs",
-        "microservice",
-        "Remote"
-      ]
-    },
-    {
       "id": "veeva_principal-full-stack-engineer_remote-us",
       "title": "Principal Full-Stack Engineer",
       "company": "Veeva Systems",
@@ -877,7 +870,7 @@
       "posted_date": "2026-05-18",
       "salary_min": 150000,
       "salary_max": 300000,
-      "salary_text": "$150k–$300k (per listing)",
+      "salary_text": "$150k\u2013$300k (per listing)",
       "employment_type": "Full-time",
       "experience_level": "Principal",
       "source": "Himalayas (Veeva)",
@@ -1049,6 +1042,45 @@
       ]
     },
     {
+      "id": "vetsez-senior-backend-engineer-remote-opportunity-2026-05-31",
+      "title": "Senior Backend Engineer (Remote Opportunity)",
+      "company": "VetsEZ",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-05-31",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$160,000 - $185,000",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-remote-opportunity-at-vetsez-4419425910",
+      "description_snippet": "VetsEZ is hiring a Senior Backend Engineer for a 100% remote position on a federal government healthcare technology project, supporting design and modernization of enterprise backend services and APIs.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Microservices",
+        "SQL",
+        "CI/CD",
+        "AWS",
+        "Security"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 82,
+      "match_reasons": [
+        "Java",
+        "Spring",
+        "SQL",
+        "Remote-friendly"
+      ]
+    },
+    {
       "id": "m-t-bank-senior-software-engineer-generative-ai-2026-05-28",
       "title": "Senior Software Engineer - Generative AI",
       "company": "M&T Bank",
@@ -1138,7 +1170,7 @@
       "experience_level": "Mid-Senior",
       "source": "linkedin",
       "url": "https://www.linkedin.com/in/gabriel-mccarthy-29688924",
-      "description_snippet": "I'm a software engineer with experience in PL/SQL, Java, Javascript, HTML, software testing, and quality assurance. I've written functional and regression ...",
+      "description_snippet": "I'm a software engineer with experience in PL/SQL, Java, Javascript, HTML, software testing, and quality assurance. I've written functional and regression\u00a0...",
       "key_skills": [
         "Java",
         "SQL",
@@ -1420,7 +1452,7 @@
     },
     {
       "id": "dice-listing-full-stack-engineer-java-frontend-mid-to-senior-level-remote-u-s",
-      "title": "Full Stack Engineer (Java + Frontend) – Mid to Senior Level",
+      "title": "Full Stack Engineer (Java + Frontend) \u2013 Mid to Senior Level",
       "company": "(Dice listing)",
       "location": "Remote (U.S.)",
       "location_type": "Remote",
@@ -1489,7 +1521,7 @@
       "match_reasons": [
         "Healthcare SaaS + APIs aligns",
         "Remote US",
-        "Primary stack listed as PHP/Zend (less aligned to Liam’s Java/Spring focus)"
+        "Primary stack listed as PHP/Zend (less aligned to Liam\u2019s Java/Spring focus)"
       ]
     },
     {
@@ -1573,7 +1605,7 @@
       "posted_date": "2026-05-13",
       "salary_min": 110000,
       "salary_max": 155000,
-      "salary_text": "$110,000–$155,000 annually (varies by location)",
+      "salary_text": "$110,000\u2013$155,000 annually (varies by location)",
       "employment_type": "Full-time",
       "experience_level": "Mid-Senior",
       "source": "LinkedIn",
@@ -1611,12 +1643,12 @@
       "posted_date": "2026-05-06",
       "salary_min": 130000,
       "salary_max": 150000,
-      "salary_text": "$130,000 – $150,000 (LinkedIn snippet)",
+      "salary_text": "$130,000 \u2013 $150,000 (LinkedIn snippet)",
       "employment_type": "Full-time",
       "experience_level": "Senior",
       "source": "LinkedIn",
       "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-at-wethehobby-4310814668",
-      "description_snippet": "LinkedIn snippet describes a Senior Backend Engineer role focused on designing, building, and scaling backend systems, with a benefits package including health/dental/vision, and compensation listed at $130,000–$150,000.",
+      "description_snippet": "LinkedIn snippet describes a Senior Backend Engineer role focused on designing, building, and scaling backend systems, with a benefits package including health/dental/vision, and compensation listed at $130,000\u2013$150,000.",
       "key_skills": [
         "Backend",
         "APIs",
@@ -1722,7 +1754,7 @@
       "posted_date": "2026-05-13",
       "salary_min": 95900,
       "salary_max": 129400,
-      "salary_text": "$95,900–$129,400 annually",
+      "salary_text": "$95,900\u2013$129,400 annually",
       "employment_type": "Full-time",
       "experience_level": "Senior",
       "source": "LinkedIn",
@@ -1840,7 +1872,7 @@
       "experience_level": "Senior",
       "source": "RemoteJobs.org",
       "url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-stripe",
-      "description_snippet": "5+ years of backend engineering experience · Strong proficiency in Ruby, Go, or Java · Experience with distributed systems and microservices.",
+      "description_snippet": "5+ years of backend engineering experience \u00b7 Strong proficiency in Ruby, Go, or Java \u00b7 Experience with distributed systems and microservices.",
       "key_skills": [
         "Java",
         "Microservices"
@@ -1965,7 +1997,7 @@
     },
     {
       "id": "c90b6e83176730b1",
-      "title": "Principal Full-Stack Engineer — Remote-Ready & Impactful",
+      "title": "Principal Full-Stack Engineer \u2014 Remote-Ready & Impactful",
       "company": "Veeva Systems",
       "location": "United States",
       "location_type": "Remote",
@@ -2185,7 +2217,7 @@
       "posted_date": "2026-04-18T00:00:00+00:00",
       "salary_min": 80000,
       "salary_max": 100000,
-      "salary_text": "$80,000–$100,000 annually",
+      "salary_text": "$80,000\u2013$100,000 annually",
       "employment_type": "Full-time",
       "experience_level": "Mid-level",
       "source": "LinkedIn",
@@ -2301,7 +2333,7 @@
       "experience_level": "Senior",
       "source": "Remotive",
       "url": "https://remotive.com/remote/jobs/software-development/senior-software-engineer-query-integration-4459174",
-      "description_snippet": "Build user-facing features on top of MongoDB’s core query engine and integrate query with other products in the ecosystem. Role can be based in US/Canada offices or remotely in North America.",
+      "description_snippet": "Build user-facing features on top of MongoDB\u2019s core query engine and integrate query with other products in the ecosystem. Role can be based in US/Canada offices or remotely in North America.",
       "key_skills": [
         "MongoDB",
         "Distributed systems",
