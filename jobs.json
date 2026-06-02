@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-01T11:09:30+00:00",
-  "total": 65,
+  "last_updated": "2026-06-02T11:11:56+00:00",
+  "total": 63,
   "jobs": [
     {
       "title": "Java Developer w/Datadog",
@@ -398,41 +398,6 @@
         "Strong Java/Spring Boot/REST/SQL match",
         "Buffalo/WNY location bump",
         "Full-time"
-      ]
-    },
-    {
-      "id": "dice-mtbank-lead-software-engineer-identity-access-08e2921b-b279-4007-8f5a-4fbce492261a",
-      "title": "Lead Software Engineer - Identity Access",
-      "company": "M&T Bank Corporation",
-      "location": "Buffalo, NY (Hybrid: 4 days onsite / 1 day WFH)",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-18",
-      "salary_min": 116400,
-      "salary_max": 194000,
-      "salary_text": "$116,400 - $194,000 per year",
-      "employment_type": "Full-time",
-      "experience_level": "Lead/Senior",
-      "source": "Dice",
-      "url": "https://www.dice.com/job-detail/08e2921b-b279-4007-8f5a-4fbce492261a",
-      "description_snippet": "Lead engineer role modernizing enterprise applications with cloud migrations, containerization, microservices, CI/CD, and secure application design with identity and access management focus.",
-      "key_skills": [
-        "Java",
-        "Docker",
-        "Kubernetes",
-        "Microservices",
-        "CI/CD",
-        "JUnit",
-        "AWS",
-        "Azure"
-      ],
-      "benefits_highlights": [],
-      "match_score": 88,
-      "match_reasons": [
-        "Strong match on Java + Docker/Kubernetes + microservices",
-        "WNY/Buffalo location boost",
-        "Salary range listed"
       ]
     },
     {
@@ -1195,6 +1160,41 @@
       ]
     },
     {
+      "id": "m-t-bank-senior-software-engineer-2026-05-19",
+      "title": "Senior Software Engineer",
+      "company": "M&T Bank",
+      "location": "Buffalo, NY",
+      "location_type": "Onsite/Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-19",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/lead-managed-services-engineer-ii-solution-architect-at-deloitte-4420407568",
+      "description_snippet": "LinkedIn page cross-lists a Senior Software Engineer role at M&T Bank in Buffalo, NY (2 weeks ago).",
+      "key_skills": [
+        "Java",
+        "React",
+        "AWS",
+        "Kubernetes",
+        "DevOps",
+        "Microservices"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 80,
+      "match_reasons": [
+        "Java",
+        "WNY area"
+      ]
+    },
+    {
       "id": "158dbd963209ac2f",
       "title": "Sr. Software Engineer",
       "company": "M&T Bank",
@@ -1670,6 +1670,42 @@
       ]
     },
     {
+      "id": "highmark-health-technical-engineer-2026-05-05",
+      "title": "Technical Engineer",
+      "company": "Highmark Health",
+      "location": "Remote",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-05-05",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$79,300 - $127,100",
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "Highmark Health Careers",
+      "url": "https://careers.highmarkhealth.org/technical-engineer/job/85AD6D68FDAB2104608C632B8668B01A",
+      "description_snippet": "Responsible for analyzing, designing, coding, testing and implementing technical solutions; preferred experience includes API, DB2, .NET, Java, SQL and Angular.",
+      "key_skills": [
+        "Java",
+        "SQL",
+        "API",
+        "Angular",
+        "DB2",
+        "Systems integration"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 70,
+      "match_reasons": [
+        "Java",
+        "SQL",
+        "Remote-friendly"
+      ]
+    },
+    {
       "id": "elastic-senior-software-engineer-timeseries-elasticsearch-2026-04-27t00-00-00-00-00",
       "title": "Senior Software Engineer - Timeseries (Elasticsearch)",
       "company": "Elastic",
@@ -2101,41 +2137,6 @@
       "id": "moog-inc-senior-software-engineer-test-systems"
     },
     {
-      "id": "m-t-bank-senior-software-engineer-2026-04-30",
-      "title": "Senior Software Engineer",
-      "company": "M&T Bank",
-      "location": "Buffalo, NY",
-      "location_type": "On-site/Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-30",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Mid-Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-m-t-bank-4408562967",
-      "description_snippet": "Responsible at the advanced level for writing code and the team's technical requirements gathering. Independently completes work following banking technology standards and contributes to stability and resiliency within the SDLC.",
-      "key_skills": [
-        "Java",
-        "SDLC",
-        "Software Engineering",
-        "Banking systems",
-        "Code quality",
-        "Resiliency"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 64,
-      "match_reasons": [
-        "java",
-        "WNY location"
-      ]
-    },
-    {
       "id": "kaleida-health-it-analyst-i-2026-04-27t00-00-00-00-00",
       "title": "IT Analyst I",
       "company": "Kaleida Health",
@@ -2206,79 +2207,6 @@
         "sql",
         "WNY location"
       ]
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Moog Inc.",
-      "location": "Buffalo, NY",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-18T00:00:00+00:00",
-      "salary_min": 80000,
-      "salary_max": 100000,
-      "salary_text": "$80,000\u2013$100,000 annually",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-moog-inc-4384745997",
-      "description_snippet": "Moog is looking for a Software Engineer to join their Software Development Team, developing software for automated test stands and real-time data acquisition for flight control actuation systems. The role is hybrid in Buffalo, NY and involves system integration and verification.",
-      "key_skills": [
-        "Python",
-        "C",
-        "LabVIEW",
-        "Simulink",
-        "Real-time systems",
-        "Data acquisition",
-        "System integration",
-        "Testing"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k"
-      ],
-      "match_score": 64,
-      "match_reasons": [
-        "python",
-        "WNY location"
-      ],
-      "id": "moog-inc--software-engineer-wny-20260418"
-    },
-    {
-      "title": "ERP Software Developer",
-      "company": "National Fuel",
-      "location": "Williamsville/Buffalo, NY",
-      "location_type": "Onsite",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-04-18T00:00:00+00:00",
-      "salary_min": 82000,
-      "salary_max": 106000,
-      "salary_text": "$82,000 - $106,000 per year",
-      "employment_type": "Full-time",
-      "experience_level": "Mid",
-      "source": "Institute of Data Jobs",
-      "url": "https://jobs.institutedata.com/job/4897282/erp-software-developer/",
-      "description_snippet": "National Fuel is seeking a Software Developer in its IT department in Williamsville, NY, to analyze requirements and design/configure/code/test software solutions. The posting highlights ERP/PeopleSoft-related work and an inclusive workplace.",
-      "key_skills": [
-        "SQL",
-        "Oracle PeopleTools",
-        "PeopleSoft",
-        "Object-oriented programming",
-        "Full-stack development",
-        "Requirements analysis",
-        "Testing"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401k"
-      ],
-      "match_score": 64,
-      "match_reasons": [
-        "sql",
-        "WNY location"
-      ],
-      "id": "national-fuel-erp-software-developer-williamsville-buffalo-ny-20260418"
     },
     {
       "title": "Senior Software Engineer - Timeseries - Elasticsearch",
