@@ -1,6 +1,5 @@
 {
-  "last_updated": "2026-06-02T11:11:56+00:00",
-  "total": 63,
+  "last_updated": "2026-06-03T11:26:48Z",
   "jobs": [
     {
       "title": "Java Developer w/Datadog",
@@ -46,6 +45,45 @@
       "id": "solutionit-inc-java-developer-w-datadog-2026-04-21"
     },
     {
+      "id": "deloitte-software-engineer-iii-java-full-stack-developer-2026-05-31",
+      "title": "Software Engineer III - Java Full Stack Developer",
+      "company": "Deloitte",
+      "location": "Rochester, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-31",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$113,300 - $188,900",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-developer-at-deloitte-4419855230",
+      "description_snippet": "Software Engineer III role supporting Deloitte\u2019s Value-Based Care initiative, building Java/Spring services and APIs plus React UI components and Python integrations in a healthcare environment.",
+      "key_skills": [
+        "Java",
+        "Spring",
+        "SQL",
+        "React",
+        "Python",
+        "Microservices",
+        "Docker",
+        "Kubernetes"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 92,
+      "match_reasons": [
+        "Java",
+        "Spring",
+        "SQL",
+        "WNY area"
+      ]
+    },
+    {
       "id": "dice-cvs-senior-java-software-engineer-remote-4336cc4c",
       "title": "Senior Java Software Engineer",
       "company": "CVS Health",
@@ -85,45 +123,6 @@
         "Mentions microservices, REST APIs, Kubernetes, SQL",
         "Remote US full-time",
         "Healthcare company/domain"
-      ]
-    },
-    {
-      "id": "deloitte-software-engineer-iii-java-full-stack-developer-2026-05-31",
-      "title": "Software Engineer III - Java Full Stack Developer",
-      "company": "Deloitte",
-      "location": "Rochester, NY",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-05-31",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "$113,300 - $188,900",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-developer-at-deloitte-4419855230",
-      "description_snippet": "Software Engineer III role supporting Deloitte\u2019s Value-Based Care initiative, building Java/Spring services and APIs plus React UI components and Python integrations in a healthcare environment.",
-      "key_skills": [
-        "Java",
-        "Spring",
-        "SQL",
-        "React",
-        "Python",
-        "Microservices",
-        "Docker",
-        "Kubernetes"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 92,
-      "match_reasons": [
-        "Java",
-        "Spring",
-        "SQL",
-        "WNY area"
       ]
     },
     {
@@ -331,6 +330,42 @@
       ]
     },
     {
+      "id": "eagleview-sr-software-engineer-2026-05-29",
+      "title": "Sr. Software Engineer",
+      "company": "EagleView",
+      "location": "Rochester, NY (hybrid)",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-29",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$100,000-$160,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=b2825f1e9a824be9",
+      "description_snippet": "Sr. Software Engineer at EagleView in Rochester, NY (hybrid); design, develop, test, deploy multiple products; scalable service-layer code.",
+      "key_skills": [
+        "REST APIs",
+        "Microservices",
+        "CI/CD",
+        "Docker",
+        "Kubernetes",
+        "Java",
+        "Python"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 88,
+      "match_reasons": [
+        "Java",
+        "WNY area"
+      ]
+    },
+    {
       "id": "ziprecruiter-thatch-software-engineer-backend-remote-us",
       "title": "Software Engineer: Backend",
       "company": "Thatch",
@@ -401,39 +436,76 @@
       ]
     },
     {
-      "id": "eagleview-sr-software-engineer-2026-05-29",
-      "title": "Sr. Software Engineer",
-      "company": "EagleView",
-      "location": "Rochester, NY (hybrid)",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-05-29",
+      "id": "allstate-product-engineer-java-spring-boot-remote-indeed",
+      "title": "Product Engineer - Java Spring Boot",
+      "company": "Allstate",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-06-03",
       "salary_min": null,
       "salary_max": null,
-      "salary_text": "$100,000-$160,000/year",
+      "salary_text": null,
       "employment_type": "Full-time",
-      "experience_level": "Senior",
+      "experience_level": "Mid-Senior",
       "source": "Indeed",
-      "url": "https://www.indeed.com/viewjob?jk=b2825f1e9a824be9",
-      "description_snippet": "Sr. Software Engineer at EagleView in Rochester, NY (hybrid); design, develop, test, deploy multiple products; scalable service-layer code.",
+      "url": "https://www.indeed.com/q-contract-java-spring-boot-developer-l-remote-jobs.html",
+      "description_snippet": "Experience and knowledge in developing REST APIs using Java Spring Boot; includes tooling for documentation (Swagger/REST-docs/OpenAPI), versioning.",
       "key_skills": [
+        "Java",
+        "Spring Boot",
         "REST APIs",
+        "Swagger/OpenAPI",
         "Microservices",
         "CI/CD",
-        "Docker",
-        "Kubernetes",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "Full-time"
+      ],
+      "match_score": 86,
+      "match_reasons": [
+        "Strong match to Java + Spring Boot",
+        "Backend/API focus",
+        "Remote US"
+      ]
+    },
+    {
+      "id": "oscar-health-software-engineer-ii-2026-05-30",
+      "title": "Software Engineer II",
+      "company": "Oscar Health",
+      "location": "New York, NY (telecommuting permitted)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-05-30",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$163,944-$195,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "NYTimes Jobs",
+      "url": "https://jobs.nytimes.com/job/software-engineer-ii-509959524",
+      "description_snippet": "Software Engineer II at Oscar Health; telecommuting permitted; lead planning, execution and release of complex technical projects.",
+      "key_skills": [
         "Java",
-        "Python"
+        "REST APIs",
+        "Microservices",
+        "SQL",
+        "CI/CD",
+        "Kubernetes",
+        "Docker"
       ],
       "benefits_highlights": [
         "Medical/Dental/Vision",
         "401(k)"
       ],
-      "match_score": 88,
+      "match_score": 86,
       "match_reasons": [
         "Java",
-        "WNY area"
+        "SQL",
+        "Remote-friendly"
       ]
     },
     {
@@ -515,43 +587,6 @@
         "Healthcare domain",
         "Backend focus with API/system design",
         "Mentions Java/Python as relevant languages"
-      ]
-    },
-    {
-      "id": "oscar-health-software-engineer-ii-2026-05-30",
-      "title": "Software Engineer II",
-      "company": "Oscar Health",
-      "location": "New York, NY (telecommuting permitted)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-05-30",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "$163,944-$195,000/year",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level",
-      "source": "NYTimes Jobs",
-      "url": "https://jobs.nytimes.com/job/software-engineer-ii-509959524",
-      "description_snippet": "Software Engineer II at Oscar Health; telecommuting permitted; lead planning, execution and release of complex technical projects.",
-      "key_skills": [
-        "Java",
-        "REST APIs",
-        "Microservices",
-        "SQL",
-        "CI/CD",
-        "Kubernetes",
-        "Docker"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 86,
-      "match_reasons": [
-        "Java",
-        "SQL",
-        "Remote-friendly"
       ]
     },
     {
@@ -894,6 +929,82 @@
       ]
     },
     {
+      "id": "vetsez-senior-backend-engineer-remote-opportunity-2026-05-31",
+      "title": "Senior Backend Engineer (Remote Opportunity)",
+      "company": "VetsEZ",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-05-31",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$160,000 - $185,000",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-remote-opportunity-at-vetsez-4419425910",
+      "description_snippet": "VetsEZ is hiring a Senior Backend Engineer for a 100% remote position on a federal government healthcare technology project, supporting design and modernization of enterprise backend services and APIs.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Microservices",
+        "SQL",
+        "CI/CD",
+        "AWS",
+        "Security"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 82,
+      "match_reasons": [
+        "Java",
+        "Spring",
+        "SQL",
+        "Remote-friendly"
+      ]
+    },
+    {
+      "id": "humata-health-senior-software-engineer-ziprecruiter-02be93b63c274eab",
+      "title": "Senior Software Engineer",
+      "company": "Humata Health",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-05-29",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "ZipRecruiter",
+      "url": "https://www.ziprecruiter.com/c/Humata-Health/Job/Senior-Software-Engineer/-in-Remote,US?jid=02be93b63c274eab",
+      "description_snippet": "5+ years building and operating production systems; languages include Go, Python, Java, TypeScript; experience with APIs and distributed systems.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "APIs",
+        "Distributed systems",
+        "Cloud",
+        "DevOps",
+        "System design"
+      ],
+      "benefits_highlights": [
+        "Remote",
+        "Full-time"
+      ],
+      "match_score": 82,
+      "match_reasons": [
+        "Remote US",
+        "Java/Python fit",
+        "API + distributed systems"
+      ]
+    },
+    {
       "id": "dice-8898b253-0272-467c-b186-b182278c9cdc",
       "title": "Sr Software Engineer- Healthcare Exp- 100% Remote- Open for W2",
       "company": "(via Dice listing)",
@@ -1007,42 +1118,38 @@
       ]
     },
     {
-      "id": "vetsez-senior-backend-engineer-remote-opportunity-2026-05-31",
-      "title": "Senior Backend Engineer (Remote Opportunity)",
-      "company": "VetsEZ",
-      "location": "Remote (US)",
+      "id": "unitedhealthgroup-software-engineering-lead-java-spring-boot-mongo-kafka-2363565",
+      "title": "Software Engineering Lead - Java Spring Boot, Mongo, Kafka",
+      "company": "UnitedHealth Group",
+      "location": "Remote (US) / Other (posting location Hyderabad shown)",
       "location_type": "Remote",
       "is_wny": false,
       "is_remote": true,
-      "posted_date": "2026-05-31",
+      "posted_date": "2026-06-01",
       "salary_min": null,
       "salary_max": null,
-      "salary_text": "$160,000 - $185,000",
+      "salary_text": null,
       "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-remote-opportunity-at-vetsez-4419425910",
-      "description_snippet": "VetsEZ is hiring a Senior Backend Engineer for a 100% remote position on a federal government healthcare technology project, supporting design and modernization of enterprise backend services and APIs.",
+      "experience_level": "Lead",
+      "source": "UnitedHealth Group Careers",
+      "url": "https://careers.unitedhealthgroup.com/job/hyderabad/software-engineering-lead-java-spring-boot-mongo-kafka/34088/95841039728",
+      "description_snippet": "Design, develop, and maintain scalable Java/Spring Boot applications; microservices; JPA/Hibernate; MongoDB; REST API design; CI/CD pipelines (GitHub Actions/Jenkins); Kubernetes/containerization.",
       "key_skills": [
         "Java",
         "Spring Boot",
-        "REST APIs",
         "Microservices",
-        "SQL",
-        "CI/CD",
-        "AWS",
-        "Security"
+        "MongoDB",
+        "Kafka",
+        "REST APIs",
+        "Kubernetes"
       ],
       "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
+        "Full-time"
       ],
-      "match_score": 82,
+      "match_score": 80,
       "match_reasons": [
-        "Java",
-        "Spring",
-        "SQL",
-        "Remote-friendly"
+        "Strong Java/Spring Boot/microservices match",
+        "CI/CD + Kubernetes"
       ]
     },
     {
@@ -1070,6 +1177,41 @@
         "CI/CD",
         "Automated testing",
         "Azure"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 80,
+      "match_reasons": [
+        "Java",
+        "WNY area"
+      ]
+    },
+    {
+      "id": "m-t-bank-senior-software-engineer-2026-05-19",
+      "title": "Senior Software Engineer",
+      "company": "M&T Bank",
+      "location": "Buffalo, NY",
+      "location_type": "Onsite/Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-19",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/lead-managed-services-engineer-ii-solution-architect-at-deloitte-4420407568",
+      "description_snippet": "LinkedIn page cross-lists a Senior Software Engineer role at M&T Bank in Buffalo, NY (2 weeks ago).",
+      "key_skills": [
+        "Java",
+        "React",
+        "AWS",
+        "Kubernetes",
+        "DevOps",
+        "Microservices"
       ],
       "benefits_highlights": [
         "Medical/Dental/Vision",
@@ -1157,41 +1299,6 @@
         "docker",
         "REST APIs",
         "Remote"
-      ]
-    },
-    {
-      "id": "m-t-bank-senior-software-engineer-2026-05-19",
-      "title": "Senior Software Engineer",
-      "company": "M&T Bank",
-      "location": "Buffalo, NY",
-      "location_type": "Onsite/Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-05-19",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/lead-managed-services-engineer-ii-solution-architect-at-deloitte-4420407568",
-      "description_snippet": "LinkedIn page cross-lists a Senior Software Engineer role at M&T Bank in Buffalo, NY (2 weeks ago).",
-      "key_skills": [
-        "Java",
-        "React",
-        "AWS",
-        "Kubernetes",
-        "DevOps",
-        "Microservices"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 80,
-      "match_reasons": [
-        "Java",
-        "WNY area"
       ]
     },
     {
@@ -1303,6 +1410,43 @@
         "Buffalo/WNY location bump",
         "Software engineer role; banking domain",
         "Some overlap (Java/SDLC) but posting highlights front-end tech"
+      ]
+    },
+    {
+      "id": "integration-analyst-buffalo-indeed-39187797088adb6a",
+      "title": "Integration Analyst",
+      "company": "(Employer not shown in snippet)",
+      "location": "Buffalo, NY (Hybrid)",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-29",
+      "salary_min": 64535,
+      "salary_max": 88744,
+      "salary_text": "$64,535.64 - $88,744.11 a year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=39187797088adb6a",
+      "description_snippet": "Maintain integrated healthcare systems; develop HL7 interfaces using JavaScript, SQL and Orion Rhapsody; EHR integration (Cerner Millennium) preferred; FHIR helpful.",
+      "key_skills": [
+        "SQL",
+        "JavaScript",
+        "HL7",
+        "FHIR",
+        "Healthcare systems",
+        "Integration",
+        "EHR"
+      ],
+      "benefits_highlights": [
+        "Hybrid",
+        "Full-time"
+      ],
+      "match_score": 78,
+      "match_reasons": [
+        "WNY (Buffalo) bump",
+        "Healthcare domain",
+        "Uses SQL"
       ]
     },
     {
@@ -1744,6 +1888,77 @@
       ]
     },
     {
+      "id": "kaleida-health-ux-ui-developer-2026-05-28",
+      "title": "UX/UI Developer",
+      "company": "Kaleida Health",
+      "location": "Buffalo, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-28",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$74,724-$102,550.50",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/ux-ui-developer-at-kaleida-health-4407765120",
+      "description_snippet": "UX/UI-focused developer supporting Kaleida Health digital properties; front-end development and Drupal theming; API integrations; hybrid.",
+      "key_skills": [
+        "React",
+        "JavaScript",
+        "APIs",
+        "Drupal",
+        "CSS",
+        "HTML",
+        "Accessibility"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 68,
+      "match_reasons": [
+        "WNY area"
+      ]
+    },
+    {
+      "id": "catholic-health-application-programmer-analyst-i-epic-2026-05-24",
+      "title": "Application Programmer Analyst I (Epic)",
+      "company": "Catholic Health",
+      "location": "Buffalo, NY",
+      "location_type": "On-site",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-05-24",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "$67,607-$101,420/year",
+      "employment_type": "Full-time",
+      "experience_level": "Entry/Mid",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/application-programmer-analyst-i-epic-at-catholic-health-4417559930",
+      "description_snippet": "IT Applications role supporting clinical/business needs at Catholic Health; system installation/maintenance, analysis, testing, documentation.",
+      "key_skills": [
+        "SQL",
+        "APIs",
+        "Testing",
+        "System integration",
+        "Troubleshooting",
+        "Healthcare IT",
+        "Epic"
+      ],
+      "benefits_highlights": [
+        "Medical/Dental/Vision",
+        "401(k)"
+      ],
+      "match_score": 68,
+      "match_reasons": [
+        "SQL",
+        "WNY area"
+      ]
+    },
+    {
       "id": "m-t-bank-lead-full-stack-java-software-engineer-digital-banking-platform-2026-05-14",
       "title": "Lead Full Stack Java Software Engineer  Digital Banking Platform",
       "company": "M&T Bank",
@@ -1922,77 +2137,6 @@
         "java",
         "microservice",
         "Remote"
-      ]
-    },
-    {
-      "id": "kaleida-health-ux-ui-developer-2026-05-28",
-      "title": "UX/UI Developer",
-      "company": "Kaleida Health",
-      "location": "Buffalo, NY",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-05-28",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "$74,724-$102,550.50",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/ux-ui-developer-at-kaleida-health-4407765120",
-      "description_snippet": "UX/UI-focused developer supporting Kaleida Health digital properties; front-end development and Drupal theming; API integrations; hybrid.",
-      "key_skills": [
-        "React",
-        "JavaScript",
-        "APIs",
-        "Drupal",
-        "CSS",
-        "HTML",
-        "Accessibility"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 68,
-      "match_reasons": [
-        "WNY area"
-      ]
-    },
-    {
-      "id": "catholic-health-application-programmer-analyst-i-epic-2026-05-24",
-      "title": "Application Programmer Analyst I (Epic)",
-      "company": "Catholic Health",
-      "location": "Buffalo, NY",
-      "location_type": "On-site",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-05-24",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "$67,607-$101,420/year",
-      "employment_type": "Full-time",
-      "experience_level": "Entry/Mid",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/application-programmer-analyst-i-epic-at-catholic-health-4417559930",
-      "description_snippet": "IT Applications role supporting clinical/business needs at Catholic Health; system installation/maintenance, analysis, testing, documentation.",
-      "key_skills": [
-        "SQL",
-        "APIs",
-        "Testing",
-        "System integration",
-        "Troubleshooting",
-        "Healthcare IT",
-        "Epic"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 68,
-      "match_reasons": [
-        "SQL",
-        "WNY area"
       ]
     },
     {
