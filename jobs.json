@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T11:26:48Z",
+  "last_updated": "2026-06-04T11:16:23Z",
   "jobs": [
     {
       "title": "Java Developer w/Datadog",
@@ -1118,6 +1118,41 @@
       ]
     },
     {
+      "id": "builtin-engen-software-engineer-9526803",
+      "title": "Software Engineer",
+      "company": "enGen (Highmark Health)",
+      "location": "Remote / multiple locations",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-06-04",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Mid/Senior",
+      "source": "Built In",
+      "url": "https://builtin.com/job/software-engineer/9526803",
+      "description_snippet": "End-to-end development of scalable applications across diverse digital channels; includes Java, Python, REST APIs, microservices and mentoring.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "REST APIs",
+        "Microservices",
+        "React",
+        "AWS",
+        "Agile",
+        "DB2"
+      ],
+      "benefits_highlights": [],
+      "match_score": 82,
+      "match_reasons": [
+        "Java + REST + microservices mentioned",
+        "Healthtech domain (Highmark Health / enGen)",
+        "Experience level matches SE II/III+"
+      ]
+    },
+    {
       "id": "unitedhealthgroup-software-engineering-lead-java-spring-boot-mongo-kafka-2363565",
       "title": "Software Engineering Lead - Java Spring Boot, Mongo, Kafka",
       "company": "UnitedHealth Group",
@@ -1302,6 +1337,41 @@
       ]
     },
     {
+      "id": "indeed-remote-polyglot-developer-java-microservices",
+      "title": "Polyglot Developer (Java, Microservices, AWS)",
+      "company": "Unspecified (Indeed listing)",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-06-04",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/q-remote-backend-developer-jobs.html",
+      "description_snippet": "Full-time remote role seeking Java, Spring Boot, Microservices, AWS; immediate hiring; payments domain.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "AWS",
+        "Backend",
+        "APIs",
+        "SQL",
+        "CI/CD"
+      ],
+      "benefits_highlights": [],
+      "match_score": 80,
+      "match_reasons": [
+        "Java + Spring Boot + microservices align strongly",
+        "Remote US full-time",
+        "Backend focus"
+      ]
+    },
+    {
       "id": "158dbd963209ac2f",
       "title": "Sr. Software Engineer",
       "company": "M&T Bank",
@@ -1481,46 +1551,6 @@
       ]
     },
     {
-      "id": "www-builtinchicago-org-best-remote-java-developer-jobs-in-chicago-il-2026",
-      "title": "Best Remote Java Developer Jobs in Chicago, IL 2026",
-      "company": "www.builtinchicago.org",
-      "location": "Remote (US)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-04-19",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Mid",
-      "source": "builtinchicago.org",
-      "url": "https://www.builtinchicago.org/jobs/remote/dev-engineering/java",
-      "description_snippet": "Search the best Remote Java Developer Jobs from top companies & startups in Chicago, IL. New jobs added daily.",
-      "key_skills": [
-        "Java",
-        "Docker",
-        "Kubernetes",
-        "React",
-        "Jenkins",
-        "AWS",
-        "CI/CD"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 77,
-      "match_reasons": [
-        "java",
-        "docker",
-        "kubernetes",
-        "jenkins",
-        "react",
-        "Remote"
-      ]
-    },
-    {
       "id": "jobs-via-dice_servicenow-software-engineer-ii_buffalo-ny",
       "title": "ServiceNow Software Engineer II",
       "company": "Imagine Staffing Technology (via Jobs via Dice)",
@@ -1666,43 +1696,6 @@
         "Healthcare SaaS + APIs aligns",
         "Remote US",
         "Primary stack listed as PHP/Zend (less aligned to Liam\u2019s Java/Spring focus)"
-      ]
-    },
-    {
-      "id": "engen-highmark-software-engineer-ed3db5c2",
-      "title": "Software Engineer",
-      "company": "enGen (Highmark Health)",
-      "location": "Work at Home (Illinois)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-04-30",
-      "salary_min": 86400,
-      "salary_max": 138600,
-      "salary_text": "Pay range $86,400 - $138,600",
-      "employment_type": "Full-time",
-      "experience_level": "Mid",
-      "source": "Highmark Health Careers",
-      "url": "https://careers.highmarkhealth.org/software-engineer/job/ED3DB5C2945DFC550DB91E74E9C8A543",
-      "description_snippet": "Agile software engineer role building scalable applications across digital channels; participate in scrum ceremonies and full SDLC; uses modern languages (Java/Python/JavaScript) and web services (REST/JSON).",
-      "key_skills": [
-        "Java",
-        "Python",
-        "React",
-        "REST APIs",
-        "AWS",
-        "GCP",
-        "Agile",
-        "JSON"
-      ],
-      "benefits_highlights": [],
-      "match_score": 73,
-      "match_reasons": [
-        "java",
-        "react",
-        "python",
-        "REST APIs",
-        "Remote"
       ]
     },
     {
