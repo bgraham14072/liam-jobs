@@ -1,5 +1,6 @@
 {
-  "last_updated": "2026-09-14T11:39:23.735508+00:00",
+  "last_updated": "2026-09-21T11:32:53.923916+00:00",
+  "total": 106,
   "jobs": [
     {
       "id": "praia-health-senior-java-backend-engineer-2026-08-25",
@@ -129,6 +130,129 @@
       ]
     },
     {
+      "id": "equip-health-sr-full-stack-java-2026-09-16",
+      "title": "Sr Full Stack Java Software Engineer",
+      "company": "Equip Health",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-16",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/equiphealth/0304a7ae-9eda-4560-8c59-ec562bb65a9f",
+      "description_snippet": "Equip Health seeks a senior full-stack Java engineer to build healthcare web applications and support cloud releases, monitoring, triage, and production operations.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "REST APIs",
+        "Docker",
+        "Kubernetes",
+        "Cloud",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "Healthcare mission",
+        "Remote US",
+        "Full-time engineering role"
+      ],
+      "match_score": 98,
+      "match_reasons": [
+        "Healthcare technology domain",
+        "Outstanding Java/full-stack fit",
+        "Cloud and production ownership",
+        "Remote U.S. role",
+        "Full-time listing"
+      ]
+    },
+    {
+      "id": "enter-senior-java-backend-healthcare-2026-09-17",
+      "title": "Senior Java Backend Software Engineer",
+      "company": "ENTER",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-17",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/enter-rcm-llc/f319ff91-35b4-46b3-a453-52dc38dcde72",
+      "description_snippet": "ENTER, a remote healthcare fintech company, is seeking a Senior Java Backend Software Engineer to build revenue-cycle-management infrastructure with Java and scalable service patterns.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "SQL",
+        "Microservices",
+        "Docker",
+        "Kubernetes",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "Healthcare fintech mission",
+        "Remote US-based team",
+        "Full-time role"
+      ],
+      "match_score": 98,
+      "match_reasons": [
+        "Healthcare fintech domain",
+        "Outstanding Java backend fit",
+        "Microservices/API alignment",
+        "Remote U.S. role",
+        "Full-time listing"
+      ]
+    },
+    {
+      "id": "cvs-senior-software-development-engineer-2026-09-18",
+      "title": "Senior Software Development Engineer",
+      "company": "CVS Health",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-18",
+      "salary_min": 83430,
+      "salary_max": 222480,
+      "salary_text": "$83,430-$222,480 / year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=54003024878a1b50",
+      "description_snippet": "CVS Health lists a remote full-time Senior Software Development Engineer role focused on resilient services that operationalize healthcare interoperability.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "SQL",
+        "REST APIs",
+        "Microservices",
+        "Docker",
+        "Kubernetes",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "$83,430-$222,480 salary range",
+        "Healthcare benefits",
+        "Remote U.S. role"
+      ],
+      "match_score": 98,
+      "match_reasons": [
+        "Healthcare interoperability",
+        "Senior engineering scope",
+        "Java/Python/API fit",
+        "Resilient cloud services",
+        "Remote full-time listing"
+      ]
+    },
+    {
       "title": "Engineer II/III \u2013 Java / Spring Boot (AWS, APIs & Event-Driven Architecture)",
       "company": "Mutual of Omaha",
       "location": "Remote (US)",
@@ -210,6 +334,47 @@
         "AWS cloud deployment",
         "Senior Engineer III level",
         "Remote US full-time"
+      ]
+    },
+    {
+      "id": "pointclickcare-senior-software-engineer-2026-09-18",
+      "title": "Senior Software Engineer",
+      "company": "PointClickCare",
+      "location": "Remote (USA)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-18",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/pointclickcare/4e6fb3fa-3d0f-45eb-875c-2598b6bc0515",
+      "description_snippet": "PointClickCare seeks a remote U.S. Senior Software Engineer to process and transform healthcare data and maintain rules-based services that integrate clinical messages.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "SQL",
+        "REST APIs",
+        "Microservices",
+        "Testing",
+        "Docker",
+        "Kubernetes"
+      ],
+      "benefits_highlights": [
+        "Healthcare data platform",
+        "Remote U.S. role",
+        "Full-time employment"
+      ],
+      "match_score": 97,
+      "match_reasons": [
+        "Healthcare data domain",
+        "Senior software role",
+        "Java/Python/API match",
+        "Distributed service work",
+        "Remote full-time listing"
       ]
     },
     {
@@ -381,6 +546,46 @@
       ]
     },
     {
+      "id": "mvp-health-care-sr-software-engineer-rochester-2026-09-11",
+      "title": "Sr. Software Engineer",
+      "company": "MVP Health Care",
+      "location": "Rochester, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-09-11",
+      "salary_min": 95540,
+      "salary_max": 150000,
+      "salary_text": "$95,540-$150,000 / year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/career/senior-software-engineer/salaries/Rochester--NY",
+      "description_snippet": "Current Rochester listings identify MVP Health Care as hiring a full-time Senior Software Engineer, with application development and test-driven development experience requested.",
+      "key_skills": [
+        "Java",
+        "SQL",
+        "REST APIs",
+        "Python",
+        "JUnit",
+        "Jenkins",
+        "React"
+      ],
+      "benefits_highlights": [
+        "$95,540-$150,000 salary range",
+        "Healthcare employer",
+        "Rochester location"
+      ],
+      "match_score": 96,
+      "match_reasons": [
+        "Rochester/WNY healthcare employer",
+        "Senior application development",
+        "Java/SQL/API fit",
+        "Test-driven development",
+        "Salary disclosed"
+      ]
+    },
+    {
       "id": "unitedhealth-java-full-stack-software-engineer-remote-2026-09-12",
       "title": "Java Full Stack Software Engineer - Remote",
       "company": "UnitedHealth Group",
@@ -419,6 +624,88 @@
         "AWS/API alignment",
         "Remote U.S. full-time role",
         "Salary disclosed"
+      ]
+    },
+    {
+      "id": "smarterdx-senior-backend-2026-09-16",
+      "title": "Senior Software Engineer, Backend",
+      "company": "SmarterDx",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-16",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/smarterdx/jobs/4607936007",
+      "description_snippet": "SmarterDx is hiring a remote U.S. backend senior engineer to build systems that handle, process, and analyze clinical data at scale for a clinical AI product.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "SQL",
+        "REST APIs",
+        "Microservices",
+        "Docker",
+        "Kubernetes",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "Clinical AI mission",
+        "Remote U.S. role",
+        "Full-time employment"
+      ],
+      "match_score": 96,
+      "match_reasons": [
+        "Clinical healthcare data",
+        "Senior backend scope",
+        "Scalable systems and APIs",
+        "Java/Python/cloud fit",
+        "Remote full-time listing"
+      ]
+    },
+    {
+      "id": "hhaexchange-sr-software-engineer-2026-09-18",
+      "title": "Sr. Software Engineer",
+      "company": "HHAeXchange",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-18",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/hhaexchange/d6539c2c-8626-4363-9a5e-18ff76ac34f6",
+      "description_snippet": "HHAeXchange is hiring a remote U.S. Senior Software Engineer to enhance a caregiver platform with scalable, secure, and reliable backend services.",
+      "key_skills": [
+        "Java",
+        "REST APIs",
+        "SQL",
+        "Microservices",
+        "Docker",
+        "Kubernetes",
+        "Testing",
+        "CI/CD"
+      ],
+      "benefits_highlights": [
+        "Healthcare platform",
+        "Remote U.S. role",
+        "Full-time employment"
+      ],
+      "match_score": 96,
+      "match_reasons": [
+        "Healthcare platform domain",
+        "Senior backend role",
+        "Scalable secure service work",
+        "Docker/Kubernetes fit",
+        "Remote full-time listing"
       ]
     },
     {
@@ -541,6 +828,129 @@
         "AWS and event-driven architecture",
         "Remote U.S. full-time role",
         "Backend focus"
+      ]
+    },
+    {
+      "id": "sidecar-health-senior-backend-2026-09-16",
+      "title": "Senior Software Engineer, Backend",
+      "company": "Sidecar Health",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-16",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/sidecarhealth/jobs/5990181004",
+      "description_snippet": "Sidecar Health seeks a remote senior backend engineer to build services, APIs, and data systems powering a health-insurance platform.",
+      "key_skills": [
+        "Java",
+        "SQL",
+        "REST APIs",
+        "Microservices",
+        "Docker",
+        "Kubernetes",
+        "Testing",
+        "React"
+      ],
+      "benefits_highlights": [
+        "Health-insurance technology",
+        "Remote U.S. role",
+        "Full-time position"
+      ],
+      "match_score": 95,
+      "match_reasons": [
+        "Health-insurance domain",
+        "Senior backend role",
+        "Services/API/data focus",
+        "Strong Java/SQL fit",
+        "Remote full-time listing"
+      ]
+    },
+    {
+      "id": "stellar-health-senior-software-engineer-2-2026-09-16",
+      "title": "Senior Software Engineer - 2",
+      "company": "Stellar Health",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-16",
+      "salary_min": 195000,
+      "salary_max": 230000,
+      "salary_text": "$195,000-$230,000 / year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=95ab58421f8a675f",
+      "description_snippet": "Stellar Health is seeking a remote U.S. Senior Software Engineer - 2 to develop core features for its healthcare platform while driving outcomes across teams.",
+      "key_skills": [
+        "Python",
+        "Java",
+        "REST APIs",
+        "SQL",
+        "Microservices",
+        "Docker",
+        "Testing",
+        "Cloud"
+      ],
+      "benefits_highlights": [
+        "$195,000-$230,000 salary range",
+        "Healthcare platform",
+        "Remote U.S. role"
+      ],
+      "match_score": 95,
+      "match_reasons": [
+        "Healthcare platform",
+        "Senior software level",
+        "Cross-team core feature work",
+        "Strong backend/API fit",
+        "Salary disclosed"
+      ]
+    },
+    {
+      "id": "staffright-java-react-developer-buffalo-2026-09-21",
+      "title": "Java React Developer (Azure)",
+      "company": "StaffRight Associates, LLC",
+      "location": "Buffalo, NY (Hybrid)",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-09-21",
+      "salary_min": 145600,
+      "salary_max": 153920,
+      "salary_text": "$70-$74/hour",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/2855a509-11cc-4592-a416-5bc82659817c",
+      "description_snippet": "StaffRight lists a current full-time Java React Developer role in Buffalo, paying $70-$74 per hour. The project modernizes an enterprise platform with Azure, Java, React, APIs, and CI/CD.",
+      "key_skills": [
+        "Java",
+        "React",
+        "Azure",
+        "REST APIs",
+        "SQL",
+        "Spring Boot",
+        "Jenkins",
+        "Docker"
+      ],
+      "benefits_highlights": [
+        "$70-$74/hour",
+        "Full-time role",
+        "Hybrid WNY schedule"
+      ],
+      "match_score": 95,
+      "match_reasons": [
+        "Buffalo/WNY location",
+        "Java and React match",
+        "Azure/API/cloud fit",
+        "Full-time listing",
+        "Salary disclosed"
       ]
     },
     {
@@ -753,6 +1163,46 @@
       ]
     },
     {
+      "id": "insurepay-full-stack-senior-software-engineer-buffalo-2026-09-01",
+      "title": "Full-Stack Senior Software Engineer",
+      "company": "InsurePay",
+      "location": "Buffalo-Niagara Falls Area, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-09-01",
+      "salary_min": 130000,
+      "salary_max": 150000,
+      "salary_text": "$130,000-$150,000 / year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/full-stack-senior-software-engineer-at-insurepay-4383369076",
+      "description_snippet": "InsurePay is hiring a Full-Stack Senior Software Engineer in the Buffalo-Niagara Falls area. The hybrid role is focused on insurance technology and lists a $130,000-$150,000 base range.",
+      "key_skills": [
+        "Java",
+        "React",
+        "REST APIs",
+        "SQL",
+        "Spring Boot",
+        "Docker",
+        "Microservices"
+      ],
+      "benefits_highlights": [
+        "$130,000-$150,000 base salary",
+        "Hybrid work",
+        "Insurance technology domain"
+      ],
+      "match_score": 94,
+      "match_reasons": [
+        "Buffalo/WNY location",
+        "Senior full-stack scope",
+        "Direct Java/React/API fit",
+        "Insurance domain",
+        "Salary disclosed"
+      ]
+    },
+    {
       "id": "virta-health-senior-software-engineer-ii-buffalo-2026-09-01",
       "title": "Senior Software Engineer II",
       "company": "Virta Health",
@@ -837,6 +1287,86 @@
       ]
     },
     {
+      "id": "cognizant-senior-java-fsd-remote-buffalo-2026-09-10",
+      "title": "Senior Java FSD - Remote",
+      "company": "Cognizant",
+      "location": "Buffalo, NY (Remote)",
+      "location_type": "Remote",
+      "is_wny": true,
+      "is_remote": true,
+      "posted_date": "2026-09-10",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-java-fsd-remote-at-cognizant-4393092101",
+      "description_snippet": "Cognizant is seeking a hands-on Senior Java Full Stack Developer in Buffalo to design, develop, and support scalable enterprise applications using Java, Spring Boot, microservices, and modern UI frameworks.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "React",
+        "SQL",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "Full-time employment",
+        "Enterprise delivery environment"
+      ],
+      "match_score": 94,
+      "match_reasons": [
+        "Buffalo/WNY location",
+        "Senior Java full-stack role",
+        "Spring Boot and microservices fit",
+        "Modern UI and API work",
+        "Full-time listing"
+      ]
+    },
+    {
+      "id": "cohere-health-client-implementations-2026-09-14",
+      "title": "Senior Software Engineer, Client Implementations",
+      "company": "Cohere Health",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-14",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/coherehealth/jobs/7771934003?gh_src=7ca517e23us",
+      "description_snippet": "Cohere Health is hiring a remote-first senior engineer to build and operate mission-critical prior-authorization healthcare technology for health plans.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "REST APIs",
+        "SQL",
+        "Microservices",
+        "Docker",
+        "Testing",
+        "Cloud"
+      ],
+      "benefits_highlights": [
+        "Healthcare platform",
+        "Remote-first role",
+        "Full-time employment"
+      ],
+      "match_score": 94,
+      "match_reasons": [
+        "Healthcare prior-authorization domain",
+        "Mission-critical service engineering",
+        "Strong API/backend fit",
+        "Remote-first U.S. role",
+        "Full-time listing"
+      ]
+    },
+    {
       "id": "included-health-senior-software-engineer-backend-2026-09-14",
       "title": "Senior Software Engineer, Backend",
       "company": "Included Health",
@@ -875,6 +1405,47 @@
         "Docker/Kubernetes/microservices fit",
         "Remote U.S. full-time role",
         "Strong Java/Python overlap"
+      ]
+    },
+    {
+      "id": "twin-health-software-engineer-backend-2026-09-17",
+      "title": "Software Engineer, Backend",
+      "company": "Twin Health",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-17",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "Greenhouse",
+      "url": "https://job-boards.greenhouse.io/twinhealth/jobs/5722148004",
+      "description_snippet": "Twin Health is hiring a backend software engineer for a healthcare platform, responsible for large-scale applications and integrations supporting clinical operations.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "REST APIs",
+        "SQL",
+        "Microservices",
+        "Docker",
+        "Testing",
+        "Cloud"
+      ],
+      "benefits_highlights": [
+        "Healthcare technology mission",
+        "Remote U.S. role",
+        "Full-time position"
+      ],
+      "match_score": 94,
+      "match_reasons": [
+        "Healthcare platform",
+        "Backend/API focus",
+        "Large-scale application work",
+        "Strong Java/Python overlap",
+        "Remote full-time listing"
       ]
     },
     {
@@ -1004,6 +1575,45 @@
       ]
     },
     {
+      "id": "mt-bank-senior-software-engineer-buffalo-2026-09-15",
+      "title": "Senior Software Engineer",
+      "company": "M&T Bank",
+      "location": "Buffalo, NY",
+      "location_type": "On-site/Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-09-15",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-at-m-t-bank-4429967721",
+      "description_snippet": "M&T Bank lists a current Senior Software Engineer opening at 465 Main Street in Buffalo. The listing describes multiple positions and requires regular in-office collaboration on enterprise banking software.",
+      "key_skills": [
+        "Java",
+        "SQL",
+        "REST APIs",
+        "Microservices",
+        "Jenkins",
+        "JUnit",
+        "React"
+      ],
+      "benefits_highlights": [
+        "Bank benefits package",
+        "Full-time employment"
+      ],
+      "match_score": 93,
+      "match_reasons": [
+        "Buffalo/WNY location",
+        "Senior level",
+        "Strong Java/API/SQL alignment",
+        "Enterprise platform engineering",
+        "Current six-day-old listing"
+      ]
+    },
+    {
       "id": "dice-cvs-senior-java-software-engineer-remote-4336cc4c",
       "title": "Senior Java Software Engineer",
       "company": "CVS Health",
@@ -1124,6 +1734,85 @@
         "Buffalo/WNY location",
         "Mid-senior scope",
         "Testing and delivery ownership"
+      ]
+    },
+    {
+      "id": "acv-software-engineer-iii-vehicle-intelligence-2026-09-07",
+      "title": "Software Engineer III, Vehicle Intelligence",
+      "company": "ACV Auctions",
+      "location": "Buffalo, NY / Remote",
+      "location_type": "Hybrid/Remote",
+      "is_wny": true,
+      "is_remote": true,
+      "posted_date": "2026-09-07",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-vehicle-intelligence-at-acv-auctions-4385545082",
+      "description_snippet": "ACV Auctions is hiring a Software Engineer III on a cross-functional Buffalo team working on operational tools, product, or infrastructure.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "REST APIs",
+        "SQL",
+        "Docker",
+        "Kubernetes",
+        "Microservices"
+      ],
+      "benefits_highlights": [
+        "Buffalo/WNY engineering team",
+        "Remote option listed",
+        "Full-time employment"
+      ],
+      "match_score": 92,
+      "match_reasons": [
+        "Buffalo/WNY employer",
+        "Software Engineer III level",
+        "Product and infrastructure work",
+        "API/cloud skill overlap",
+        "Remote option listed"
+      ]
+    },
+    {
+      "id": "mt-bank-software-engineer-buffalo-2026-09-11",
+      "title": "Software Engineer",
+      "company": "M&T BANK CORPORATION",
+      "location": "Buffalo, NY",
+      "location_type": "On-site",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-09-11",
+      "salary_min": 80900,
+      "salary_max": 134800,
+      "salary_text": "$80,900-$134,800 / year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/5c4fa19d-84d9-4e68-92fb-16a26fc287ad",
+      "description_snippet": "M&T BANK CORPORATION is seeking a full-time Software Engineer in Buffalo to design, develop, test, and maintain scalable, secure, and resilient software solutions.",
+      "key_skills": [
+        "Java",
+        "SQL",
+        "REST APIs",
+        "Spring Boot",
+        "Jenkins",
+        "JUnit",
+        "Microservices"
+      ],
+      "benefits_highlights": [
+        "$80,900-$134,800 salary range",
+        "Full-time employment"
+      ],
+      "match_score": 92,
+      "match_reasons": [
+        "Buffalo/WNY location",
+        "Strong Java/SQL/API fit",
+        "Secure resilient application work",
+        "Full-time listing",
+        "Salary disclosed"
       ]
     },
     {
@@ -1493,6 +2182,86 @@
       ]
     },
     {
+      "id": "wthehobby-senior-software-engineer-rochester-2026-09-12",
+      "title": "Senior Software Engineer",
+      "company": "WeTheHobby",
+      "location": "Rochester, NY",
+      "location_type": "On-site",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-09-12",
+      "salary_min": 98000,
+      "salary_max": 132000,
+      "salary_text": "$98,000-$132,000 / year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=7fdc446aaa778fb1",
+      "description_snippet": "WeTheHobby is hiring a full-time Senior Software Engineer in Rochester to design and maintain server-side logic, database architecture, and APIs.",
+      "key_skills": [
+        "Java",
+        "SQL",
+        "REST APIs",
+        "Python",
+        "React",
+        "Docker",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "$98,000-$132,000 salary range",
+        "Full-time employment",
+        "Rochester location"
+      ],
+      "match_score": 91,
+      "match_reasons": [
+        "Rochester/WNY location",
+        "Senior backend/API scope",
+        "Database architecture fit",
+        "Strong SQL/Java overlap",
+        "Salary disclosed"
+      ]
+    },
+    {
+      "id": "lyra-health-sr-software-engineer-2026-09-16",
+      "title": "Sr. Software Engineer",
+      "company": "Lyra Health",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-16",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Lever",
+      "url": "https://jobs.lever.co/lyrahealth/d6261069-149b-47d6-a101-34e84824f478",
+      "description_snippet": "Lyra Health is hiring a remote U.S. senior software engineer to create and improve healthcare products. The listing highlights Python and production engineering in a full-time technology role.",
+      "key_skills": [
+        "Python",
+        "REST APIs",
+        "SQL",
+        "React",
+        "Docker",
+        "Microservices",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "Mental-healthcare mission",
+        "Remote U.S. option",
+        "Full-time employment"
+      ],
+      "match_score": 91,
+      "match_reasons": [
+        "Healthcare domain",
+        "Senior software-engineering scope",
+        "Python/API/React overlap",
+        "Remote U.S. role",
+        "Full-time listing"
+      ]
+    },
+    {
       "title": "Senior Backend Engineer - Provider Directory",
       "company": "B.well Connected Health",
       "location": "Remote (US)",
@@ -1661,40 +2430,44 @@
       ]
     },
     {
-      "id": "safran-senior-software-engineer-rochester-2026-09-14",
-      "title": "Senior Software Engineer",
-      "company": "Safran Federal Systems",
-      "location": "Rochester, NY",
+      "id": "acv-software-engineer-iv-data-2026-09-07",
+      "title": "Software Engineer IV, Data",
+      "company": "ACV Auctions",
+      "location": "Buffalo, NY",
       "location_type": "On-site/Hybrid",
       "is_wny": true,
       "is_remote": false,
-      "posted_date": "2026-09-14",
+      "posted_date": "2026-09-07",
       "salary_min": null,
       "salary_max": null,
       "salary_text": "Not disclosed",
       "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Safran Federal Systems Careers",
-      "url": "https://www.safranfederalsystems.com/open-roles",
-      "description_snippet": "Safran Federal Systems lists a permanent full-time Senior Software Engineer opening in Rochester. The listing is a current WNY software-engineering opportunity on the employer\u2019s open-roles page.",
+      "experience_level": "Staff",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-iv-data-at-acv-auctions-4430960912",
+      "description_snippet": "ACV Auctions seeks a Software Engineer IV, Data in Buffalo to lead, architect, and elevate data engineering work in a fast-paced product environment.",
       "key_skills": [
         "Java",
         "Python",
+        "SQL",
         "REST APIs",
         "Docker",
         "Kubernetes",
-        "SQL",
-        "JUnit",
-        "Jenkins"
+        "Microservices",
+        "Data engineering"
       ],
-      "benefits_highlights": [],
+      "benefits_highlights": [
+        "Buffalo/WNY location",
+        "Leadership scope",
+        "Full-time employment"
+      ],
       "match_score": 90,
       "match_reasons": [
-        "Rochester/WNY location",
-        "Senior software-engineering title",
-        "Permanent full-time role",
-        "Strong Java/cloud/CI fit",
-        "Current careers-page opening"
+        "Buffalo/WNY location",
+        "Staff-level data engineering",
+        "Strong SQL/backend fit",
+        "Platform architecture scope",
+        "Full-time listing"
       ]
     },
     {
@@ -1735,38 +2508,80 @@
       ]
     },
     {
-      "id": "stripe-software-engineer-atomico-79836843",
-      "title": "Software Engineer",
-      "company": "Stripe",
-      "location": "New York, NY (up to 50% remote)",
-      "location_type": "Hybrid",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-05-22",
-      "salary_min": 156800,
-      "salary_max": 235200,
-      "salary_text": "USD 156,800-235,200 / year + equity",
+      "id": "safran-senior-software-engineer-rochester-2026-09-14",
+      "title": "Senior Software Engineer",
+      "company": "Safran Federal Systems",
+      "location": "Rochester, NY",
+      "location_type": "On-site/Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-09-14",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
       "employment_type": "Full-time",
-      "experience_level": "Mid",
-      "source": "Atomico job board",
-      "url": "https://careers.atomico.com/companies/stripe/jobs/79836843-software-engineer",
-      "description_snippet": "Role requires experience building software solutions (languages include Java, Python, Scala, React) and working with APIs and SQL queries.",
+      "experience_level": "Senior",
+      "source": "Safran Federal Systems Careers",
+      "url": "https://www.safranfederalsystems.com/open-roles",
+      "description_snippet": "Safran Federal Systems lists a permanent full-time Senior Software Engineer opening in Rochester. The listing is a current WNY software-engineering opportunity on the employer\u2019s open-roles page.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "REST APIs",
+        "Docker",
+        "Kubernetes",
+        "SQL",
+        "JUnit",
+        "Jenkins"
+      ],
+      "benefits_highlights": [],
+      "match_score": 90,
+      "match_reasons": [
+        "Rochester/WNY location",
+        "Senior software-engineering title",
+        "Permanent full-time role",
+        "Strong Java/cloud/CI fit",
+        "Current careers-page opening"
+      ]
+    },
+    {
+      "id": "moog-senior-application-developer-buffalo-2026-09-19",
+      "title": "Senior Application Developer",
+      "company": "Moog",
+      "location": "Buffalo, NY (Hybrid)",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-09-19",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Bebee",
+      "url": "https://bebee.com/us/jobs/senior-application-developer-moog-buffalo--lensa-7428_87c77fb96083a82f0acbc0ad644062cc18191bf8fa93f34bce3c2a1b025a1f99",
+      "description_snippet": "Moog is hiring a Senior Application Developer in Buffalo on a hybrid schedule. The current listing describes application development and a full-time opportunity.",
       "key_skills": [
         "Java",
         "Python",
         "SQL",
-        "APIs",
+        "REST APIs",
         "React",
-        "Distributed systems"
+        "Docker",
+        "Testing"
       ],
       "benefits_highlights": [
-        "Equity"
+        "Hybrid work",
+        "Buffalo location",
+        "Full-time employment"
       ],
-      "match_score": 89,
+      "match_score": 90,
       "match_reasons": [
-        "Remote/hybrid allowed",
-        "Strong match on Java/SQL/APIs",
-        "Brand-name engineering org"
+        "Buffalo/WNY location",
+        "Senior application development",
+        "Java/Python/API overlap",
+        "Current listing",
+        "Hybrid full-time role"
       ]
     },
     {
@@ -1891,6 +2706,46 @@
         "Senior full-time position",
         "Full-stack engineering fundamentals",
         "Strong Java/Python/API match",
+        "Salary disclosed"
+      ]
+    },
+    {
+      "id": "moog-sr-software-engineer-buffalo-2026-09-18",
+      "title": "Sr. Software Engineer",
+      "company": "Moog",
+      "location": "Buffalo, NY",
+      "location_type": "On-site",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-09-18",
+      "salary_min": 118000,
+      "salary_max": 156000,
+      "salary_text": "$118,000-$156,000 / year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "ZipRecruiter",
+      "url": "https://www.ziprecruiter.com/co/moog/Jobs/Software",
+      "description_snippet": "Moog lists a current Sr. Software Engineer opening in Buffalo with an on-site schedule and a $118,000-$156,000 estimated salary range.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "SQL",
+        "REST APIs",
+        "Docker",
+        "Testing",
+        "CI/CD"
+      ],
+      "benefits_highlights": [
+        "$118,000-$156,000 salary range",
+        "Buffalo location",
+        "Full-time employment"
+      ],
+      "match_score": 89,
+      "match_reasons": [
+        "Buffalo/WNY location",
+        "Senior software title",
+        "Backend and testing fit",
+        "Current three-day-old listing",
         "Salary disclosed"
       ]
     },
@@ -2210,6 +3065,45 @@
       ]
     },
     {
+      "id": "stark-tech-senior-software-developer-buffalo-2026-09-19",
+      "title": "Senior Software Developer",
+      "company": "Stark Tech",
+      "location": "Buffalo, NY",
+      "location_type": "On-site/Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-09-19",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/senior-software-developer-at-stark-tech-4408587843",
+      "description_snippet": "Stark Tech is hiring a Senior Software Developer in Buffalo to build and support software solutions for commercial HVAC operations within its R&D team.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "REST APIs",
+        "SQL",
+        "Docker",
+        "Testing",
+        "Microservices"
+      ],
+      "benefits_highlights": [
+        "R&D environment",
+        "Full-time employment"
+      ],
+      "match_score": 88,
+      "match_reasons": [
+        "Buffalo/WNY location",
+        "Senior software development",
+        "API and backend alignment",
+        "Current two-day-old listing",
+        "Full-time opportunity"
+      ]
+    },
+    {
       "title": "Java / Spring Boot Software Developer - REMOTE",
       "company": "General Dynamics Information Technology",
       "location": "Remote (US)",
@@ -2252,48 +3146,6 @@
       "id": "gdit-java-spring-boot-software-developer-remote-2026-07-12"
     },
     {
-      "id": "acv-auctions-software-engineer-iv-data-buffalo-2026-08-17",
-      "title": "Software Engineer IV, Data",
-      "company": "ACV Auctions",
-      "location": "Buffalo, NY",
-      "location_type": "On-site",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-08-17",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "$120 - $190/hr",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "ZipRecruiter",
-      "url": "https://www.ziprecruiter.com/c/ACV-Auctions/Job/Software-Engineer-IV,-Data/-in-Buffalo,NY?jid=2a91441d2e91973e",
-      "description_snippet": "Senior Buffalo platform-engineering role focused on backend VIN Decoder systems using Python, AWS, GCP BigQuery, Postgres, Redis, Terraform, APIs, asynchronous data flows, SQL optimization, and unit/integration testing.",
-      "key_skills": [
-        "Python",
-        "SQL",
-        "AWS",
-        "GCP",
-        "PostgreSQL",
-        "Redis",
-        "Terraform",
-        "REST APIs"
-      ],
-      "benefits_highlights": [
-        "$120-$190 hourly compensation",
-        "Full-time ACV Auctions role",
-        "Backend platform ownership",
-        "Buffalo/WNY location"
-      ],
-      "match_score": 87,
-      "match_reasons": [
-        "Strong Python/SQL fit",
-        "Cloud, APIs, and data-platform work",
-        "Unit/integration testing",
-        "Senior-level scope",
-        "Buffalo/WNY location"
-      ]
-    },
-    {
       "id": "roberts-recruiting-senior-sw-engineer-full-stack-rochester-2026-09-07",
       "title": "Senior SW Engineer - Full Stack",
       "company": "Roberts Recruiting",
@@ -2331,46 +3183,43 @@
       ]
     },
     {
-      "title": "Senior Software Developer",
-      "company": "Stark Tech",
-      "location": "Buffalo, NY",
-      "location_type": "On-site",
+      "id": "mindex-software-engineer-rochester-2026-09-10",
+      "title": "Software Engineer (Progress OpenEdge)",
+      "company": "Mindex",
+      "location": "Rochester, NY",
+      "location_type": "Hybrid",
       "is_wny": true,
       "is_remote": false,
-      "posted_date": "2026-05-21",
-      "salary_min": 93000,
-      "salary_max": 155000,
-      "salary_text": "$93,000 - $155,000 / year",
+      "posted_date": "2026-09-10",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
       "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "ZipRecruiter",
-      "url": "https://www.ziprecruiter.com/Jobs/Senior-Software-Developer/-in-Buffalo,NY",
-      "description_snippet": "Join a Buffalo R&D team building and supporting software solutions for commercial HVAC operations, contributing across the software lifecycle with clean, testable code and collaborative delivery.",
+      "experience_level": "Mid-Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-at-mindex-4326327868",
+      "description_snippet": "Mindex is seeking an experienced Software Engineer in Rochester for its SchoolTool division, a New York State student-management platform.",
       "key_skills": [
-        "Software engineering",
-        "Backend development",
+        "Java",
         "SQL",
         "REST APIs",
+        "Python",
         "Testing",
-        "Debugging",
-        "Agile",
-        "Cloud"
+        "CI/CD"
       ],
       "benefits_highlights": [
-        "Medical insurance",
-        "Retirement plan",
-        "Paid time off",
+        "Rochester/WNY location",
+        "Education technology mission",
         "Full-time employment"
       ],
-      "match_score": 86,
+      "match_score": 87,
       "match_reasons": [
-        "Senior software-development scope",
-        "Buffalo/WNY location",
-        "Clean/testable code emphasis",
-        "Full-time role",
-        "Salary disclosed"
-      ],
-      "id": "stark-tech-senior-software-developer-buffalo-2026-05-21"
+        "Rochester/WNY location",
+        "Experienced software-engineering role",
+        "Platform and API work",
+        "SQL/Python overlap",
+        "Full-time listing"
+      ]
     },
     {
       "id": "jobgether-6a14ceff1afd2625c12c87f0",
@@ -2601,46 +3450,6 @@
       ]
     },
     {
-      "id": "veeva-software-engineer-java-2026-05-19",
-      "title": "Software Engineer - Java",
-      "company": "Veeva",
-      "location": "Boston, MA (Work Anywhere)",
-      "location_type": "Hybrid",
-      "is_wny": false,
-      "is_remote": false,
-      "posted_date": "2026-05-19",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "Base pay: $85,000 - $225,000",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-level",
-      "source": "Veeva Careers",
-      "url": "https://careers.veeva.com/job/4d5dd1de-44d2-41ff-a8f2-1113a8e310ff/software-engineer-java-boston-ma/",
-      "description_snippet": "Design and deliver scalable cloud features; write clean testable Java/OO code; strong Spring Boot; SQL/NoSQL; Jenkins CI/CD; AWS.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "SQL",
-        "Hibernate/JPA",
-        "Jenkins",
-        "AWS",
-        "Microservices",
-        "JUnit"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 85,
-      "match_reasons": [
-        "java",
-        "spring",
-        "sql",
-        "jenkins",
-        "microservice"
-      ]
-    },
-    {
       "id": "mongodb-senior-software-engineer-server-clusters-2026-09-01",
       "title": "Senior Software Engineer, MongoDB Server Clusters and Interfaces",
       "company": "MongoDB",
@@ -2717,45 +3526,6 @@
         "Full software lifecycle",
         "Remote full-time",
         "Benefits and salary published"
-      ]
-    },
-    {
-      "id": "ziprecruiter-clipboardhealth-software-engineer-backend-eed6ad1f32da54b5",
-      "title": "Software Engineer, Backend",
-      "company": "Clipboard Health",
-      "location": "Remote (US)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-05-22",
-      "salary_min": 180000,
-      "salary_max": 400000,
-      "salary_text": "$180K - $400K/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Mid/Senior",
-      "source": "ZipRecruiter",
-      "url": "https://www.ziprecruiter.com/c/Clipboard-Health/Job/Software-Engineer,-Backend/-in-Remote,US?jid=eed6ad1f32da54b5",
-      "description_snippet": "Remote-first backend engineer role building solutions for a healthcare staffing marketplace; work across backend services and web/mobile experiences, with emphasis on testing, automated deployment, and production reliability.",
-      "key_skills": [
-        "REST APIs",
-        "Postgres",
-        "MongoDB",
-        "AWS",
-        "Terraform",
-        "Integration testing",
-        "React",
-        "TypeScript"
-      ],
-      "benefits_highlights": [
-        "Remote-first",
-        "Unlimited PTO"
-      ],
-      "match_score": 84,
-      "match_reasons": [
-        "Healthcare domain",
-        "Backend-focused",
-        "Strong overlap on APIs, databases, cloud",
-        "Compensation range listed"
       ]
     },
     {
@@ -2872,76 +3642,6 @@
         "Remote U.S. full-time role",
         "Docker/Kubernetes alignment",
         "Salary disclosed"
-      ]
-    },
-    {
-      "id": "veeva_principal-full-stack-engineer_remote-us",
-      "title": "Principal Full-Stack Engineer",
-      "company": "Veeva Systems",
-      "location": "United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-05-18",
-      "salary_min": 150000,
-      "salary_max": 300000,
-      "salary_text": "$150k\u2013$300k (per listing)",
-      "employment_type": "Full-time",
-      "experience_level": "Principal",
-      "source": "Himalayas (Veeva)",
-      "url": "https://himalayas.app/companies/veeva-systems/jobs/principal-full-stack-engineer-remote-ready-impactful",
-      "description_snippet": "Principal full-stack engineering role in life sciences SaaS; emphasizes Java and Spring, mentorship, and owning implementations in a fast-paced environment.",
-      "key_skills": [
-        "Java",
-        "Spring",
-        "SaaS",
-        "Microservices",
-        "APIs",
-        "Full-stack",
-        "Mentoring",
-        "Cloud"
-      ],
-      "benefits_highlights": [],
-      "match_score": 83,
-      "match_reasons": [
-        "Remote US",
-        "Strong Java/Spring match",
-        "Life sciences/healthcare-adjacent domain"
-      ]
-    },
-    {
-      "id": "linkedin-stripe-full-stack-engineer-enterprise-ecosystem",
-      "title": "Full Stack Engineer, Enterprise & Ecosystem",
-      "company": "Stripe",
-      "location": "Remote or office (35+ miles from a Stripe office qualifies as remote)",
-      "location_type": "Hybrid",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-05-21",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Mid/Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/full-stack-engineer-enterprise-ecosystem-at-stripe-4418012285",
-      "description_snippet": "Build connectors/integrations and Stripe services/infrastructure for transactional flows and data migration; role available remote or office.",
-      "key_skills": [
-        "Full-stack",
-        "Integrations",
-        "APIs",
-        "Infrastructure",
-        "Data migration",
-        "Web stack",
-        "Services",
-        "Ownership"
-      ],
-      "benefits_highlights": [],
-      "match_score": 82,
-      "match_reasons": [
-        "Full-stack + integrations",
-        "Remote eligible",
-        "Systems/infrastructure focus"
       ]
     },
     {
@@ -3212,41 +3912,6 @@
       ]
     },
     {
-      "id": "m-t-bank-senior-software-engineer-2026-05-19",
-      "title": "Senior Software Engineer",
-      "company": "M&T Bank",
-      "location": "Buffalo, NY",
-      "location_type": "Onsite/Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-05-19",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/lead-managed-services-engineer-ii-solution-architect-at-deloitte-4420407568",
-      "description_snippet": "LinkedIn page cross-lists a Senior Software Engineer role at M&T Bank in Buffalo, NY (2 weeks ago).",
-      "key_skills": [
-        "Java",
-        "React",
-        "AWS",
-        "Kubernetes",
-        "DevOps",
-        "Microservices"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 80,
-      "match_reasons": [
-        "Java",
-        "WNY area"
-      ]
-    },
-    {
       "id": "m-t-bank-senior-software-engineer-generative-ai-2026-05-28",
       "title": "Senior Software Engineer - Generative AI",
       "company": "M&T Bank",
@@ -3463,41 +4128,6 @@
       ]
     },
     {
-      "id": "jobs-via-dice_servicenow-software-engineer-ii_buffalo-ny",
-      "title": "ServiceNow Software Engineer II",
-      "company": "Imagine Staffing Technology (via Jobs via Dice)",
-      "location": "Buffalo, NY",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-05-21",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "$70/hour (per listing snippet)",
-      "employment_type": "Full-time",
-      "experience_level": "Mid-Senior",
-      "source": "LinkedIn (Jobs via Dice)",
-      "url": "https://www.linkedin.com/jobs/view/servicenow-software-engineer-at-jobs-via-dice-4415691968",
-      "description_snippet": "ServiceNow Software Engineer II role (hybrid 4 days/week in office) involving ServiceNow development and administration (CMDB/CSDM/APM) and integrations via REST APIs / Integration Hub.",
-      "key_skills": [
-        "ServiceNow",
-        "REST APIs",
-        "Integration Hub",
-        "CMDB",
-        "CSDM",
-        "APM",
-        "Systems Analysis",
-        "JavaScript"
-      ],
-      "benefits_highlights": [],
-      "match_score": 76,
-      "match_reasons": [
-        "WNY location (Buffalo)",
-        "Mentions REST API integration",
-        "Software engineering role, but stack is ServiceNow-focused vs Java/Spring"
-      ]
-    },
-    {
       "id": "ziprecruiter-integrity-resources-senior-software-engineer-php-zend-72b2fdf1",
       "title": "Senior Software Engineer - PHP / Zend",
       "company": "Integrity Resources",
@@ -3530,39 +4160,6 @@
         "Healthcare SaaS + APIs aligns",
         "Remote US",
         "Primary stack listed as PHP/Zend (less aligned to Liam\u2019s Java/Spring focus)"
-      ]
-    },
-    {
-      "id": "linkedin-4417559930",
-      "title": "Application Programmer Analyst I Epic",
-      "company": "Catholic Health",
-      "location": "Buffalo, NY",
-      "location_type": "On-site",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-05-23",
-      "salary_min": 67607,
-      "salary_max": 101420,
-      "salary_text": "$67,607/yr - $101,420/yr",
-      "employment_type": "Full-time",
-      "experience_level": "Entry/Mid",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/application-programmer-analyst-i-epic-at-catholic-health-4417559930",
-      "description_snippet": "Full-time application programmer/analyst supporting IT applications; implements software solutions for clinical/business needs; liaison for vendor software.",
-      "key_skills": [
-        "Healthcare IT",
-        "Applications",
-        "Epic",
-        "Systems analysis",
-        "Software solutions",
-        "Support"
-      ],
-      "benefits_highlights": [],
-      "match_score": 71,
-      "match_reasons": [
-        "Healthcare domain",
-        "WNY location bump",
-        "Less direct match to Java/Spring backend"
       ]
     },
     {
@@ -3635,40 +4232,6 @@
       "match_reasons": [
         "WNY area"
       ]
-    },
-    {
-      "id": "c90b6e83176730b1",
-      "title": "Principal Full-Stack Engineer \u2014 Remote-Ready & Impactful",
-      "company": "Veeva Systems",
-      "location": "United States",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-05-20",
-      "salary_min": 150000,
-      "salary_max": 300000,
-      "salary_text": "$150,000 - $300,000",
-      "employment_type": "Full-time",
-      "experience_level": "Senior/Principal",
-      "source": "Himalayas",
-      "url": "https://himalayas.app/companies/veeva-systems/jobs/principal-full-stack-engineer-remote-ready-impactful",
-      "description_snippet": "Principal-level full-stack engineering role in the life sciences sector; expects strong Java and Spring plus SaaS experience and technical leadership/mentorship.",
-      "key_skills": [
-        "Java",
-        "Spring",
-        "SaaS",
-        "Full-stack",
-        "System design",
-        "Mentoring"
-      ],
-      "benefits_highlights": [],
-      "match_score": 64,
-      "match_reasons": [
-        "java",
-        "spring",
-        "Remote"
-      ]
     }
-  ],
-  "total": 93
+  ]
 }
