@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-28T11:36:39.832476+00:00",
-  "total": 115,
+  "last_updated": "2026-10-05T11:24:57.042949+00:00",
+  "total": 119,
   "jobs": [
     {
       "id": "praia-health-senior-java-backend-engineer-2026-08-25",
@@ -43,6 +43,49 @@
         "FHIR/HL7 and secure APIs",
         "Kubernetes/Docker/Terraform",
         "Remote US full-time"
+      ]
+    },
+    {
+      "id": "conduent-senior-java-developer-fhir-interoperability-remote-2026-10-01",
+      "title": "Senior Java Developer (FHIR) - Interoperability",
+      "company": "Conduent",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-01",
+      "salary_min": 96250,
+      "salary_max": 125000,
+      "salary_text": "$96,250\u2013$125,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn / Conduent",
+      "url": "https://www.linkedin.com/jobs/view/senior-java-developer-at-conduent-4387575426",
+      "description_snippet": "Conduent is hiring a remote Senior Java Developer to build payer-focused FHIR interoperability services. The role uses Java 11/17, Spring Boot, HAPI FHIR, Azure, Kafka, MongoDB, Docker, and Kubernetes for secure healthcare data exchange.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "FHIR/HAPI FHIR",
+        "Kafka",
+        "Azure",
+        "Docker",
+        "Kubernetes"
+      ],
+      "benefits_highlights": [
+        "Healthcare interoperability mission",
+        "Remote U.S. role",
+        "Medical, dental, and vision coverage",
+        "Retirement savings",
+        "Paid time off"
+      ],
+      "match_score": 99,
+      "match_reasons": [
+        "Excellent Java/Spring Boot and REST API fit",
+        "Direct healthcare interoperability experience",
+        "FHIR and microservices align with backend strengths",
+        "Docker/Kubernetes and CI/CD overlap",
+        "Remote full-time U.S. role"
       ]
     },
     {
@@ -127,6 +170,49 @@
         "AWS/Kafka/container alignment",
         "Remote US full-time",
         "Insurance/benefits domain"
+      ]
+    },
+    {
+      "id": "vetsez-senior-full-stack-software-engineer-remote-2026-09-05",
+      "title": "Senior Full Stack Software Engineer (Remote Opportunity)",
+      "company": "VetsEZ",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-05",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "BeBee",
+      "url": "https://bebee.com/us/jobs/senior-full-stack-software-engineer-remote-opportunity-vetsez-atlanta--fj-2243060078",
+      "description_snippet": "VetsEZ is seeking a fully remote Senior Full Stack Software Engineer for a federal healthcare modernization project. The full-time role uses Java 17, Spring Boot, React or Angular, REST APIs, AWS, PostgreSQL, microservices, Docker, and Kubernetes; the listing states applications remain open until October 19, 2026.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "REST APIs",
+        "PostgreSQL",
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "benefits_highlights": [
+        "100% remote opportunity",
+        "Medical, dental, and vision insurance",
+        "401(k) match",
+        "Paid time off plus federal holidays",
+        "Training and professional development"
+      ],
+      "match_score": 98,
+      "match_reasons": [
+        "Excellent Java/Spring full-stack fit",
+        "Healthcare application modernization",
+        "Strong REST, SQL, and microservices match",
+        "AWS and Docker/Kubernetes alignment",
+        "Remote full-time role with active closing date"
       ]
     },
     {
@@ -418,6 +504,49 @@
       ]
     },
     {
+      "id": "office-practicum-software-engineer-iii-java-remote-2026-09-30",
+      "title": "Software Engineer, III - Java",
+      "company": "Office Practicum",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-30",
+      "salary_min": 120000,
+      "salary_max": 130000,
+      "salary_text": "$120,000\u2013$130,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "SimplyHired",
+      "url": "https://www.simplyhired.com/job/jjY2Tr5jpLlpiTEtC0DHW8v5dqjzQT6SrtFOg26k1jo0iWNtjtHNog",
+      "description_snippet": "Office Practicum is hiring a remote, full-time Java engineer to extend its pediatric-practice health technology platform. The role builds platform features and healthcare integrations using Java 17+, Spring Boot, AWS, and standards including FHIR, HL7, CCDA, and X12.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "AWS",
+        "MySQL",
+        "MongoDB",
+        "FHIR/HL7",
+        "Git"
+      ],
+      "benefits_highlights": [
+        "Medical, dental, and vision insurance",
+        "401(k) match",
+        "Paid time off and holidays",
+        "Tuition assistance",
+        "Wellness program"
+      ],
+      "match_score": 97,
+      "match_reasons": [
+        "Direct Java/Spring Boot match",
+        "Healthcare platform and interoperability work",
+        "Strong REST and SQL/database overlap",
+        "Remote U.S. role",
+        "Full-time senior-level opportunity"
+      ]
+    },
+    {
       "title": "Full Stack Java Engineer - 60% frontend, 40% backend",
       "company": "Mutual of Omaha",
       "location": "Remote (US)",
@@ -583,6 +712,49 @@
         "Kafka/MongoDB event-driven systems",
         "Lead and mentoring scope",
         "Remote US full-time"
+      ]
+    },
+    {
+      "id": "unitedhealth-lead-java-software-engineer-remote-2026-09-08",
+      "title": "Lead Java Software Engineer - Remote",
+      "company": "UnitedHealth Group",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-08",
+      "salary_min": 112700,
+      "salary_max": 193200,
+      "salary_text": "$112,700\u2013$193,200/year",
+      "employment_type": "Full-time",
+      "experience_level": "Lead",
+      "source": "UnitedHealth Group Careers",
+      "url": "https://careers.unitedhealthgroup.com/job/eden-prairie/lead-java-software-engineer-remote/34088/100353870384",
+      "description_snippet": "Optum is seeking a remote U.S. Lead Java Software Engineer to develop identity and access management systems. The role requires Java, Spring Boot, AWS, Redis, PostgreSQL/MySQL, Docker, Kubernetes, and CI/CD experience.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "REST APIs",
+        "AWS",
+        "Redis",
+        "Docker",
+        "Kubernetes"
+      ],
+      "benefits_highlights": [
+        "Remote within the U.S.",
+        "Comprehensive benefits",
+        "401(k) contribution",
+        "Equity stock purchase",
+        "Incentive and recognition programs"
+      ],
+      "match_score": 96,
+      "match_reasons": [
+        "Strong Java/Spring backend alignment",
+        "Microservices, APIs, and relational database fit",
+        "Cloud, Docker/Kubernetes, and CI/CD match",
+        "Healthcare technology employer",
+        "Remote U.S. full-time role"
       ]
     },
     {
@@ -869,43 +1041,44 @@
       ]
     },
     {
-      "id": "conduent-senior-java-developer-healthcare-2026-09-22",
+      "id": "conduent-senior-java-developer-healthcare-pbm-platform-2026-10-05",
       "title": "Senior Java Developer - Healthcare / PBM Platform",
       "company": "Conduent",
       "location": "Remote (US)",
       "location_type": "Remote",
       "is_wny": false,
       "is_remote": true,
-      "posted_date": "2026-09-22",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "Not disclosed",
+      "posted_date": "2026-10-05",
+      "salary_min": 110630,
+      "salary_max": 139380,
+      "salary_text": "$110,630\u2013$139,380/year",
       "employment_type": "Full-time",
       "experience_level": "Senior",
-      "source": "Conduent Careers",
-      "url": "https://careers.conduent.com/us/en/job/20394/Senior-Java-Developer-Healthcare-PBM-Platform",
-      "description_snippet": "Conduent is recruiting a remote U.S. Senior Java Developer for a healthcare and pharmacy-benefit-management platform. The role centers on production Java services and healthcare technology.",
+      "source": "Indeed / RemoteRocketship",
+      "url": "https://www.indeed.com/viewjob?jk=702a8f2614aa243e",
+      "description_snippet": "Conduent lists a remote, full-time Senior Java Developer for its healthcare and pharmacy-benefit microservices platform, building Java/Kafka transaction services for distributed teams.",
       "key_skills": [
         "Java",
         "Spring Boot",
         "SQL",
-        "REST APIs",
-        "Microservices",
-        "Docker",
-        "Testing"
+        "Kafka",
+        "AWS",
+        "Hibernate",
+        "J2EE",
+        "Microservices"
       ],
       "benefits_highlights": [
-        "Healthcare/PBM domain",
+        "Healthcare/PBM platform",
         "Remote U.S. role",
         "Full-time employment"
       ],
       "match_score": 96,
       "match_reasons": [
-        "Healthcare platform",
-        "Excellent Java backend fit",
-        "REST and microservices alignment",
+        "Strong Java backend fit",
+        "Healthcare pharmacy-benefit systems",
+        "SQL, Spring, and Kafka overlap",
         "Remote U.S. role",
-        "Full-time listing"
+        "Current full-time listing"
       ]
     },
     {
@@ -2174,45 +2347,6 @@
       ]
     },
     {
-      "id": "deloitte-software-engineer-iii-java-full-stack-developer-2026-05-31",
-      "title": "Software Engineer III - Java Full Stack Developer",
-      "company": "Deloitte",
-      "location": "Rochester, NY",
-      "location_type": "Hybrid",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-05-31",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "$113,300 - $188,900",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-developer-at-deloitte-4419855230",
-      "description_snippet": "Software Engineer III role supporting Deloitte\u2019s Value-Based Care initiative, building Java/Spring services and APIs plus React UI components and Python integrations in a healthcare environment.",
-      "key_skills": [
-        "Java",
-        "Spring",
-        "SQL",
-        "React",
-        "Python",
-        "Microservices",
-        "Docker",
-        "Kubernetes"
-      ],
-      "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
-      ],
-      "match_score": 92,
-      "match_reasons": [
-        "Java",
-        "Spring",
-        "SQL",
-        "WNY area"
-      ]
-    },
-    {
       "id": "alltech-java-full-stack-developer-buffalo-2026-08-18",
       "title": "Java Full Stack Developer",
       "company": "Alltech Consulting Services, Inc.",
@@ -2452,6 +2586,49 @@
         "Application/data/API work",
         "Strong backend fit",
         "Remote full-time listing"
+      ]
+    },
+    {
+      "id": "unitedhealth-software-engineer-remote-2026-09-23",
+      "title": "Software Engineer - Remote",
+      "company": "UnitedHealth Group",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-23",
+      "salary_min": 72800,
+      "salary_max": 130000,
+      "salary_text": "$72,800\u2013$130,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "UnitedHealth Group Careers",
+      "url": "https://careers.unitedhealthgroup.com/job/eden-prairie/software-engineer-remote/34088/101048993264",
+      "description_snippet": "Optum Tech is hiring a remote U.S. Software Engineer for data-intensive healthcare applications and APIs. The role uses Python, React, REST frameworks, relational databases, pandas/NumPy, cloud platforms, Docker, and Kubernetes.",
+      "key_skills": [
+        "Python",
+        "React",
+        "REST APIs",
+        "SQL",
+        "pandas",
+        "Azure/GCP",
+        "Docker",
+        "Kubernetes"
+      ],
+      "benefits_highlights": [
+        "Remote within the U.S.",
+        "Comprehensive benefits",
+        "401(k) contribution",
+        "Equity stock purchase",
+        "Incentive and recognition programs"
+      ],
+      "match_score": 92,
+      "match_reasons": [
+        "Excellent Python/React/API overlap",
+        "SQL and data-intensive application experience",
+        "Docker/Kubernetes and cloud fit",
+        "Healthcare technology employer",
+        "Remote U.S. full-time role"
       ]
     },
     {
@@ -3864,6 +4041,46 @@
       ]
     },
     {
+      "id": "mt-bank-senior-software-engineer-archer-buffalo-2026-10-04",
+      "title": "Senior Software Engineer - Archer",
+      "company": "M&T Bank",
+      "location": "Buffalo, NY",
+      "location_type": "On-site",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-10-04",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Built In",
+      "url": "https://builtin.com/company/mt-bank/jobs",
+      "description_snippet": "M&T Bank recently listed a Buffalo Senior Software Engineer for its RSA Archer platform. The work includes enterprise integrations, APIs, SQL, scripting, data pipelines, production troubleshooting, and CI/CD support.",
+      "key_skills": [
+        "SQL",
+        "REST APIs",
+        "Scripting",
+        "Data pipelines",
+        "Git",
+        "GitLab CI/CD",
+        "ServiceNow"
+      ],
+      "benefits_highlights": [
+        "Buffalo/WNY location",
+        "Full-time senior engineering role",
+        "Enterprise platform work"
+      ],
+      "match_score": 88,
+      "match_reasons": [
+        "Buffalo/WNY location",
+        "Senior software engineering role",
+        "API, SQL, and integration work",
+        "CI/CD and production-support overlap",
+        "Recent listing"
+      ]
+    },
+    {
       "title": "Java / Spring Boot Software Developer - REMOTE",
       "company": "General Dynamics Information Technology",
       "location": "Remote (US)",
@@ -3982,42 +4199,6 @@
       ]
     },
     {
-      "id": "allstate-product-engineer-java-spring-boot-remote-indeed",
-      "title": "Product Engineer - Java Spring Boot",
-      "company": "Allstate",
-      "location": "Remote (US)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-06-03",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Mid-Senior",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/q-contract-java-spring-boot-developer-l-remote-jobs.html",
-      "description_snippet": "Experience and knowledge in developing REST APIs using Java Spring Boot; includes tooling for documentation (Swagger/REST-docs/OpenAPI), versioning.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "REST APIs",
-        "Swagger/OpenAPI",
-        "Microservices",
-        "CI/CD",
-        "Testing"
-      ],
-      "benefits_highlights": [
-        "Full-time"
-      ],
-      "match_score": 86,
-      "match_reasons": [
-        "Strong match to Java + Spring Boot",
-        "Backend/API focus",
-        "Remote US"
-      ]
-    },
-    {
       "id": "mt-bank-lead-software-engineer-account-opening-buffalo-2026-08-13",
       "title": "Lead Software Engineer - Online Account Opening and Consumer Loan Origination",
       "company": "M&T BANK CORPORATION",
@@ -4131,6 +4312,90 @@
         "Remote North America option",
         "Senior level",
         "Strong Java/cloud overlap"
+      ]
+    },
+    {
+      "id": "roswell-park-programmer-analyst-buffalo-2026-09-28",
+      "title": "Programmer Analyst",
+      "company": "Roswell Park Comprehensive Cancer Center",
+      "location": "Buffalo, NY",
+      "location_type": "On-site",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-09-28",
+      "salary_min": 78126,
+      "salary_max": 99056,
+      "salary_text": "$78,126\u2013$99,056/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Level",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/programmer-analyst-at-roswell-park-comprehensive-cancer-center-4405431522",
+      "description_snippet": "Roswell Park is hiring a full-time Buffalo Programmer Analyst to build data solutions, dashboards, and analytics supporting value-based care. The role requires complex SQL, MySQL/MariaDB/MS SQL Server, Microsoft Fabric or Power BI, and familiarity with clinical workflows.",
+      "key_skills": [
+        "SQL",
+        "MySQL",
+        "Microsoft SQL Server",
+        "Microsoft Fabric",
+        "Power BI",
+        "ETL",
+        "Healthcare data",
+        "FHIR/HL7"
+      ],
+      "benefits_highlights": [
+        "Buffalo/WNY location",
+        "Cancer-care and value-based care mission",
+        "Full-time first-shift schedule"
+      ],
+      "match_score": 86,
+      "match_reasons": [
+        "Buffalo/WNY location",
+        "Healthcare and clinical data mission",
+        "Strong SQL and data-query alignment",
+        "Software development and analytics responsibilities",
+        "Full-time role"
+      ]
+    },
+    {
+      "id": "acv-staff-software-engineer-search-distributed-systems-buffalo-2026-09-29",
+      "title": "Staff Software Engineer, Search & Distributed Systems",
+      "company": "ACV Auctions",
+      "location": "Buffalo, NY / Remote (US)",
+      "location_type": "Remote",
+      "is_wny": true,
+      "is_remote": true,
+      "posted_date": "2026-09-29",
+      "salary_min": 165000,
+      "salary_max": 190000,
+      "salary_text": "$165,000\u2013$190,000/year (remote listing)",
+      "employment_type": "Full-time",
+      "experience_level": "Staff",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/viewjob?jk=1ae8c9db71450e14",
+      "description_snippet": "ACV Auctions is seeking a remote Staff Software Engineer to own search infrastructure, distributed systems reliability, and event-driven data flows. The role focuses on Elasticsearch, Kafka, Kubernetes, microservice resilience, and production observability.",
+      "key_skills": [
+        "Elasticsearch",
+        "Kafka",
+        "Kubernetes",
+        "Microservices",
+        "Distributed systems",
+        "API design",
+        "Observability",
+        "SQL"
+      ],
+      "benefits_highlights": [
+        "Buffalo-area company",
+        "Remote listing",
+        "Full-time role",
+        "Medical, dental, and vision coverage",
+        "401(k) and stock purchase plan"
+      ],
+      "match_score": 86,
+      "match_reasons": [
+        "Backend and distributed-systems scope",
+        "Microservices, APIs, and data-platform overlap",
+        "Remote option and Buffalo/WNY employer",
+        "Full-time senior technical ownership",
+        "Specialist Elasticsearch depth is a stretch"
       ]
     },
     {
@@ -4329,77 +4594,46 @@
       ]
     },
     {
-      "id": "vetsez-senior-backend-engineer-remote-opportunity-2026-05-31",
-      "title": "Senior Backend Engineer (Remote Opportunity)",
-      "company": "VetsEZ",
+      "id": "gitlab-intermediate-backend-engineer-amer-remote-2026-10-04",
+      "title": "Intermediate Backend Engineer, AMER",
+      "company": "GitLab",
       "location": "Remote (US)",
       "location_type": "Remote",
       "is_wny": false,
       "is_remote": true,
-      "posted_date": "2026-05-31",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": "$160,000 - $185,000",
+      "posted_date": "2026-10-04",
+      "salary_min": 115200,
+      "salary_max": 194400,
+      "salary_text": "$115,200\u2013$194,400/year (US base salary range)",
       "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "LinkedIn",
-      "url": "https://www.linkedin.com/jobs/view/senior-backend-engineer-remote-opportunity-at-vetsez-4419425910",
-      "description_snippet": "VetsEZ is hiring a Senior Backend Engineer for a 100% remote position on a federal government healthcare technology project, supporting design and modernization of enterprise backend services and APIs.",
+      "experience_level": "Mid-Level",
+      "source": "GitLab Careers (Greenhouse)",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8773006002",
+      "description_snippet": "GitLab is recruiting a remote U.S. backend engineer to design, test, ship, and support production APIs, services, integrations, and data models. The role accepts Ruby/Rails, Go, or another modern backend language and values Docker/Kubernetes, CI/CD, and observability.",
       "key_skills": [
-        "Java",
-        "Spring Boot",
+        "Backend engineering",
         "REST APIs",
+        "SQL/PostgreSQL",
+        "Automated testing",
         "Microservices",
-        "SQL",
-        "CI/CD",
-        "AWS",
-        "Security"
+        "Docker",
+        "Kubernetes",
+        "CI/CD"
       ],
       "benefits_highlights": [
-        "Medical/Dental/Vision",
-        "401(k)"
+        "Remote role with U.S. eligibility",
+        "Flexible paid time off",
+        "Equity compensation and stock purchase plan",
+        "Growth and development fund",
+        "Parental leave"
       ],
-      "match_score": 82,
+      "match_score": 83,
       "match_reasons": [
-        "Java",
-        "Spring",
-        "SQL",
-        "Remote-friendly"
-      ]
-    },
-    {
-      "id": "builtin-engen-software-engineer-9526803",
-      "title": "Software Engineer",
-      "company": "enGen (Highmark Health)",
-      "location": "Remote / multiple locations",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-06-04",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Mid/Senior",
-      "source": "Built In",
-      "url": "https://builtin.com/job/software-engineer/9526803",
-      "description_snippet": "End-to-end development of scalable applications across diverse digital channels; includes Java, Python, REST APIs, microservices and mentoring.",
-      "key_skills": [
-        "Java",
-        "Python",
-        "REST APIs",
-        "Microservices",
-        "React",
-        "AWS",
-        "Agile",
-        "DB2"
-      ],
-      "benefits_highlights": [],
-      "match_score": 82,
-      "match_reasons": [
-        "Java + REST + microservices mentioned",
-        "Healthtech domain (Highmark Health / enGen)",
-        "Experience level matches SE II/III+"
+        "Backend/API and database work",
+        "Production ownership and automated testing",
+        "Docker/Kubernetes and CI/CD overlap",
+        "Remote U.S. full-time listing",
+        "Moderate rather than direct Java-stack match"
       ]
     },
     {
@@ -4524,76 +4758,6 @@
       ]
     },
     {
-      "id": "unitedhealthgroup-software-engineering-lead-java-spring-boot-mongo-kafka-2363565",
-      "title": "Software Engineering Lead - Java Spring Boot, Mongo, Kafka",
-      "company": "UnitedHealth Group",
-      "location": "Remote (US) / Other (posting location Hyderabad shown)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-06-01",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Lead",
-      "source": "UnitedHealth Group Careers",
-      "url": "https://careers.unitedhealthgroup.com/job/hyderabad/software-engineering-lead-java-spring-boot-mongo-kafka/34088/95841039728",
-      "description_snippet": "Design, develop, and maintain scalable Java/Spring Boot applications; microservices; JPA/Hibernate; MongoDB; REST API design; CI/CD pipelines (GitHub Actions/Jenkins); Kubernetes/containerization.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "Microservices",
-        "MongoDB",
-        "Kafka",
-        "REST APIs",
-        "Kubernetes"
-      ],
-      "benefits_highlights": [
-        "Full-time"
-      ],
-      "match_score": 80,
-      "match_reasons": [
-        "Strong Java/Spring Boot/microservices match",
-        "CI/CD + Kubernetes"
-      ]
-    },
-    {
-      "id": "indeed-remote-polyglot-developer-java-microservices",
-      "title": "Polyglot Developer (Java, Microservices, AWS)",
-      "company": "Unspecified (Indeed listing)",
-      "location": "Remote (US)",
-      "location_type": "Remote",
-      "is_wny": false,
-      "is_remote": true,
-      "posted_date": "2026-06-04",
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/q-remote-backend-developer-jobs.html",
-      "description_snippet": "Full-time remote role seeking Java, Spring Boot, Microservices, AWS; immediate hiring; payments domain.",
-      "key_skills": [
-        "Java",
-        "Spring Boot",
-        "Microservices",
-        "AWS",
-        "Backend",
-        "APIs",
-        "SQL",
-        "CI/CD"
-      ],
-      "benefits_highlights": [],
-      "match_score": 80,
-      "match_reasons": [
-        "Java + Spring Boot + microservices align strongly",
-        "Remote US full-time",
-        "Backend focus"
-      ]
-    },
-    {
       "id": "gitlab-senior-backend-engineer-remote-us-2026-08-15",
       "title": "Senior Backend Engineer",
       "company": "GitLab",
@@ -4633,6 +4797,47 @@
         "APIs, SQL, and container operations",
         "High-scale reliability work",
         "Strong DevOps alignment"
+      ]
+    },
+    {
+      "id": "mt-bank-software-engineer-ii-buffalo-2026-09-22",
+      "title": "Software Engineer II",
+      "company": "M&T BANK CORPORATION",
+      "location": "Buffalo, NY",
+      "location_type": "On-site",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-09-22",
+      "salary_min": 147118,
+      "salary_max": 154382.63,
+      "salary_text": "$147,118\u2013$154,382.63/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/588ddc80-26db-4623-9ae1-6d998f2fa7c9",
+      "description_snippet": "M&T Bank is hiring a full-time Buffalo Software Engineer II to design, test, and support risk and governance software. The on-site role emphasizes C#, .NET, SQL, JSON, microservices, Azure, and Agile delivery.",
+      "key_skills": [
+        "SQL",
+        "C#",
+        ".NET",
+        "JSON",
+        "Microservices",
+        "Microsoft Azure",
+        "Git",
+        "Agile/Scrum"
+      ],
+      "benefits_highlights": [
+        "Buffalo/WNY location",
+        "Full-time employment",
+        "Enterprise software engineering"
+      ],
+      "match_score": 78,
+      "match_reasons": [
+        "Buffalo/WNY location",
+        "Software Engineer II seniority fit",
+        "SQL, microservices, and cloud overlap",
+        "Full-time role with current listing",
+        "Lower match because role is primarily C#/.NET"
       ]
     }
   ]
