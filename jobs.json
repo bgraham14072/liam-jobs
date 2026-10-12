@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-05T11:24:57.042949+00:00",
-  "total": 119,
+  "last_updated": "2026-10-12T11:19:09.469488+00:00",
+  "total": 128,
   "jobs": [
     {
       "id": "praia-health-senior-java-backend-engineer-2026-08-25",
@@ -46,14 +46,14 @@
       ]
     },
     {
-      "id": "conduent-senior-java-developer-fhir-interoperability-remote-2026-10-01",
+      "id": "conduent-senior-java-developer-fhir-interoperability-remote-2026-10-08",
       "title": "Senior Java Developer (FHIR) - Interoperability",
       "company": "Conduent",
       "location": "Remote (US)",
       "location_type": "Remote",
       "is_wny": false,
       "is_remote": true,
-      "posted_date": "2026-10-01",
+      "posted_date": "2026-10-08",
       "salary_min": 96250,
       "salary_max": 125000,
       "salary_text": "$96,250\u2013$125,000/year",
@@ -86,6 +86,49 @@
         "FHIR and microservices align with backend strengths",
         "Docker/Kubernetes and CI/CD overlap",
         "Remote full-time U.S. role"
+      ]
+    },
+    {
+      "id": "unitedhealth-senior-software-engineer-java-full-stack-remote-2026-10-08",
+      "title": "Senior Software Engineer (Java Full stack)",
+      "company": "UnitedHealth Group",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-08",
+      "salary_min": 91700,
+      "salary_max": 163700,
+      "salary_text": "$91,700\u2013$163,700/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Dice / UnitedHealth Group",
+      "url": "https://www.dice.com/job-detail/03417bb3-8f5d-4ee8-8633-9cec96cf9998",
+      "description_snippet": "Optum is hiring a remote U.S. senior Java full-stack engineer to build secure cloud healthcare services. The role requires Java/J2EE, Spring Boot, REST, microservices, Kafka, Docker/Kubernetes, JUnit, PostgreSQL, Azure, Terraform, and CI/CD.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Microservices",
+        "Kafka",
+        "Docker",
+        "Kubernetes",
+        "SQL"
+      ],
+      "benefits_highlights": [
+        "Remote anywhere within the U.S.",
+        "Comprehensive benefits",
+        "401(k) contribution",
+        "Equity stock purchase",
+        "Incentive and recognition programs"
+      ],
+      "match_score": 99,
+      "match_reasons": [
+        "Excellent Java/Spring Boot and REST API match",
+        "Healthcare technology and secure cloud services",
+        "Microservices, SQL, Docker/Kubernetes, and CI/CD overlap",
+        "Remote U.S. full-time position",
+        "Strong seniority alignment"
       ]
     },
     {
@@ -379,6 +422,47 @@
       ]
     },
     {
+      "id": "bellese-senior-engineer-fhir-remote-2026-10-09",
+      "title": "Senior Engineer, FHIR",
+      "company": "Bellese",
+      "location": "Remote (US residency required)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-09",
+      "salary_min": 128700,
+      "salary_max": 153400,
+      "salary_text": "$128,700\u2013$153,400/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/37b8ba4f-cd87-49ed-b82e-b9cfa65c7a3c",
+      "description_snippet": "Bellese is hiring a remote Senior Engineer, FHIR to maintain and improve CMS software supporting Hospital Quality Reporting. The role combines Java/Spring Boot, RESTful FHIR APIs, PostgreSQL, AWS, automated CI/CD, healthcare data formats, and quality-measure reporting.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "FHIR/HL7",
+        "REST APIs",
+        "PostgreSQL",
+        "AWS",
+        "Python",
+        "CI/CD"
+      ],
+      "benefits_highlights": [
+        "Remote role",
+        "Full-time position",
+        "Published annual salary range"
+      ],
+      "match_score": 98,
+      "match_reasons": [
+        "Excellent Java/Spring Boot and REST API fit",
+        "Direct healthcare interoperability and FHIR work",
+        "SQL/PostgreSQL and automated CI/CD overlap",
+        "Remote full-time role",
+        "CMS quality-reporting mission"
+      ]
+    },
+    {
       "title": "Engineer II/III \u2013 Java / Spring Boot (AWS, APIs & Event-Driven Architecture)",
       "company": "Mutual of Omaha",
       "location": "Remote (US)",
@@ -544,6 +628,47 @@
         "Strong REST and SQL/database overlap",
         "Remote U.S. role",
         "Full-time senior-level opportunity"
+      ]
+    },
+    {
+      "id": "bellese-engineer-ii-fhir-remote-2026-10-08",
+      "title": "Engineer II, FHIR",
+      "company": "Bellese",
+      "location": "Remote (US residency required)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-08",
+      "salary_min": 108700,
+      "salary_max": 125300,
+      "salary_text": "$108,700\u2013$125,300/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Level",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/652de3cb-a529-46b3-9272-d7c01235205f",
+      "description_snippet": "Bellese is seeking a remote Engineer II, FHIR for CMS Hospital Quality Reporting software. The full-time position emphasizes Java/Spring Boot, FHIR resources and implementation guides, REST APIs, relational databases, healthcare interoperability, and production CI/CD.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "FHIR/HL7",
+        "REST APIs",
+        "SQL",
+        "PostgreSQL",
+        "AWS",
+        "CI/CD"
+      ],
+      "benefits_highlights": [
+        "Remote role",
+        "Full-time position",
+        "Published annual salary range"
+      ],
+      "match_score": 97,
+      "match_reasons": [
+        "Strong Java/Spring Boot and REST API overlap",
+        "FHIR and healthcare interoperability focus",
+        "Relational database and CI/CD alignment",
+        "Remote U.S.-based opportunity",
+        "Engineer II seniority matches target"
       ]
     },
     {
@@ -1082,6 +1207,47 @@
       ]
     },
     {
+      "id": "infinite-computer-solutions-healthcare-java-developer-hl7-remote-2026-10-08",
+      "title": "Healthcare Java Developer- HL7",
+      "company": "Infinite Computer Solutions (ICS)",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-08",
+      "salary_min": null,
+      "salary_max": 90000,
+      "salary_text": "Up to $90,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Level",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/3fbd6c88-6094-4a63-95df-ca3607b81620",
+      "description_snippet": "Remote, full-time role building healthcare data pipelines and automating file processing and data-quality workflows. Requires healthcare engineering experience, Java, Python, SQL, MS SQL/Snowflake, and AWS; works with clinical data and HL7 formats.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "SQL",
+        "AWS",
+        "HL7",
+        "Snowflake",
+        "Data pipelines",
+        "Data quality"
+      ],
+      "benefits_highlights": [
+        "Remote role",
+        "Full-time position",
+        "Healthcare data engineering"
+      ],
+      "match_score": 96,
+      "match_reasons": [
+        "Direct Java, Python, and SQL overlap",
+        "Healthcare data and HL7 domain",
+        "AWS and pipeline development align with backend experience",
+        "Remote full-time opportunity",
+        "Current listing posted within the past week"
+      ]
+    },
+    {
       "title": "Backend Engineer (Remote)",
       "company": "Soulside AI",
       "location": "Remote (US)",
@@ -1364,6 +1530,88 @@
         "Azure/API/cloud fit",
         "Full-time listing",
         "Salary disclosed"
+      ]
+    },
+    {
+      "id": "highmark-health-senior-software-engineer-remote-2026-10-09",
+      "title": "Senior Software Engineer",
+      "company": "Highmark Health",
+      "location": "Remote (Worldwide; U.S. eligible)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-09",
+      "salary_min": 102700,
+      "salary_max": 164600,
+      "salary_text": "$102,700\u2013$164,600/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Remotive / Highmark Health",
+      "url": "https://remotive.com/remote/jobs/software-development/senior-software-engineer-5579637",
+      "description_snippet": "Highmark Health is hiring a remote senior software engineer to design and build scalable applications across digital channels. The listing prefers Java, Spring Boot, REST/web services, SQL, Kafka, Oracle/DB2, Git, and GCP, along with healthcare-application experience.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "SQL",
+        "Oracle",
+        "Kafka",
+        "Git",
+        "GCP"
+      ],
+      "benefits_highlights": [
+        "Remote role",
+        "Full-time position",
+        "Published annual salary range"
+      ],
+      "match_score": 95,
+      "match_reasons": [
+        "Java/Spring Boot and REST API overlap",
+        "Healthcare applications and digital health context",
+        "SQL, Kafka, Git, and cloud experience align",
+        "Remote full-time role with U.S. eligibility",
+        "Senior-level position"
+      ]
+    },
+    {
+      "id": "deloitte-software-engineer-iii-java-full-stack-rochester-2026-10-11",
+      "title": "Software Engineer III - Java Full Stack Developer",
+      "company": "Deloitte",
+      "location": "Rochester, NY",
+      "location_type": "On-site",
+      "is_wny": false,
+      "is_remote": false,
+      "posted_date": "2026-10-11",
+      "salary_min": 113300,
+      "salary_max": 188900,
+      "salary_text": "Estimated $113,300\u2013$188,900/year plus potential annual incentive",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-iii-java-full-stack-developer-at-deloitte-4419855230",
+      "description_snippet": "Deloitte is hiring a Rochester Software Engineer III - Java Full Stack Developer for long-term client delivery. The role requires Java/J2EE, Python API/service development, SQL and data modeling, React, and technical leadership; the listed work model is onsite.",
+      "key_skills": [
+        "Java",
+        "J2EE",
+        "Python",
+        "SQL",
+        "React",
+        "REST APIs",
+        "Data modeling",
+        "Technical leadership"
+      ],
+      "benefits_highlights": [
+        "Rochester, NY location",
+        "Full-time position",
+        "Potential discretionary annual incentive"
+      ],
+      "match_score": 95,
+      "match_reasons": [
+        "Strong Java, Python, SQL, and React alignment",
+        "Direct Software Engineer III level match",
+        "Rochester-area opportunity",
+        "Full-time role with technical leadership scope",
+        "Onsite work model"
       ]
     },
     {
@@ -3440,49 +3688,6 @@
       ]
     },
     {
-      "title": "Sr. Software Engineer, Backend, Factory Software",
-      "company": "Tesla",
-      "location": "Buffalo, NY",
-      "location_type": "On-site",
-      "is_wny": true,
-      "is_remote": false,
-      "posted_date": "2026-06-07",
-      "salary_min": 126000,
-      "salary_max": 189000,
-      "salary_text": "$126,000 - $189,000 / year plus cash and stock awards",
-      "employment_type": "Full-time",
-      "experience_level": "Senior",
-      "source": "Indeed",
-      "url": "https://www.indeed.com/q-senior-software-engineer-l-grand-island,-ny-jobs.html",
-      "description_snippet": "Build scalable backend software systems that power Tesla manufacturing in Buffalo, mentor engineers, and work on large-scale projects using Java, Go, C++, Rust, or similar languages.",
-      "key_skills": [
-        "Java",
-        "Backend systems",
-        "Distributed systems",
-        "SQL",
-        "REST APIs",
-        "Testing",
-        "Cloud",
-        "Agile"
-      ],
-      "benefits_highlights": [
-        "Health insurance",
-        "401(k) matching",
-        "Paid time off",
-        "Employee discount",
-        "Stock awards"
-      ],
-      "match_score": 89,
-      "match_reasons": [
-        "Backend engineering focus",
-        "Java listed among target languages",
-        "Buffalo/WNY location",
-        "Senior-level scope",
-        "Full-time benefits"
-      ],
-      "id": "tesla-sr-software-engineer-backend-factory-software-2026-06-07"
-    },
-    {
       "id": "velera-software-engineer-iii-java-angular-2026-09-03",
       "title": "Software Engineer III - Java/Angular",
       "company": "Velera Solutions",
@@ -3681,6 +3886,49 @@
         "Remote U.S. role",
         "Full-time opportunity",
         "Current employer career page"
+      ]
+    },
+    {
+      "id": "carrum-health-senior-staff-full-stack-software-engineer-remote-2026-10-02",
+      "title": "Senior/Staff Full-Stack Software Engineer",
+      "company": "Carrum Health",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-02",
+      "salary_min": 160000,
+      "salary_max": 230000,
+      "salary_text": "$160,000\u2013$230,000/year plus equity and 15% bonus (role description)",
+      "employment_type": "Full-time",
+      "experience_level": "Senior/Staff",
+      "source": "Built In",
+      "url": "https://builtin.com/job/senior-full-stack-engineer/11458657",
+      "description_snippet": "Carrum Health is hiring a remote U.S. senior/staff full-stack engineer for its specialty-care marketplace. The role builds scalable web and mobile applications using Ruby on Rails, React, PostgreSQL/SQL, Docker, AWS, APIs, and distributed services.",
+      "key_skills": [
+        "React",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "Distributed systems",
+        "Ruby on Rails"
+      ],
+      "benefits_highlights": [
+        "Remote work",
+        "Health, vision, and dental insurance",
+        "401(k)",
+        "Flexible PTO and 15+ paid holidays",
+        "Equity and performance bonus"
+      ],
+      "match_score": 89,
+      "match_reasons": [
+        "Healthcare platform and member-care mission",
+        "React, SQL, Docker, AWS, and API overlap",
+        "Remote U.S. full-time position",
+        "Senior full-stack scope",
+        "Ruby on Rails differs from Liam's primary Java stack"
       ]
     },
     {
@@ -4199,6 +4447,49 @@
       ]
     },
     {
+      "id": "excellus-bcbs-software-engineer-informatica-rochester-2026-09-28",
+      "title": "Software Engineer (Informatica)",
+      "company": "Excellus BCBS",
+      "location": "Rochester, NY (hybrid; remote case-by-case)",
+      "location_type": "Hybrid",
+      "is_wny": false,
+      "is_remote": false,
+      "posted_date": "2026-09-28",
+      "salary_min": 60410,
+      "salary_max": 176935,
+      "salary_text": "$60,410\u2013$176,935/year depending on level",
+      "employment_type": "Full-time",
+      "experience_level": "Junior\u2013Senior (levels I\u2013IV)",
+      "source": "Simplify Jobs / Excellus BCBS",
+      "url": "https://simplify.jobs/p/a0dec882-0bc9-484f-a09c-d757253f38fe/Software-Engineer",
+      "description_snippet": "Excellus BCBS is hiring a full-time Software Engineer focused on Oracle development, stored procedures, SQL scripting, Informatica, and ETL. The hybrid role is based in Rochester with additional upstate New York work locations; remote work may be available case by case.",
+      "key_skills": [
+        "SQL",
+        "Oracle",
+        "Informatica",
+        "ETL",
+        "Java",
+        "Python",
+        "CI/CD",
+        "Software testing"
+      ],
+      "benefits_highlights": [
+        "Health and dental insurance",
+        "401(k) retirement plan",
+        "Wellness program",
+        "Paid holidays",
+        "Remote work options may be available"
+      ],
+      "match_score": 87,
+      "match_reasons": [
+        "Rochester-area healthcare employer and health-plan mission",
+        "Strong SQL/database development overlap",
+        "Java and Python are among accepted programming languages",
+        "Full-time engineering role",
+        "Hybrid location with remote work considered case by case"
+      ]
+    },
+    {
       "id": "mt-bank-lead-software-engineer-account-opening-buffalo-2026-08-13",
       "title": "Lead Software Engineer - Online Account Opening and Consumer Loan Origination",
       "company": "M&T BANK CORPORATION",
@@ -4396,6 +4687,87 @@
         "Remote option and Buffalo/WNY employer",
         "Full-time senior technical ownership",
         "Specialist Elasticsearch depth is a stretch"
+      ]
+    },
+    {
+      "id": "konnectingtree-fhir-engineer-remote-2026-10-07",
+      "title": "FHIR Engineer",
+      "company": "KONNECTINGTREE INC",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-07",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Depends on experience",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/f716aa5e-5463-4327-8322-89d400639c33",
+      "description_snippet": "Remote full-time FHIR engineering role focused on healthcare interoperability and modernization. Work includes HL7 FHIR R4 profiles and integration, FSH/SUSHI, terminology design, validation, CI pipelines, and profiles for members, providers, claims, and enrollment; Java is preferred.",
+      "key_skills": [
+        "FHIR/HL7",
+        "Java",
+        "Healthcare integration",
+        "FHIR R4",
+        "TypeScript",
+        "Git",
+        "CI/CD",
+        "REST APIs"
+      ],
+      "benefits_highlights": [
+        "Remote role",
+        "Full-time position",
+        "Healthcare interoperability work"
+      ],
+      "match_score": 86,
+      "match_reasons": [
+        "Healthcare interoperability and FHIR integration work",
+        "Java is listed as a preferred skill",
+        "Git and CI pipeline overlap",
+        "Remote full-time role",
+        "FHIR-specific expertise is a partial rather than direct stack match"
+      ]
+    },
+    {
+      "id": "kaleida-health-business-intelligence-developer-ii-buffalo-2026-10-11",
+      "title": "Business Intelligence Developer II",
+      "company": "Kaleida Health",
+      "location": "Buffalo, NY (hybrid)",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-10-11",
+      "salary_min": 85911,
+      "salary_max": 118108,
+      "salary_text": "$85,911.54\u2013$118,108.09/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Level",
+      "source": "Jobright / Kaleida Health",
+      "url": "https://jobright.ai/jobs/info/6a7308146a034212ea025971",
+      "description_snippet": "Kaleida Health is hiring a hybrid Buffalo Business Intelligence Developer II to support healthcare data systems and reporting accuracy across clinical and financial domains. Responsibilities include data import/export, mining, query construction, and discrepancy resolution.",
+      "key_skills": [
+        "SQL",
+        "Healthcare data",
+        "Data mining",
+        "Data imports/exports",
+        "Clinical reporting",
+        "Financial reporting",
+        "Data quality"
+      ],
+      "benefits_highlights": [
+        "Buffalo/WNY location",
+        "Healthcare system and clinical-data work",
+        "Full-time hybrid schedule"
+      ],
+      "match_score": 86,
+      "match_reasons": [
+        "Buffalo/WNY location bonus",
+        "Healthcare data systems and clinical reporting",
+        "Strong SQL/query and data-quality overlap",
+        "Full-time mid-level role",
+        "More BI-focused than application engineering"
       ]
     },
     {
