@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T11:19:09.469488+00:00",
-  "total": 128,
+  "last_updated": "2026-10-19T11:18:13.031836+00:00",
+  "total": 141,
   "jobs": [
     {
       "id": "praia-health-senior-java-backend-engineer-2026-08-25",
@@ -2310,6 +2310,75 @@
       ]
     },
     {
+      "id": "markettime-llc-senior-backend-engineer-java-spring-remote-u-s-2026-10-17",
+      "title": "Senior Backend Engineer (Java/Spring) (REMOTE U.S.)",
+      "company": "MARKETTIME, LLC",
+      "location": "Remote (United States)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-17",
+      "salary_min": 150000,
+      "salary_max": 250000,
+      "salary_text": "$150,000-$250,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/q-java-spring-boot-remote-jobs.html",
+      "description_snippet": "Full-time remote U.S. senior role building Java/Spring backend applications on a cloud-native platform. The listing highlights public APIs, a MySQL-backed data platform, and secure, high-performance services.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "MySQL",
+        "Cloud-native development",
+        "Microservices",
+        "CI/CD"
+      ],
+      "benefits_highlights": [],
+      "match_score": 94,
+      "match_reasons": [
+        "Strong Java/Spring and API fit",
+        "Remote U.S. full-time role",
+        "SQL and cloud-native systems"
+      ]
+    },
+    {
+      "id": "openlane-full-stack-engineer-java-react-2026-09-18",
+      "title": "Full Stack Engineer (Java/React)",
+      "company": "OPENLANE",
+      "location": "Remote (United States)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-18",
+      "salary_min": 90000,
+      "salary_max": 125000,
+      "salary_text": "$90,000-$125,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "Built In",
+      "url": "https://builtin.com/job/full-stack-engineer-java-react/11259844",
+      "description_snippet": "Build Java Spring Boot APIs and microservices, React interfaces, ETL pipelines, and SQL data solutions. The role is remote, mid-level, and requires U.S. work authorization.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "React",
+        "REST APIs",
+        "SQL",
+        "AWS",
+        "Microservices",
+        "ETL"
+      ],
+      "benefits_highlights": [],
+      "match_score": 94,
+      "match_reasons": [
+        "Java/Spring Boot plus React match",
+        "Remote role with U.S. work authorization",
+        "APIs, SQL, and cloud deployment"
+      ]
+    },
+    {
       "id": "l3harris-senior-software-engineer-rochester-2026-08-15",
       "title": "Senior Software Engineer",
       "company": "L3Harris Technologies",
@@ -2595,6 +2664,42 @@
       ]
     },
     {
+      "id": "allstate-product-engineer-senior-java-springboot-2026-09-09",
+      "title": "Product Engineer Senior Java Springboot",
+      "company": "Allstate",
+      "location": "Remote (United States)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-09",
+      "salary_min": 90700,
+      "salary_max": 153925,
+      "salary_text": "$90,700-$153,925/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Allstate Careers",
+      "url": "https://www.allstate.jobs/job/23524337/product-engineer-senior-java-springboot/",
+      "description_snippet": "Build and support digital products using Java and Spring Boot. The posting emphasizes REST API design, documentation with OpenAPI/Swagger, API lifecycle practices, and backend application development.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "OpenAPI",
+        "Microservices",
+        "MongoDB",
+        "Kafka"
+      ],
+      "benefits_highlights": [
+        "Fully remote within the United States"
+      ],
+      "match_score": 93,
+      "match_reasons": [
+        "Excellent Java/Spring Boot/API fit",
+        "Remote U.S. role",
+        "Microservices and backend focus"
+      ]
+    },
+    {
       "id": "alltech-java-full-stack-developer-buffalo-2026-08-18",
       "title": "Java Full Stack Developer",
       "company": "Alltech Consulting Services, Inc.",
@@ -2877,6 +2982,40 @@
         "Docker/Kubernetes and cloud fit",
         "Healthcare technology employer",
         "Remote U.S. full-time role"
+      ]
+    },
+    {
+      "id": "fanatics-betting-gaming-senior-java-software-engineer-swat-remote-2026-09-17",
+      "title": "Senior Java Software Engineer - SWAT (Remote)",
+      "company": "Fanatics Betting & Gaming",
+      "location": "Remote (United States)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-17",
+      "salary_min": 120000,
+      "salary_max": 180000,
+      "salary_text": "$120,000-$180,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Built In",
+      "url": "https://builtin.com/job/senior-java-software-engineer/10847968",
+      "description_snippet": "Build scalable Java backend services and APIs for internal platforms, integrating Salesforce and distributed systems. The U.S.-remote role emphasizes Spring Boot, event-driven architecture, testing, observability, reliability, and CI/CD.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Distributed Systems",
+        "Event-driven Architecture",
+        "CI/CD",
+        "Salesforce"
+      ],
+      "benefits_highlights": [],
+      "match_score": 92,
+      "match_reasons": [
+        "Java/Spring Boot backend match",
+        "Remote U.S. role",
+        "APIs, distributed systems, and CI/CD"
       ]
     },
     {
@@ -3325,6 +3464,79 @@
       ]
     },
     {
+      "id": "moneygram-senior-software-engineer-backend-2026-10-10",
+      "title": "Senior Software Engineer: Backend",
+      "company": "MoneyGram",
+      "location": "Remote (United States)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-10",
+      "salary_min": 130000,
+      "salary_max": 170000,
+      "salary_text": "$130,000-$170,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/q-Moneygram-l-Remote-jobs.html",
+      "description_snippet": "Join MoneyGram\u2019s core transaction and API development team to build scalable, high-performance services. The listing calls for Java, distributed systems, APIs, databases, and cloud-native technologies.",
+      "key_skills": [
+        "Java",
+        "Distributed Systems",
+        "REST APIs",
+        "SQL",
+        "Cloud-native development",
+        "Backend Engineering"
+      ],
+      "benefits_highlights": [
+        "Remote-first flexibility",
+        "Medical, dental, and vision insurance",
+        "401(k) matching",
+        "Paid time off"
+      ],
+      "match_score": 91,
+      "match_reasons": [
+        "Java backend and API focus",
+        "Distributed systems match",
+        "Remote U.S. role"
+      ]
+    },
+    {
+      "id": "unitedhealth-group-senior-software-engineer-2026-10-19",
+      "title": "Senior Software Engineer",
+      "company": "UnitedHealth Group",
+      "location": "Remote (United States)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-19",
+      "salary_min": 91700,
+      "salary_max": 163700,
+      "salary_text": "$91,700-$163,700/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "UnitedHealth Group Careers",
+      "url": "https://careers.unitedhealthgroup.com/job/eden-prairie/senior-software-engineer/34088/102149446080",
+      "description_snippet": "Support claims, provider operations, and data conversion with Java/Spring Boot applications and MuleSoft integrations. The current remote U.S. posting requires Java, Spring Boot, REST/SOAP services, microservices, relational databases, and integration experience.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Microservices",
+        "MuleSoft",
+        "SQL",
+        "Talend",
+        "Azure"
+      ],
+      "benefits_highlights": [],
+      "match_score": 91,
+      "match_reasons": [
+        "Java/Spring and integration experience",
+        "Remote anywhere in the U.S.",
+        "Healthcare claims and provider systems"
+      ]
+    },
+    {
       "title": "Senior Backend Engineer - Provider Directory",
       "company": "B.well Connected Health",
       "location": "Remote (US)",
@@ -3688,6 +3900,146 @@
       ]
     },
     {
+      "id": "mindex-technologies-inc-sr-java-software-engineer-hybrid-2026-10-16",
+      "title": "Sr. Java Software Engineer - Hybrid",
+      "company": "Mindex Technologies, Inc.",
+      "location": "Rochester, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-10-16",
+      "salary_min": 90000,
+      "salary_max": 140000,
+      "salary_text": "$90,000-$140,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.mindex.com/jobs",
+      "description_snippet": "Mindex is hiring a full-time senior Java engineer in Rochester to design, build, and support enterprise applications using Java and Spring Framework, with modern development practices.",
+      "key_skills": [
+        "Java",
+        "Spring Framework",
+        "React",
+        "SQL",
+        "REST APIs",
+        "Microservices"
+      ],
+      "benefits_highlights": [],
+      "match_score": 90,
+      "match_reasons": [
+        "WNY/Rochester location bonus",
+        "Strong Java and Spring fit",
+        "Full-time hybrid role"
+      ]
+    },
+    {
+      "id": "mindex-technologies-inc-java-software-engineer-hybrid-2026-10-09",
+      "title": "Java Software Engineer - Hybrid",
+      "company": "Mindex Technologies, Inc.",
+      "location": "Rochester, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-10-09",
+      "salary_min": 70000,
+      "salary_max": 120000,
+      "salary_text": "$70,000-$120,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "Dice",
+      "url": "https://www.dice.com/job-detail/f6d7961d-a05d-40cf-b16d-224d17cf8ff1",
+      "description_snippet": "Full-time Rochester-area role designing, building, and supporting enterprise applications. The listing cites Java, Spring Framework, React, Python, MongoDB, and Kafka, with candidates near Rochester potentially working from the office more often.",
+      "key_skills": [
+        "Java",
+        "Spring Framework",
+        "React",
+        "Python",
+        "MongoDB",
+        "Kafka",
+        "SQL"
+      ],
+      "benefits_highlights": [],
+      "match_score": 90,
+      "match_reasons": [
+        "WNY/Rochester location bonus",
+        "Java and Spring are core requirements",
+        "React and Python overlap"
+      ]
+    },
+    {
+      "id": "allstate-software-engineer-all-levels-2026-09-28",
+      "title": "Software Engineer (All Levels)",
+      "company": "Allstate",
+      "location": "Remote (United States)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-09-28",
+      "salary_min": 85000,
+      "salary_max": 145075,
+      "salary_text": "$85,000-$145,075/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level to Senior",
+      "source": "Allstate Careers",
+      "url": "https://www.allstate.jobs/job/23927829/",
+      "description_snippet": "Build and enhance digital products across the software lifecycle. The listing specifically requests Java/Spring, JavaScript, and React, plus backend APIs, databases, CI/CD, and cloud-native practices.",
+      "key_skills": [
+        "Java",
+        "Spring",
+        "JavaScript",
+        "React",
+        "REST APIs",
+        "SQL",
+        "CI/CD",
+        "Cloud-native development"
+      ],
+      "benefits_highlights": [
+        "Fully remote within the United States",
+        "Monthly connectivity reimbursement"
+      ],
+      "match_score": 90,
+      "match_reasons": [
+        "Java, Spring, and React match",
+        "Remote U.S. role",
+        "Full-stack APIs and CI/CD"
+      ]
+    },
+    {
+      "id": "unitedhealth-group-software-engineer-2026-10-13",
+      "title": "Software Engineer",
+      "company": "UnitedHealth Group",
+      "location": "Remote (United States; primary location Washington, DC)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-13",
+      "salary_min": 72800,
+      "salary_max": 130000,
+      "salary_text": "$72,800-$130,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "UnitedHealth Group Careers",
+      "url": "https://careers.unitedhealthgroup.com/job/washington-d-c/software-engineer/34088/101913628512",
+      "description_snippet": "Build data-intensive applications and scalable infrastructure with Snowflake, SQL, Java, Python, Spark/Databricks, and AWS/Azure. The current full-time posting allows telecommuting from anywhere in the U.S.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "SQL",
+        "REST APIs",
+        "AWS",
+        "Azure",
+        "Spark",
+        "Databricks"
+      ],
+      "benefits_highlights": [],
+      "match_score": 90,
+      "match_reasons": [
+        "Java/Python/SQL overlap",
+        "Remote anywhere in the U.S.",
+        "Cloud and data-intensive backend work"
+      ]
+    },
+    {
       "id": "velera-software-engineer-iii-java-angular-2026-09-03",
       "title": "Software Engineer III - Java/Angular",
       "company": "Velera Solutions",
@@ -3929,6 +4281,44 @@
         "Remote U.S. full-time position",
         "Senior full-stack scope",
         "Ruby on Rails differs from Liam's primary Java stack"
+      ]
+    },
+    {
+      "id": "invaluable-senior-backend-engineer-2026-10-18",
+      "title": "Senior Backend Engineer",
+      "company": "Invaluable",
+      "location": "Remote (United States)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-18",
+      "salary_min": 160000,
+      "salary_max": 175000,
+      "salary_text": "$160,000-$175,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/q-remote-senior-java-backend-developer-jobs.html",
+      "description_snippet": "Full-time U.S.-remote backend role building and shipping platform features, improving performance and reliability, reducing technical debt, and shaping engineering standards. The listing requires strong Java proficiency and 5-7+ years of backend experience.",
+      "key_skills": [
+        "Java",
+        "Backend Engineering",
+        "Performance Optimization",
+        "Reliability",
+        "System Design",
+        "Technical Mentoring"
+      ],
+      "benefits_highlights": [
+        "401(k) matching",
+        "Medical, dental, and vision insurance",
+        "Paid parental leave",
+        "Employee assistance program"
+      ],
+      "match_score": 89,
+      "match_reasons": [
+        "Strong Java backend requirement",
+        "Remote anywhere in the United States",
+        "Senior platform and reliability work"
       ]
     },
     {
@@ -4490,6 +4880,43 @@
       ]
     },
     {
+      "id": "moneygram-us-java-engineer-pricing-2026-10-15",
+      "title": "US- Java Engineer - Pricing",
+      "company": "MoneyGram",
+      "location": "Remote (United States)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-15",
+      "salary_min": 100000,
+      "salary_max": 150000,
+      "salary_text": "$100,000-$150,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-level",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/q-moneygram-l-remote-jobs.html",
+      "description_snippet": "Full-time remote role for a Java engineer with 2-5 years of experience, contributing to the design, development, and deployment of software for MoneyGram\u2019s high-volume pricing and transaction products.",
+      "key_skills": [
+        "Java",
+        "Software Development",
+        "Backend Engineering",
+        "Transaction Processing",
+        "Pricing Systems"
+      ],
+      "benefits_highlights": [
+        "Medical, dental, and vision insurance",
+        "401(k) matching",
+        "Paid time off and holidays",
+        "Parental leave"
+      ],
+      "match_score": 87,
+      "match_reasons": [
+        "Java engineering role",
+        "Remote U.S. full-time listing",
+        "High-volume transaction systems"
+      ]
+    },
+    {
       "id": "mt-bank-lead-software-engineer-account-opening-buffalo-2026-08-13",
       "title": "Lead Software Engineer - Online Account Opening and Consumer Loan Origination",
       "company": "M&T BANK CORPORATION",
@@ -5006,6 +5433,41 @@
         "Docker/Kubernetes and CI/CD overlap",
         "Remote U.S. full-time listing",
         "Moderate rather than direct Java-stack match"
+      ]
+    },
+    {
+      "id": "allstate-java-development-lead-identity-systems-engineer-2026-08-18",
+      "title": "Java Development Lead Identity Systems Engineer",
+      "company": "Allstate",
+      "location": "Remote (United States)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-08-18",
+      "salary_min": 98100,
+      "salary_max": 167850,
+      "salary_text": "$98,100-$167,850/year",
+      "employment_type": "Full-time",
+      "experience_level": "Lead",
+      "source": "Allstate Careers",
+      "url": "https://www.allstate.jobs/job/23613565/java-development-lead-identity-systems-engineer/",
+      "description_snippet": "Lead identity-systems engineering with Java software development, Python, CI/CD, and Agile practices. The employer lists the role as fully remote within the United States.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "CI/CD",
+        "Agile",
+        "Identity Systems",
+        "Software Engineering"
+      ],
+      "benefits_highlights": [
+        "Fully remote within the United States"
+      ],
+      "match_score": 83,
+      "match_reasons": [
+        "Java and Python overlap",
+        "Remote U.S. role",
+        "CI/CD and systems engineering"
       ]
     },
     {
