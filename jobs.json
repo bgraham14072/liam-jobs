@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T11:18:13.031836+00:00",
-  "total": 141,
+  "last_updated": "2026-10-26T11:27:28+00:00",
+  "total": 154,
   "jobs": [
     {
       "id": "praia-health-senior-java-backend-engineer-2026-08-25",
@@ -1248,6 +1248,86 @@
       ]
     },
     {
+      "id": "cvs-health-staff-software-development-engineer-java-2026-10-22",
+      "title": "Staff Software Development Engineer - Java",
+      "company": "CVS Health",
+      "location": "Remote (US; 27 eligible locations)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-22",
+      "salary_min": 106605,
+      "salary_max": 284280,
+      "salary_text": "$106,605-$284,280/year",
+      "employment_type": "Full-time",
+      "experience_level": "Staff / Senior",
+      "source": "Built In / CVS Health",
+      "url": "https://builtin.com/job/staff-software-development-engineer-java/11821066",
+      "description_snippet": "Lead architecture and modernization of enterprise healthcare platforms using Java, Spring Boot, cloud technologies, microservices, and APIs. Work includes technical decisions, scalability, security, code quality, mentoring, and production resilience; application window closes November 27, 2026.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "Cloud",
+        "Distributed systems",
+        "Testing",
+        "CI/CD"
+      ],
+      "benefits_highlights": [
+        "Comprehensive health and financial benefits",
+        "Annual incentive eligibility",
+        "Remote or office location options"
+      ],
+      "match_score": 96,
+      "match_reasons": [
+        "Excellent Java/Spring Boot and microservices fit",
+        "Direct healthcare platform experience",
+        "API, cloud, and quality practices align strongly",
+        "Remote full-time role"
+      ]
+    },
+    {
+      "id": "cvs-health-staff-software-development-engineer-2026-10-22",
+      "title": "Staff Software Development Engineer",
+      "company": "CVS Health",
+      "location": "Remote (US; 27 eligible locations)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-22",
+      "salary_min": 106605,
+      "salary_max": 284280,
+      "salary_text": "$106,605-$284,280/year",
+      "employment_type": "Full-time",
+      "experience_level": "Staff / Senior",
+      "source": "Built In / CVS Health",
+      "url": "https://builtin.com/job/staff-software-development-engineer/11810679",
+      "description_snippet": "Design and operate secure healthcare data integrations and backend microservices using Java, Spring Boot, Kafka, and GCP. Build REST APIs and CI/CD, support HIPAA-compliant reliability and observability, and collaborate with product, security, and DevOps teams.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Kafka",
+        "GCP",
+        "Microservices",
+        "CI/CD",
+        "Docker"
+      ],
+      "benefits_highlights": [
+        "Comprehensive health and financial benefits",
+        "Annual incentive eligibility",
+        "Remote or office location options"
+      ],
+      "match_score": 96,
+      "match_reasons": [
+        "Direct Java/Spring Boot backend match",
+        "Healthcare data integrations and HIPAA domain",
+        "REST, CI/CD, and cloud-native services",
+        "Remote full-time role"
+      ]
+    },
+    {
       "title": "Backend Engineer (Remote)",
       "company": "Soulside AI",
       "location": "Remote (US)",
@@ -1612,6 +1692,87 @@
         "Rochester-area opportunity",
         "Full-time role with technical leadership scope",
         "Onsite work model"
+      ]
+    },
+    {
+      "id": "cvs-health-staff-java-software-engineer-specialty-pharmacy-2026-10-14",
+      "title": "Staff Java Software Engineer - Specialty Pharmacy",
+      "company": "CVS Health",
+      "location": "Remote (US; Work at Home)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-14",
+      "salary_min": 107000,
+      "salary_max": 261000,
+      "salary_text": "$107,000-$261,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Staff / Senior",
+      "source": "CVS Health Careers / Built In",
+      "url": "https://jobs.cvshealth.com/us/en/job/R1025175/Staff-Java-Software-Engineer-Specialty-Pharmacy",
+      "description_snippet": "Designs and delivers scalable Java and Spring Boot software solutions for specialty pharmacy. Responsibilities include microservices and APIs, cloud initiatives, performance optimization, code reviews, technical problem solving, and mentoring; search results identify remote eligibility.",
+      "key_skills": [
+        "Java",
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "Cloud",
+        "CI/CD",
+        "Testing",
+        "SQL"
+      ],
+      "benefits_highlights": [
+        "CVS Health benefits package",
+        "Annual incentive eligibility",
+        "Remote work eligibility"
+      ],
+      "match_score": 95,
+      "match_reasons": [
+        "Strong Java/Spring Boot fit",
+        "Healthcare pharmacy technology domain",
+        "Backend APIs and microservices align",
+        "Remote full-time role"
+      ]
+    },
+    {
+      "id": "kyruus-health-staff-software-engineer-search-services-2026-10-19",
+      "title": "Staff Software Engineer, Search Services",
+      "company": "Kyruus Health",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-19",
+      "salary_min": 155000,
+      "salary_max": 175000,
+      "salary_text": "$155,000-$175,000/year plus bonus/equity",
+      "employment_type": "Full-time",
+      "experience_level": "Staff",
+      "source": "Built In / Kyruus Health",
+      "url": "https://jobs.lever.co/kyruushealth/b2e9ffb2-7d5e-41e8-aece-abb4e3951731",
+      "description_snippet": "Lead development of healthcare search services and cloud-based SaaS products, including AI-augmented search and API marketplace experiences. The role uses Java EE, Python, AWS, and AI/ML, and includes design reviews, production delivery, and mentoring; the listing is currently reposted as remote.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "AWS",
+        "SQL",
+        "Microservices",
+        "REST APIs",
+        "AI/ML",
+        "Cloud"
+      ],
+      "benefits_highlights": [
+        "Medical, dental, and vision",
+        "Unlimited PTO and paid parental leave",
+        "401(k) match",
+        "Home-office stipend and wellness program"
+      ],
+      "match_score": 95,
+      "match_reasons": [
+        "Excellent Java and Python match",
+        "Cloud SaaS and healthcare search systems",
+        "Backend and API responsibilities",
+        "Remote full-time U.S. role"
       ]
     },
     {
@@ -3019,6 +3180,46 @@
       ]
     },
     {
+      "id": "unitedhealth-group-lead-software-engineer-c-java-remote-2026-10-22",
+      "title": "Lead Software Engineer (C# / Java) - Remote",
+      "company": "UnitedHealth Group",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-22",
+      "salary_min": 112700,
+      "salary_max": 193200,
+      "salary_text": "$112,700-$193,200/year",
+      "employment_type": "Full-time",
+      "experience_level": "Lead",
+      "source": "UnitedHealth Group Careers",
+      "url": "https://careers.unitedhealthgroup.com/job/raleigh/lead-software-engineer-c-java-remote/34088/102296233168",
+      "description_snippet": "Optum\u2019s FHIR Layer Exchange team builds interoperability software for payer, provider, and third-party data exchange. Leads a small engineering team modernizing full-stack applications; requires Java or C#, healthcare IT experience, and APIs/SQL, with FHIR preferred. Remote anywhere in the U.S. outside specified office hubs.",
+      "key_skills": [
+        "Java",
+        "C#",
+        "FHIR",
+        "REST APIs",
+        "SQL",
+        "Microservices",
+        "Python",
+        "Agile"
+      ],
+      "benefits_highlights": [
+        "Medical, dental, and vision coverage",
+        "Retirement and paid leave",
+        "Remote work within U.S. eligibility"
+      ],
+      "match_score": 92,
+      "match_reasons": [
+        "Strong Java and API overlap",
+        "Direct healthcare interoperability work",
+        "FHIR, SQL, and microservices align with backend skills",
+        "Remote full-time U.S. role"
+      ]
+    },
+    {
       "title": "Lead Backend Engineer - Data Interoperability",
       "company": "B.well Connected Health",
       "location": "Remote (US)",
@@ -4322,6 +4523,46 @@
       ]
     },
     {
+      "id": "unitedhealth-group-senior-software-engineer-python-mvc-remote-2026-10-24",
+      "title": "Senior Software Engineer - Python/MVC (Remote)",
+      "company": "UnitedHealth Group",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-24",
+      "salary_min": 91700,
+      "salary_max": 163700,
+      "salary_text": "$91,700-$163,700/year",
+      "employment_type": "Full-time",
+      "experience_level": "Senior",
+      "source": "Dice / UnitedHealth Group",
+      "url": "https://www.dice.com/job-detail/85b7fd96-6904-4633-a2bb-28ebd288d28f",
+      "description_snippet": "Build data-driven web applications for UHG\u2019s Advisory Board technology organization. The full-time remote role calls for Python, React, MVC, REST APIs, relational databases and SQL, ETL, cloud-native development, Docker, Kubernetes, and Agile delivery.",
+      "key_skills": [
+        "Python",
+        "React",
+        "REST APIs",
+        "SQL",
+        "Docker",
+        "Kubernetes",
+        "Cloud",
+        "ETL"
+      ],
+      "benefits_highlights": [
+        "Annual salary range disclosed",
+        "Remote work within the U.S.",
+        "UHG benefits and career development"
+      ],
+      "match_score": 89,
+      "match_reasons": [
+        "Strong Python, SQL, React, and API fit",
+        "Docker/Kubernetes and cloud overlap",
+        "Healthcare technology organization",
+        "Remote full-time U.S. role"
+      ]
+    },
+    {
       "title": "Java Spring Boot Software Engineer (supporting NOAA)",
       "company": "ASRC Federal",
       "location": "Remote (US)",
@@ -4719,6 +4960,40 @@
       ]
     },
     {
+      "id": "magpie-health-analytics-full-stack-developer-java-python-js-2026-10-25",
+      "title": "Full Stack Developer (Java/Python/JS)",
+      "company": "Magpie Health Analytics",
+      "location": "Remote (US)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-25",
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": "Not disclosed",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/q-java-full-stack-developer-l-various-remote-jobs.html",
+      "description_snippet": "Full-time remote full-stack developer supporting healthcare clients\u2019 business needs. The search listing identifies Java, Python, and JavaScript in the role title; salary and detailed benefits were not disclosed in the snippet.",
+      "key_skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "Full-stack development",
+        "Healthcare analytics",
+        "APIs",
+        "SQL"
+      ],
+      "benefits_highlights": [],
+      "match_score": 88,
+      "match_reasons": [
+        "Java and Python both match Liam\u2019s skills",
+        "Full-stack work with healthcare clients",
+        "Remote full-time role"
+      ]
+    },
+    {
       "title": "Java / Spring Boot Software Developer - REMOTE",
       "company": "General Dynamics Information Technology",
       "location": "Remote (US)",
@@ -4914,6 +5189,47 @@
         "Java engineering role",
         "Remote U.S. full-time listing",
         "High-volume transaction systems"
+      ]
+    },
+    {
+      "id": "rula-staff-software-engineer-provider-growth-activation-remote-2026-10-09",
+      "title": "Staff Software Engineer - Provider Growth & Activation (Remote)",
+      "company": "Rula",
+      "location": "Remote (US; excludes Hawaii)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-09",
+      "salary_min": 192000,
+      "salary_max": 240000,
+      "salary_text": "$192,000-$240,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Staff",
+      "source": "Built In / Rula",
+      "url": "https://builtin.com/job/staff-software-engineer-provider-growth-activation-remote/11486114",
+      "description_snippet": "Build scalable distributed systems and full-stack web applications supporting provider acquisition, onboarding, and marketplace supply growth. The staff engineer leads technical initiatives and mentors teams; stated tools include React, TypeScript, Node.js, Kafka, AWS, Docker, and Kubernetes.",
+      "key_skills": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Kafka",
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "SQL"
+      ],
+      "benefits_highlights": [
+        "100% remote work",
+        "Health, dental, and vision benefits",
+        "Home-office and connectivity stipend",
+        "Paid parental leave"
+      ],
+      "match_score": 87,
+      "match_reasons": [
+        "React and API/full-stack overlap",
+        "AWS, Docker, and Kubernetes align with infrastructure skills",
+        "Healthcare marketplace domain",
+        "Remote full-time U.S. role"
       ]
     },
     {
@@ -5393,6 +5709,125 @@
       ]
     },
     {
+      "id": "rula-staff-software-engineer-provider-remote-2026-10-09",
+      "title": "Staff Software Engineer - Provider (Remote)",
+      "company": "Rula",
+      "location": "Remote (US; excludes Hawaii)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-09",
+      "salary_min": 192000,
+      "salary_max": 240000,
+      "salary_text": "$192,000-$240,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Staff",
+      "source": "Built In / Rula",
+      "url": "https://builtin.com/job/staff-software-engineer-provider-remote/11604142",
+      "description_snippet": "Lead architecture and engineering for Rula\u2019s provider onboarding systems, building scalable database-backed products and workflows for pricing, payments, client panels, and forms. The role is remote-first and includes technical leadership and cross-functional delivery.",
+      "key_skills": [
+        "SQL",
+        "Microservices",
+        "AWS",
+        "Kafka",
+        "Node.js",
+        "NoSQL",
+        "APIs",
+        "Distributed systems"
+      ],
+      "benefits_highlights": [
+        "100% remote work",
+        "Health, dental, and vision benefits",
+        "Home-office and connectivity stipend",
+        "Paid parental leave"
+      ],
+      "match_score": 84,
+      "match_reasons": [
+        "Healthcare technology and provider workflow experience",
+        "SQL and API-oriented product work",
+        "Remote full-time U.S. role"
+      ]
+    },
+    {
+      "id": "jorie-ai-software-engineer-2026-10-09",
+      "title": "Software Engineer",
+      "company": "Jorie AI",
+      "location": "Remote in Oak Brook, IL",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-09",
+      "salary_min": 90000,
+      "salary_max": 120000,
+      "salary_text": "$90,000-$120,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Level",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/q-Software-Engineer-C2c-l-Remote-jobs.html",
+      "description_snippet": "Remote full-time software engineering role at healthcare AI company Jorie AI. The listing highlights integration with third-party healthcare software, including EHR/EMR and billing systems, and reports a salary range of $90,000-$120,000.",
+      "key_skills": [
+        "Python",
+        "REST APIs",
+        "EHR/EMR integration",
+        "Healthcare software",
+        "SQL",
+        "Microservices",
+        "Full-stack development"
+      ],
+      "benefits_highlights": [
+        "401(k) matching up to 4%",
+        "Health insurance",
+        "Full-time remote work"
+      ],
+      "match_score": 84,
+      "match_reasons": [
+        "Healthcare software integration experience",
+        "API, database, and backend overlap",
+        "Python is a strong match",
+        "Remote full-time role"
+      ]
+    },
+    {
+      "id": "erie-and-niagara-insurance-association-java-developer-2026-10-26",
+      "title": "Java Developer",
+      "company": "Erie and Niagara Insurance Association",
+      "location": "Williamsville, NY",
+      "location_type": "Hybrid",
+      "is_wny": true,
+      "is_remote": false,
+      "posted_date": "2026-10-26",
+      "salary_min": 75000,
+      "salary_max": 110000,
+      "salary_text": "$75,000-$110,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Mid-Senior",
+      "source": "Indeed",
+      "url": "https://www.indeed.com/q-developer-l-lewiston,-ny-jobs.html",
+      "description_snippet": "Full-time WNY Java Developer role maintaining and building business software applications. The listing cites Java, object-oriented design, SQL Server, web services, .NET, HTML/CSS/JavaScript, and possible hybrid scheduling after training.",
+      "key_skills": [
+        "Java",
+        "SQL Server",
+        "REST/Web services",
+        "Object-oriented design",
+        ".NET",
+        "JavaScript",
+        "HTML/CSS"
+      ],
+      "benefits_highlights": [
+        "Health, dental, and vision insurance",
+        "401(k) with up to 6% company match",
+        "Pension",
+        "Paid time off"
+      ],
+      "match_score": 84,
+      "match_reasons": [
+        "Java and SQL match",
+        "Full-time local software development role",
+        "Healthcare benefits and hybrid eligibility",
+        "WNY location (+4)"
+      ]
+    },
+    {
       "id": "gitlab-intermediate-backend-engineer-amer-remote-2026-10-04",
       "title": "Intermediate Backend Engineer, AMER",
       "company": "GitLab",
@@ -5468,6 +5903,46 @@
         "Java and Python overlap",
         "Remote U.S. role",
         "CI/CD and systems engineering"
+      ]
+    },
+    {
+      "id": "rula-staff-software-engineer-healthcare-marketplace-remote-2026-10-01",
+      "title": "Staff Software Engineer - Healthcare Marketplace (Remote)",
+      "company": "Rula",
+      "location": "Remote (US; excludes Hawaii)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-01",
+      "salary_min": 192000,
+      "salary_max": 240000,
+      "salary_text": "$192,000-$240,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Staff",
+      "source": "Built In / Rula",
+      "url": "https://builtin.com/job/staff-software-engineer-remote/10808654",
+      "description_snippet": "Build scalable distributed systems for Rula\u2019s Marketplace Health Engine, improving provider utilization, marketplace efficiency, and patient access. The role designs backend services, APIs, and data-intensive systems and leads cross-team projects from discovery through production.",
+      "key_skills": [
+        "Backend services",
+        "REST APIs",
+        "Distributed systems",
+        "SQL",
+        "Microservices",
+        "Data systems",
+        "AWS",
+        "System design"
+      ],
+      "benefits_highlights": [
+        "100% remote work",
+        "Health, dental, and vision benefits",
+        "Home-office and connectivity stipend",
+        "Paid parental leave"
+      ],
+      "match_score": 83,
+      "match_reasons": [
+        "Healthcare product and data-intensive backend work",
+        "APIs and distributed systems overlap",
+        "Remote full-time U.S. role"
       ]
     },
     {
@@ -5589,6 +6064,46 @@
         "Kubernetes/Docker overlap",
         "Full-time remote U.S. role",
         "High-impact infrastructure scope"
+      ]
+    },
+    {
+      "id": "rula-staff-software-engineer-referrals-conversions-remote-2026-10-10",
+      "title": "Staff Software Engineer - Referrals & Conversions (Remote)",
+      "company": "Rula",
+      "location": "Remote (US; excludes Hawaii)",
+      "location_type": "Remote",
+      "is_wny": false,
+      "is_remote": true,
+      "posted_date": "2026-10-10",
+      "salary_min": 192000,
+      "salary_max": 240000,
+      "salary_text": "$192,000-$240,000/year",
+      "employment_type": "Full-time",
+      "experience_level": "Staff",
+      "source": "Built In / Rula",
+      "url": "https://builtin.com/job/staff-software-engineer-referrals-conversions-remote/11474948",
+      "description_snippet": "Design and evolve scalable referral, partner-data, and patient-booking systems for Rula\u2019s healthcare marketplace. The staff engineer drives technical strategy, backend services and data systems, and cross-functional delivery while remaining hands-on.",
+      "key_skills": [
+        "Backend services",
+        "APIs",
+        "Distributed systems",
+        "SQL",
+        "Microservices",
+        "Data integration",
+        "System design",
+        "Testing"
+      ],
+      "benefits_highlights": [
+        "100% remote work",
+        "Health, dental, and vision benefits",
+        "Home-office and connectivity stipend",
+        "Paid parental leave"
+      ],
+      "match_score": 82,
+      "match_reasons": [
+        "Healthcare data and patient-workflow systems",
+        "Backend and API development fit",
+        "Remote full-time U.S. role"
       ]
     },
     {
